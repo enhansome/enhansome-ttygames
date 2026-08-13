@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 22 | 🌐 Java | 📅 2026-08-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-13
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 22 | 🌐 Java | 📅 2026-08-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-13
 
 ### Let it Ride
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 689 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 690 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 5 | 🌐 Lean | 📅 2026-08-13
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 9 | 🌐 Lean | 📅 2026-08-13
 
 ### taipan
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 631 | 🐛 2 | 🌐 Go | 📅 2025-03-28
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 632 | 🐛 2 | 🌐 Go | 📅 2025-03-28
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
