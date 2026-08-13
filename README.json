@@ -1,0 +1,1832 @@
+{
+  "items": [
+    {
+      "description": "To the extent possible under law, Sergey Bronnikov has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "is bloody 2D action deathmatch-like game.\nWebsite: https://github.com/hackndev/0verkill",
+      "items": [],
+      "title": "0verkill"
+    },
+    {
+      "description": "is a clone of 2048 game.\nWebsite: https://github.com/mevdschee/2048.c\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
+      "items": [],
+      "title": "2048"
+    },
+    {
+      "description": "is a clone of 2048 game.\nWebsite: https://github.com/Tiehuis/2048-cli\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
+      "items": [],
+      "title": "2048-cli"
+    },
+    {
+      "description": "is a clone of 2048 game.\nWebsite: https://git.causal.agency/play\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)\nPlay:",
+      "items": [],
+      "title": "2048-SSH"
+    },
+    {
+      "description": "is a clone on the highly addictive sliding puzzle 2048. Slide the tiles together to combine them, until you reach the highest one.\nWebsite: http://freshmeat.sourceforge.net/projects/n2048\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
+      "items": [],
+      "title": "n2048"
+    },
+    {
+      "description": "is a clone of \"Moon Patrol\" game.\nWebsite: http://ascii-patrol.com/\nPlay:",
+      "items": [],
+      "title": "ASCII patrol"
+    },
+    {
+      "description": "is a roguelike game of Cowboy Knights and Lurking Horror.\nWebsite: http://aburatan.sourceforge.net/",
+      "items": [],
+      "title": "aburatan"
+    },
+    {
+      "description": "is a turn-based space strategy game.\nWebsite: https://code.google.com/archive/p/ad-astra-game/",
+      "items": [],
+      "title": "ad astra"
+    },
+    {
+      "description": "is a roguelike game ADOM (Ancient Domains of Mystery).\nWebsite: https://www.adom.de/\nWikipedia: https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery",
+      "items": [],
+      "title": "adom"
+    },
+    {
+      "description": "is an exploration game. It's a BSD game.\nWebsite: https://man.openbsd.org/adventure.6\nWikipedia: https://en.wikipedia.org/wiki/Colossal_Cave_Adventure\nPlay:",
+      "items": [],
+      "title": "adventure"
+    },
+    {
+      "description": "is a tactical roguelike game, inspired by the \"Aliens\" movie.\nWebsite: https://alien.chaosforge.org/",
+      "items": [],
+      "title": "alienrl"
+    },
+    {
+      "description": "is a clone of Space Invaders game.\nWebsite: https://www.alessandropira.org/alienwave/aw.html\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders",
+      "items": [],
+      "title": "alienwave"
+    },
+    {
+      "description": "is a roguelike and tactical squad combat game.\nWebsite: http://www.allureofthestars.com/\nPlay:",
+      "items": [],
+      "title": "allureofthestars"
+    },
+    {
+      "description": "is a single-player dungeon exploration game.\nWebsite: https://rephial.org/\nWikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)",
+      "items": [],
+      "title": "angband"
+    },
+    {
+      "description": "is a clone of Minesweeper game solvable without guessing, and the only with von Neumann neighbourhoods.\nWebsite: https://oskog97.com/projects/anonymine/\nPlay:",
+      "items": [],
+      "title": "anonymine"
+    },
+    {
+      "description": "Ambassador of Pain (aop). A very nice and challenging arcade game.\nWebsite: https://raffi.at/view/code/aop",
+      "items": [],
+      "title": "aop"
+    },
+    {
+      "description": "is a clone of Star Trek game.\nWebsite: http://peyre.x10.mx/GWBASIC/index.htm#AppleTrek\nWikipedia: https://en.wikipedia.org/wiki/Apple_Trek",
+      "items": [],
+      "title": "Apple Trek"
+    },
+    {
+      "description": "is a clone of arcade game Arkanoid.\nWebsite: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh\nWikipedia: https://en.wikipedia.org/wiki/Arkanoid",
+      "items": [],
+      "title": "arkanoid-bash"
+    },
+    {
+      "description": "Arkanoid is an arcade game developed by Taito in 1986. Written in Python.\nWebsite: https://blog.yjl.im/2015/12/arkanoid-example-from-pygamii-ascii.html\nWikipedia: https://en.wikipedia.org/wiki/Arkanoid",
+      "items": [],
+      "title": "arkanoid.py"
+    },
+    {
+      "description": "Arkanoid is an arcade game developed by Taito in 1986. Written in Sed.\nWebsite: http://sed.sourceforge.net/local/games/arkanoid.sed.html\nWikipedia: https://en.wikipedia.org/wiki/Arkanoid",
+      "items": [],
+      "title": "arkanoid-sed"
+    },
+    {
+      "description": "Quiz on simple arithmetic. It's a BSD game.\nWebsite: https://man.openbsd.org/arithmetic.6",
+      "items": [],
+      "title": "arithmetic"
+    },
+    {
+      "description": "The ski-jumping ASCII game.\nWebsite: http://freshmeat.sourceforge.net/projects/asciijump",
+      "items": [],
+      "title": "asciijump"
+    },
+    {
+      "description": "ASCIIpOrtal is a text based puzzle game inspired by the popular video game.\nWebsite: https://github.com/cymonsgames/ASCIIpOrtal",
+      "items": [],
+      "title": "ASCIIpOrtal"
+    },
+    {
+      "description": "Chess program with AI having a vintage linux terminal interface.\nWebsite: https://github.com/Parigyan/ASCII-Chess",
+      "items": [],
+      "title": "ASCII-Chess"
+    },
+    {
+      "description": "Free space combat/exploration/trading game.\nWebsite: http://www.asciisector.net/",
+      "items": [],
+      "title": "asciisector"
+    },
+    {
+      "description": "Astwar is a ncurses based game that features two little ships on each side of the screen shooting each other.\nWebsite: https://savannah.nongnu.org/projects/astwar",
+      "items": [],
+      "title": "astwar"
+    },
+    {
+      "description": "Air traffic controller game. It's a BSD game.\nWebsite: https://man.openbsd.org/atc.6",
+      "items": [],
+      "title": "atc"
+    },
+    {
+      "description": "Rogue-like game with easy ADOM-like user interface.\nWebsite: http://avanor.sourceforge.net/",
+      "items": [],
+      "title": "avanor"
+    },
+    {
+      "description": "Pseudo-3D shooter written completely in gawk using raycasting technique\nWebsite: https://github.com/TheMozg/awk-raycaster",
+      "items": [],
+      "title": "awkaster"
+    },
+    {
+      "description": "A backgammon game; you can play against the computer. It's a BSD game.\nWebsite: https://man.openbsd.org/backgammon.6\nWikipedia: https://en.wikipedia.org/wiki/Backgammon",
+      "items": [],
+      "title": "backgammon"
+    },
+    {
+      "description": "A maze game written completely in shell-script.\nWebsite: https://github.com/phoemur/bashmaze",
+      "items": [],
+      "title": "bashmaze"
+    },
+    {
+      "description": "Bastet (short for Bastard Tetris).\nWebsite: http://fph.altervista.org/prog/bastet.html\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "bastet"
+    },
+    {
+      "description": "Uses character-cell graphics with a visual point-and-shoot interface.\nWebsite: http://www.catb.org/~esr/bs/\nWikipedia: https://en.wikipedia.org/wiki/Battleship_(game)",
+      "items": [],
+      "title": "battleships"
+    },
+    {
+      "description": "A tropical adventure game. It's a BSD game.\nWebsite: https://man.openbsd.org/battlestar.6",
+      "items": [],
+      "title": "battlestar"
+    },
+    {
+      "description": "Punched card. It's a BSD game.\nWebsite: https://man.openbsd.org/bcd.6\nWikipedia: https://en.wikipedia.org/wiki/Punched_card",
+      "items": [],
+      "title": "bcd"
+    },
+    {
+      "description": "The game Beasts is a Linux version of the old DOS game called Beast.\nWebsite: https://peteg.org/beasts/beasts.html\nWikipedia: https://en.wikipedia.org/wiki/Beast_(video_game)",
+      "items": [],
+      "title": "beasts"
+    },
+    {
+      "description": "Matching game with the goal of getting a group of four connected gems, written with ncurses.\nWebsite: https://github.com/Pentachoron-Labs/Behacked\nWikipedia: https://en.wikipedia.org/wiki/Bejeweled",
+      "items": [],
+      "title": "Behacked"
+    },
+    {
+      "description": "A highly conceptual game in which you interact with abstract concepts and mathematical entities as if they were tangible.\nWebsite: https://www.wurb.com/if.php/game/211\nPlay:",
+      "items": [],
+      "title": "beyond the tesseract"
+    },
+    {
+      "description": "A block-based puzzle game.",
+      "items": [],
+      "title": "blocks"
+    },
+    {
+      "description": "The Blue Moon card solitaire.\nWebsite: http://www.catb.org/~esr/bluemoon/",
+      "items": [],
+      "title": "bluemoon"
+    },
+    {
+      "description": "a black-jack card game.\nPlay:",
+      "items": [],
+      "title": "bj"
+    },
+    {
+      "description": "Bootable minesweeper game in a 512-byte boot sector.\nWebsite: https://github.com/io12/BootMine\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "BootMine"
+    },
+    {
+      "description": "is a roguelike game that fits in a boot sector (510 bytes).\nWebsite: https://github.com/nanochess/bootRogue",
+      "items": [],
+      "title": "BootRogue"
+    },
+    {
+      "description": "Word search game. It's a BSD game.\nWebsite: https://man.openbsd.org/boggle.6\nWikipedia: https://en.wikipedia.org/wiki/Boggle\nPlay:",
+      "items": [],
+      "title": "boggle"
+    },
+    {
+      "description": "Clone of the old Blitz16 game on Commodore 16/Plus 4.\nWebsite: https://packages.debian.org/en/sid/i386/games/bombardier",
+      "items": [],
+      "title": "bombardier"
+    },
+    {
+      "description": "A Boulder Dash game clone for your favorite terminal. You are trapped in the CAVEZ of PHEAR, your mission is to escape through all the caves and make it out alive. To escape through a cave you will have to find all the diamonds located in it. Once you've found all the diamonds, their powers combined will help you get to the next cave, one step closer to freedom.\nWikipedia: https://en.wikipedia.org/wiki/Boulder_Dash",
+      "items": [],
+      "title": "boulder dash"
+    },
+    {
+      "description": "Python bowling game using the Blessed terminal library.\nWebsite: https://github.com/haliphax/pybowl",
+      "items": [],
+      "title": "bowling"
+    },
+    {
+      "description": "A nice version of the mastermind game.\nWebsite: https://sourceforge.net/projects/braincurses/",
+      "items": [],
+      "title": "braincurses"
+    },
+    {
+      "description": "A game of bricks and paddle on one boot sector (510 bytes).\nWebsite: https://github.com/nanochess/bricks",
+      "items": [],
+      "title": "Bricks"
+    },
+    {
+      "description": "Port of the Bricks boot sector game to (16-bit) C.\nWebsite: https://github.com/jaens/bricks-cport",
+      "items": [],
+      "title": "Bricks"
+    },
+    {
+      "description": "Brogue is a Roguelike game.\nWebsite: https://sites.google.com/site/broguegame/",
+      "items": [],
+      "title": "brogue"
+    },
+    {
+      "description": "Battleships game. It's a BSD game.\nWebsite: https://man.openbsd.org/bs.6\nWikipedia: https://en.wikipedia.org/wiki/Battleship_%28game%29",
+      "items": [],
+      "title": "bs"
+    },
+    {
+      "description": "decrypt caesar cyphers\nWebsite: https://man.openbsd.org/caesar.6\nWikipedia: https://en.wikipedia.org/wiki/Caesar_cipher",
+      "items": [],
+      "title": "caesar"
+    },
+    {
+      "description": "The solitaire card game canfield. It's a BSD game.\nWebsite: https://man.openbsd.org/canfield.6\nWikipedia: https://en.wikipedia.org/wiki/Canfield_%28solitaire%29",
+      "items": [],
+      "title": "canfield"
+    },
+    {
+      "description": "a multi-player card game, written by Hero\nPlay:",
+      "items": [],
+      "title": "Caribbean Stud"
+    },
+    {
+      "description": "is a roguelike set in a post-apocalyptic world.\nWebsite: https://web.archive.org/web/20190209031801/http://en.cataclysmdda.com/\nWikipedia: https://en.wikipedia.org/wiki/Cataclysm:_Dark_Days_Ahead",
+      "items": [],
+      "title": "cataclysm"
+    },
+    {
+      "description": "is a boulder dash / digger like game.\nWebsite: http://web.archive.org/web/20140627005101/http://www.x86.no/cavezofphear/",
+      "items": [],
+      "title": "cavez of phear"
+    },
+    {
+      "description": "is a clone of the classic Battleship game.\nWebsite: https://github.com/gnomengineer/cBattleship",
+      "items": [],
+      "title": "cbattleship"
+    },
+    {
+      "description": "is a set of sliding-block puzzles.\nWebsite: https://www.muppetlabs.com/~breadbox/software/cgames.html",
+      "items": [],
+      "title": "cblocks"
+    },
+    {
+      "description": "is a two-player board game.\nPlay:",
+      "items": [],
+      "title": "checkers"
+    },
+    {
+      "description": "is a chess game implemented in sed utility.\nWebsite: https://github.com/bolknote/SedChess",
+      "items": [],
+      "title": "chess"
+    },
+    {
+      "description": "is a clone of Xonix game.\nWebsite: https://bitbucket.org/garnold/conix/\nWikipedia: https://en.wikipedia.org/wiki/Xonix",
+      "items": [],
+      "title": "conix"
+    },
+    {
+      "description": "is a chess-playing program.\nWebsite: https://www.gnu.org/software/chess/\nPlay:",
+      "items": [],
+      "title": "gnuchess"
+    },
+    {
+      "description": "is a chess game against the Stockfish engine.\nWebsite: https://github.com/nickzuber/chs",
+      "items": [],
+      "title": "chs"
+    },
+    {
+      "description": "is a highly unusual \"infinite\" adventure game.\nWebsite: https://www.mipmip.org/C_games/",
+      "items": [],
+      "title": "chimaera"
+    },
+    {
+      "description": "is a challenging puzzle game.\nWebsite: http://www.level7.org.uk/chroma/\nPlay:",
+      "items": [],
+      "title": "chroma"
+    },
+    {
+      "description": "is a clone of Khet laser board game.\nWebsite: https://mbays.freeshell.org/ckhet/\nPlay:",
+      "items": [],
+      "title": "ckhet"
+    },
+    {
+      "description": "is a clone of Color Lines game.\nWebsite: http://web.archive.org/web/20190327173340/http://manticore.2y.net/prj/clines-a.html\nWikipedia: https://ru.wikipedia.org/wiki/Color_Lines",
+      "items": [],
+      "title": "clines"
+    },
+    {
+      "description": "is a clone of Color Lines game.\nWebsite: https://github.com/veselov/clines\nWikipedia: https://ru.wikipedia.org/wiki/Color_Lines",
+      "items": [],
+      "title": "clines"
+    },
+    {
+      "description": "is a clone of Minesweeper game.\nWebsite: https://www.muppetlabs.com/~breadbox/software/cgames.html\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "cmines"
+    },
+    {
+      "description": "is a clone of Nibbles game with good and smooth animations.\nWebsite: http://cnibbles.sourceforge.net\nWikipedia: https://en.wikipedia.org/wiki/Nibbles_(video_game)",
+      "items": [],
+      "title": "cnibbles"
+    },
+    {
+      "description": "is a two-player slot game.\nPlay:",
+      "items": [],
+      "title": "Connect Four"
+    },
+    {
+      "description": "is a clone of Connect4 game.\nWebsite: https://github.com/badescunicu/connect4\nWikipedia: https://en.wikipedia.org/wiki/Connect_Four",
+      "items": [],
+      "title": "connect4"
+    },
+    {
+      "description": "is a clone of the old Amiga Conquest text-based game.\nWebsite: https://github.com/beejjorgensen/conquest",
+      "items": [],
+      "title": "beejjorgensen-conquest"
+    },
+    {
+      "description": "is a real-time, multi-player space warfare game.\nWebsite: https://github.com/jtrulson/conquest/\nPlay:",
+      "items": [],
+      "title": "jtrulson-conquest"
+    },
+    {
+      "description": "is a multiplayer galactic game.\nWebsite: https://sourceforge.net/projects/gnu-conquest/",
+      "items": [],
+      "title": "gnu-conquest"
+    },
+    {
+      "description": "is a programming game in which two or more battle programs (called “warriors”) compete for control of a virtual computer.\nWebsite: http://www.corewar.info/",
+      "items": [],
+      "title": "corewar"
+    },
+    {
+      "description": "is a card game; it is a collection of many solitaire/patience games.\nWebsite: http://cpat.sourceforge.net/",
+      "items": [],
+      "title": "cpat"
+    },
+    {
+      "description": "is a single-player, role-playing roguelike game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest to rescue the mystifyingly fabulous Orb of Zot.\nWebsite: https://crawl.develz.org/wordpress/",
+      "items": [],
+      "title": "crawl"
+    },
+    {
+      "description": "is a card game cribbage. It's a BSD game.\nWebsite: https://man.openbsd.org/cribbage.6\nWikipedia: https://en.wikipedia.org/wiki/Cribbage",
+      "items": [],
+      "title": "cribbage"
+    },
+    {
+      "description": "Escape From The Crypt.\nWebsite: https://code.google.com/archive/p/cryptrover/",
+      "items": [],
+      "title": "cryptrover"
+    },
+    {
+      "description": "is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).\nWebsite: https://github.com/nielssp/csol\nWikipedia: https://en.wikipedia.org/wiki/Solitaire",
+      "items": [],
+      "title": "csol"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://github.com/dominikhackl/ctris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "ctris"
+    },
+    {
+      "description": "is a game with a hacking atmosphere.\nWebsite: https://web.archive.org/web/20130804035452/http://www.uberwall.org/~dash/",
+      "items": [],
+      "title": "cursedmate"
+    },
+    {
+      "description": "is a fast-paced action strategy game.\nWebsite: https://a-nikolaev.github.io/curseofwar/",
+      "items": [],
+      "title": "curse-of-war"
+    },
+    {
+      "description": "is a famous Boulder Dash game for the Atari 800 from 1984.\nWebsite: https://sourceforge.net/projects/ascii-dash/\nWikipedia: https://en.wikipedia.org/wiki/Boulder_Dash",
+      "items": [],
+      "title": "ascii-dash"
+    },
+    {
+      "description": "is a Dots and Boxes game.\nWebsite: https://man.netbsd.org/dab.6",
+      "items": [],
+      "title": "dab"
+    },
+    {
+      "description": "is a tui Go (baduk) board written in python\nWebsite: https://github.com/gsobell/dango",
+      "items": [],
+      "title": "dango"
+    },
+    {
+      "description": "is a multiplayer clone of Star Trek game.\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29\nPlay:",
+      "items": [],
+      "title": "decwars"
+    },
+    {
+      "description": "is a roguelike \"unmake\" of the popular Blizzard game Diablo.\nWebsite: https://diablo.chaosforge.org/",
+      "items": [],
+      "title": "diablorl"
+    },
+    {
+      "description": "is a number of games (The Pawn, The Guild of Thieves, Jinxter, Fish!, Myth, Corruption and Wonderland).\nWebsite: https://www.dettus.net/dMagnetic",
+      "items": [],
+      "title": "dMagnetic"
+    },
+    {
+      "description": "is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.\nWebsite: https://drl.chaosforge.org/\nWikipedia: https://en.wikipedia.org/wiki/DRL_(video_game)",
+      "items": [],
+      "title": "doomrl"
+    },
+    {
+      "description": "is a clone of Drug Wars game about trading drugs.\nWebsite: https://dopewars.sourceforge.io/\nWikipedia: https://en.wikipedia.org/wiki/Drug_Wars_(video_game)\nPlay:",
+      "items": [],
+      "title": "dopewars"
+    },
+    {
+      "description": "is a solitaire card game.\nWebsite: https://feld.me/pub/vga_cardgames-1.3.1.tgz",
+      "items": [],
+      "title": "dsol"
+    },
+    {
+      "description": "is a turn based command line fighting game.\nWebsite: https://sourceforge.net/projects/duelcommander/",
+      "items": [],
+      "title": "duel commander"
+    },
+    {
+      "description": "Yet another port of the classic mainframe game from 1976\nWebsite: https://github.com/infews/dukedomrb\nWikipedia: https://en.wikipedia.org/wiki/Dukedom_(video_game)",
+      "items": [],
+      "title": "dukedomrb"
+    },
+    {
+      "description": "is a text-based roguelike game.\nWebsite: http://www.dungeoncrawl.org/",
+      "items": [],
+      "title": "dungeon crawl"
+    },
+    {
+      "description": "is a single-player fantasy game.\nWebsite: https://www.bay12games.com/dwarves/",
+      "items": [],
+      "title": "dwarf fortress"
+    },
+    {
+      "description": "it is not a game, but text editor with a bunch of text games like chess, sokoban, pong etc.\nWebsite: https://www.emacswiki.org/emacs/CategoryGames",
+      "items": [],
+      "title": "emacs"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://www.roguebasin.com/index.php?title=Encircled",
+      "items": [],
+      "title": "encircled"
+    },
+    {
+      "description": "is a puzzle game where items have to be collected in the right order.\nWebsite: https://www.chiark.greenend.org.uk/~sgtatham/enigma/",
+      "items": [],
+      "title": "enigma"
+    },
+    {
+      "description": "is a clone of Angband.\nWebsite: http://eyangband.sourceforge.net/\nWikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)",
+      "items": [],
+      "title": "eyangband"
+    },
+    {
+      "description": "Website: https://www.bbcelite.com/\nWikipedia: https://en.wikipedia.org/wiki/Elite_(video_game)",
+      "items": [],
+      "title": "elite"
+    },
+    {
+      "description": "is a factor a number, generate primes.\nWebsite: https://man.openbsd.org/factor.6\nWikipedia: https://en.wikipedia.org/wiki/Factorization",
+      "items": [],
+      "title": "factor"
+    },
+    {
+      "description": "is a text bootsector game.\nWebsite: https://github.com/nanochess/fbird",
+      "items": [],
+      "title": "fbird"
+    },
+    {
+      "description": "is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing.\nWebsite: http://tldp.org/LDP/abs/html/contributed-scripts.html#FIFTEEN",
+      "items": [],
+      "title": "Fifteen Puzzle"
+    },
+    {
+      "description": "is a traditional children's card game. It's a BSD game.\nWebsite: https://man.openbsd.org/fish.6\nWikipedia: https://en.wikipedia.org/wiki/Go_Fish",
+      "items": [],
+      "title": "fish"
+    },
+    {
+      "description": "A basic console-based tower defense game/engine.\nWebsite: https://github.com/odditica/fiTD",
+      "items": [],
+      "title": "fiTD"
+    },
+    {
+      "description": "Simple game in terminal to flood a grid of colours to one colour.\nWebsite: https://github.com/smmspiers/FloodIt\nWikipedia: https://en.wikipedia.org/wiki/7_Colors",
+      "items": [],
+      "title": "FloodIt"
+    },
+    {
+      "description": "is based on the BSD robots game, but with a third dimension of movement.\nWebsite: https://github.com/bunburya/flying-robots",
+      "items": [],
+      "title": "flying-robots"
+    },
+    {
+      "description": "print a random, hopefully interesting, adage.\nWebsite: https://man.openbsd.org/fortune.6\nWikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29",
+      "items": [],
+      "title": "fortune"
+    },
+    {
+      "description": "is a clone of the popular and addictive solitaire game.\nWebsite: https://www.linusakesson.net/software/freecell.php\nPlay:",
+      "items": [],
+      "title": "freecell"
+    },
+    {
+      "description": "Fork with improvements over ncurses freecell implementation by Linus Akesson (solver support, better metamoves, various usability improvements).\nWebsite: https://github.com/ostrosablin/freecell",
+      "items": [],
+      "title": "freecell-ng"
+    },
+    {
+      "description": "is a clone of Minesweeper game.\nWebsite: https://code.google.com/archive/p/freesweep/\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "freesweep"
+    },
+    {
+      "description": "is a clone of Minesweeper game.\nWebsite: https://github.com/rwestlund/freesweep\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "freesweep-rwestlund"
+    },
+    {
+      "description": "is a clone of Minesweeper game.\nWebsite: https://sourceforge.net/projects/fkmines/\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "fkmines"
+    },
+    {
+      "description": "is a roguelike game with an entertaining atmosphere.\nWebsite: https://frozendepths.net/",
+      "items": [],
+      "title": "frozen depths"
+    },
+    {
+      "description": "is an interpreter for Infocom games and other Z-machine games.\nWebsite: https://davidgriffith.gitlab.io/frotz/",
+      "items": [],
+      "title": "frotz"
+    },
+    {
+      "description": "is a shooting game.\nWebsite: https://gitlab.com/Heagan/ft_retro",
+      "items": [],
+      "title": "ft_retro"
+    },
+    {
+      "description": "Find the lost lifeboats from an interstellar liner.\nWebsite: http://www.catb.org/esr/galaxis/",
+      "items": [],
+      "title": "galaxis"
+    },
+    {
+      "description": "11 arcade games\nPlay:",
+      "items": [],
+      "title": "gameroom"
+    },
+    {
+      "description": "is the first roguelike to explore the world of “mechas” (giant robots).\nWebsite: http://www.gearheadrpg.com/",
+      "items": [],
+      "title": "gearhead"
+    },
+    {
+      "description": "is a clone of a Snake game.\nWebsite: https://github.com/cyphar/ascii-snake\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "ascii-snake"
+    },
+    {
+      "description": "is the game of Go.\nWebsite: https://www.gnu.org/software/gnugo/\nWikipedia: https://en.wikipedia.org/wiki/Go_(game)",
+      "items": [],
+      "title": "gnugo"
+    },
+    {
+      "description": "is a clone of Skifree, the old Windows game.\nWebsite: https://sourceforge.net/projects/gnuski/",
+      "items": [],
+      "title": "gnuski"
+    },
+    {
+      "description": "is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.\nWebsite: https://github.com/goblinhack/goblinhack",
+      "items": [],
+      "title": "goblinhack"
+    },
+    {
+      "description": "is a game where the object is to get 5 in a row horizontally, vertically or diagonally on a 19 by 19 grid. It's a BSD game.\nWebsite: https://man.openbsd.org/gomoku.6\nWikipedia: https://en.wikipedia.org/wiki/Gomoku",
+      "items": [],
+      "title": "gomoku"
+    },
+    {
+      "description": "«Гопник-2» - это продолжение культовой текстовой игры «Гопник», жанр которой наиболее близок к жанру Hack and Slash RPG. Во второй части полностью сохранена изначальная концепция, улучшен алгоритм генерирования противников в соответствии с текущим состоянием главного героя, выровнен баланс прохождения и прокачки, добавлено три уровня сложности.\nWebsite: https://github.com/bolknote/gopnik2",
+      "items": [],
+      "title": "gopnik2"
+    },
+    {
+      "description": "is a a clone of \"Scorched Earth\" game.\nWebsite: https://github.com/zladovan/gorched",
+      "items": [],
+      "title": "gorched"
+    },
+    {
+      "description": "is a casino game with 5 slot machines, 3 roulette tables including russian roulette, 2 dice games, a bank and stock market.\nWebsite: https://sourceforge.net/projects/gpcslots2/",
+      "items": [],
+      "title": "gpcslots2"
+    },
+    {
+      "description": "is a grand digital clock.\nWebsite: https://man.openbsd.org/grdc.6",
+      "items": [],
+      "title": "grdc"
+    },
+    {
+      "description": "is a puzzle game with numbers. You must remove as many numbers as you can according to the rules.\nWebsite: http://www.catb.org/~esr/greed/\nPlay:",
+      "items": [],
+      "title": "greed"
+    },
+    {
+      "description": "is an Exploring The Dungeons of Doom. It's a BSD game.\nWebsite: https://man.openbsd.org/hack.6\nPlay:",
+      "items": [],
+      "title": "hack"
+    },
+    {
+      "description": "is a roguelike game based on Conway’s Game of Life.\nWebsite: http://www.roguebasin.com/index.php?title=HackOfLife",
+      "items": [],
+      "title": "hack of life"
+    },
+    {
+      "description": "is a roguelike game, clone of Angband game.\nWebsite: https://web.archive.org/web/20170530185753/http://www.mikkolehtinen.net/mist/\nWikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)",
+      "items": [],
+      "title": "halls of mist"
+    },
+    {
+      "description": "is a 1969 text-based game of land and resource management and is one of the earliest computer games.\nWebsite: https://github.com/blt/hamurabi\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
+      "items": [],
+      "title": "hamurabi"
+    },
+    {
+      "description": "is a very old computer game, in which you are the ruler of ancient Samaria, trying to increase the wealth of your country. Here is the 21st century version of it, which is implemented in Python!\nWebsite: https://github.com/wzhishen/hammurabi\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
+      "items": [],
+      "title": "hammurabi"
+    },
+    {
+      "description": "is a computer version of the game hangman. It's a BSD game.\nWebsite: https://man.openbsd.org/hangman.6\nWikipedia: https://en.wikipedia.org/wiki/Hangman_(game)",
+      "items": [],
+      "title": "hangman"
+    },
+    {
+      "description": "is a rogue-like game in which you descend through the nine circles of Hell and find an even more dangerous Hell beyond the city of Dis.\nWebsite: http://freshmeat.sourceforge.net/projects/hellband",
+      "items": [],
+      "title": "hellband"
+    },
+    {
+      "description": "is a implementation of Reversi (a.k.a. Othello), a board game.\nWebsite: https://sourceforge.net/projects/hinversi/",
+      "items": [],
+      "title": "hinversi"
+    },
+    {
+      "description": "is a very simple horserace simulation.\nWebsite: https://pastebin.com/3KvCBg57",
+      "items": [],
+      "title": "Horserace"
+    },
+    {
+      "description": "the puzzle game of HuaRongDao",
+      "items": [],
+      "title": "hrd"
+    },
+    {
+      "description": "The object of the game hunt is to kill off the other players. There are no rooms, no treasures, and no monsters. Instead, you wander around a maze, find grenades, trip mines, and shoot down walls and players. It's a BSD game.\nWebsite: https://man.openbsd.org/hunt.6\nPlay:",
+      "items": [],
+      "title": "hunt"
+    },
+    {
+      "description": "is a fork of BSD hunt with colour and realtime processing.\nWebsite: http://mbays.sdf.org/hunt-ng/\nPlay:",
+      "items": [],
+      "title": "hunt-ng"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://www.roguetemple.com/z/hydra/",
+      "items": [],
+      "title": "hydra slayer"
+    },
+    {
+      "description": "is a game of intergalactic exploration, warfare, and economics. Imperium has no set goal, and fairly flexible rules about what you can do, thus, while a single player could run their own game just for the fun of exploration, they would be missing out on most of the aspects of the game with no one to compete against.\nWebsite: https://empiredirectory.net/",
+      "items": [],
+      "title": "imperium"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://www.dungeon.name\nPlay:",
+      "items": [],
+      "title": "Infinite Cave Adventure"
+    },
+    {
+      "description": "is game of competitive puzzle-design. At its core, this is an abstract turn-based puzzle game in which you pick a lock by co-ordinating a pair of tools to manipulate its mechanism. The locks you pick are designed by other players; once you have figured out the secret of how to pick a lock, you must secure that secret behind a lock of your own devising.\nWebsite: http://mbays.sdf.org/intricacy/\nPlay:",
+      "items": [],
+      "title": "intricacy"
+    },
+    {
+      "description": "is a clone of Space Invaders game in 512 bytes (boot sector).\nWebsite: https://github.com/nanochess/invaders\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders",
+      "items": [],
+      "title": "Invaders"
+    },
+    {
+      "description": "is a clone of Asteroids game.\nWebsite: https://github.com/gabrielvictorcf/just-asteroids\nWikipedia: https://en.wikipedia.org/wiki/Asteroids_(video_game)",
+      "items": [],
+      "title": "just-asteroids"
+    },
+    {
+      "description": "is a clone of Space Invaders game.\nWebsite: https://github.com/macdice/ascii-invaders\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders\nPlay:",
+      "items": [],
+      "title": "ascii-invaders"
+    },
+    {
+      "description": "is a clone of Space Invaders game.\nWebsite: http://ninvaders.sourceforge.net/\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders\nPlay:",
+      "items": [],
+      "title": "ninvaders"
+    },
+    {
+      "description": "is a roguelike game in which your commands are enacted after a few turns' delay.\nWebsite: http://mbays.sdf.org/lagrogue/\nPlay:",
+      "items": [],
+      "title": "lagrogue"
+    },
+    {
+      "description": "Exploring the caverns of Larn. It's a BSD game.\nWebsite: https://man.netbsd.org/larn.6",
+      "items": [],
+      "title": "larn"
+    },
+    {
+      "description": "is a text-based online role-playing game.\nWebsite: http://lord.lordlegacy.com/\nWikipedia: https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon\nPlay:",
+      "items": [],
+      "title": "Legend of the Red Dragon"
+    },
+    {
+      "description": "An ascii railroad simulator in Java\nWebsite: https://github.com/antoniovazquezaraujo/LeTrain",
+      "items": [],
+      "title": "LeTrain"
+    },
+    {
+      "description": "is a boot sector game.\nWebsite: https://github.com/nanochess/lights",
+      "items": [],
+      "title": "lights"
+    },
+    {
+      "description": "The game where your mission is to safely maneuver your lunar module onto the moon's surface.\nWebsite: https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html\nPlay:",
+      "items": [],
+      "title": "Lunar Landing"
+    },
+    {
+      "description": "The game where your mission is to safely maneuver your lunar module onto the moon's surface. This is a port to BESM-6, rewritten from Pascal into C++ into Rust module onto the moon's surface.\nWebsite: https://github.com/sergev/landing-rust",
+      "items": [],
+      "title": "landing-rust"
+    },
+    {
+      "description": "is a puzzle game, roll around your terminal collecting ASCII-art objects.\nWebsite: https://github.com/taviso/katamascii",
+      "items": [],
+      "title": "katamascii"
+    },
+    {
+      "description": "Ambitious dungeon simulator with roguelike elements.\nWebsite: https://keeperrl.com/",
+      "items": [],
+      "title": "keeperrl"
+    },
+    {
+      "description": "a train simulator consisting of creating tracks and stations along a virtually infinite map, and creating trains and earning money by carrying passengers between them.\nWebsite: https://github.com/antoniovazquezaraujo/LeTrain",
+      "items": [],
+      "title": "LeTrain"
+    },
+    {
+      "description": "is a multi-player card game.\nPlay:",
+      "items": [],
+      "title": "Let it Ride"
+    },
+    {
+      "description": "is a real-time word puzzle. Arrange the falling letters into words to score points.\nWebsite: https://www.kyne.com.au/~mark/software/lexter.php",
+      "items": [],
+      "title": "lexter"
+    },
+    {
+      "description": "is a game where you have to fight with your friends against conservative laws.\nWebsite: http://lcs.wikidot.com/start",
+      "items": [],
+      "title": "liberal crime squad"
+    },
+    {
+      "description": "OpenMafia/Werewolf Multiplayer social game with AI to fill in the rest!\nWebsite: https://github.com/servusDei2018/Mafia-Werewolf\nWikipedia: https://en.wikipedia.org/wiki/Mafia_(party_game)",
+      "items": [],
+      "title": "Mafia-Werewolf"
+    },
+    {
+      "description": "Play interactive fiction text adventure games developed by Magnetic Scrolls, including The Pawn, The Guild of Thieves, Jinxter, Curruption, Fish!, Myth, and Wonderland\nWebsite: https://magneticscrolls.net/\nPlay:",
+      "items": [],
+      "title": "Magnetic Scrolls games"
+    },
+    {
+      "description": "is a clone of a simple board game called Mancala.\nWebsite: https://shh.thathost.com/pub-unix/#Mancala",
+      "items": [],
+      "title": "mancala"
+    },
+    {
+      "description": "is a multiplayer clone of Angband game.\nWebsite: https://www.mangband.org/\nWikipedia: https://en.wikipedia.org/wiki/Angband_(video_game)",
+      "items": [],
+      "title": "mangband"
+    },
+    {
+      "description": "Play:",
+      "items": [],
+      "title": "manhunt"
+    },
+    {
+      "description": "memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.\nWebsite: https://github.com/0x501D/memwatch",
+      "items": [],
+      "title": "memwatch"
+    },
+    {
+      "description": "is a clone of Super Mario game inside Vim (text editor).\nWebsite: https://github.com/rbtnn/vim-mario",
+      "items": [],
+      "title": "vim-mario"
+    },
+    {
+      "description": "is a clone of Nintendo’s Dr. Mario.\nWebsite: ftp://ftp.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Nov-06-1994/games/dr_mario.tar.Z\nWikipedia: https://en.wikipedia.org/wiki/Dr._Mario",
+      "items": [],
+      "title": "Dr. Mario"
+    },
+    {
+      "description": "is a clone of the Mastermind game.\nWebsite: https://sourceforge.net/projects/mastermind-nc/",
+      "items": [],
+      "title": "mastermind-nc"
+    },
+    {
+      "description": "is a space war game.",
+      "items": [],
+      "title": "matanza"
+    },
+    {
+      "description": "Go is an ancient oriental strategy game based on the capturing of territory.",
+      "items": [],
+      "title": "mgt"
+    },
+    {
+      "description": "is a racing card game based on the Parker Brothers game Mille Bornes. It's a BSD game.\nWebsite: https://man.openbsd.org/mille.6",
+      "items": [],
+      "title": "mille"
+    },
+    {
+      "description": "is a clone of Minesweeper game but instead of having to uncover all non-mine cells, the player has to defuse all the mines.\nWebsite: https://github.com/christosmarg/minecurses\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "minecurses"
+    },
+    {
+      "description": "is a clone of Minesweeper game with extensive vi(1) keybindings (not just hjkl), mouse control.\nWebsite: https://gir.st/mines.html\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+      "items": [],
+      "title": "minesVIiper"
+    },
+    {
+      "description": "is a game where you must defend cities from missile attack. It’s essentially a clone of Atari’s \"Missile Command\".\nWebsite: ftp://ftp.slackware.org.uk/sbosrcarch/by-name/games/miscom/miscom.tar.gz\nWikipedia: https://en.wikipedia.org/wiki/Missile_Command",
+      "items": [],
+      "title": "miscom"
+    },
+    {
+      "description": "is a Monopoly game. It's a BSD game.\nWebsite: https://man.openbsd.org/monop.6",
+      "items": [],
+      "title": "monop"
+    },
+    {
+      "description": "A sort of monopoly game. At least two players are needed.\nWebsite: https://ibiblio.org/pub/linux/games/multiplayer/monoUSA2.0.tgz",
+      "items": [],
+      "title": "monousa"
+    },
+    {
+      "description": "Moo (a.k.a. Mastermind) supervisor and a very powerful Moo player.\nWebsite: https://www.mipmip.org/C_games/",
+      "items": [],
+      "title": "moo"
+    },
+    {
+      "description": "is a game where you drive some kind of car across the moon's surface.\nWebsite: https://www.seehuhn.de/pages/moon-buggy\nPlay:",
+      "items": [],
+      "title": "moon-buggy"
+    },
+    {
+      "description": "is a game where the goal is to kill off the balrog.\nWebsite: http://web.archive.org/web/20190731112356/http://www-math.bgsu.edu/~grabine/moria.html",
+      "items": [],
+      "title": "moria"
+    },
+    {
+      "description": "A morpion solitaire game implementation in C using ncurses.\nWebsite: https://github.com/gre/morpion-solitaire\nWikipedia: https://en.wikipedia.org/wiki/Join_five",
+      "items": [],
+      "title": "morpion solitaire"
+    },
+    {
+      "description": "is a clone of Snake game.\nWebsite: https://github.com/mogria/msnake\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "msnake"
+    },
+    {
+      "description": "is a clone of Snake game.\nWebsite: http://freshmeat.sourceforge.net/projects/micro-snake\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "microsnake"
+    },
+    {
+      "description": "is a game inspired by Star Trek.\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29\nPlay:",
+      "items": [],
+      "title": "mtrek"
+    },
+    {
+      "description": "Mutant Aliens! sees a spaceship 'dock safely' into the forest of a hostile alien world.\nWebsite: http://www.roguebasin.com/index.php?title=Mutant_Aliens!",
+      "items": [],
+      "title": "mutant aliens"
+    },
+    {
+      "description": "is a game in the genre of Namco's Pac-Man.\nWebsite: https://myman.sourceforge.io/",
+      "items": [],
+      "title": "myman"
+    },
+    {
+      "description": "New BSD Games is a package of 18 text-based modern games.\nWebsite: https://github.com/abakh/nbsdgames",
+      "items": [],
+      "title": "nbsdgames"
+    },
+    {
+      "description": "is a Conway's Game of Life.\nWebsite: https://github.com/mikepierce/ncLife\nWikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "items": [],
+      "title": "nclife"
+    },
+    {
+      "description": "is a single player dungeon exploration game.\nWebsite: https://www.nethack.org/\nPlay:",
+      "items": [],
+      "title": "nethack"
+    },
+    {
+      "description": "is a networked version of t*tris.\nWebsite: https://ftp.fr.openbsd.org/pub/OpenBSD/distfiles/netris-0.52.tar.gz",
+      "items": [],
+      "title": "netris"
+    },
+    {
+      "description": "is a clone of Tetris game featuring competitive online multiplayer.\nWebsite: http://web.archive.org/web/20200112024309/https://git.sr.ht/~tslocum/netris\nWikipedia: https://en.wikipedia.org/wiki/Tetris\nPlay:",
+      "items": [],
+      "title": "go-netris"
+    },
+    {
+      "description": "is a clone of Tetris game featuring competitive online multiplayer.\nWebsite: https://github.com/naclander/netris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "c-netris"
+    },
+    {
+      "description": "is a clone of Tic Tac Toe game.\nWebsite: http://nettoe.sourceforge.net/\nWikipedia: https://en.wikipedia.org/wiki/Tic-tac-toe",
+      "items": [],
+      "title": "nettoe"
+    },
+    {
+      "description": "is a remake of the classic Snake/Nibbles game.\nWebsite: https://www.earth.li/projectpurple/progs/nibbles.html",
+      "items": [],
+      "title": "nibbles"
+    },
+    {
+      "description": "is a mathematical game of strategy.\nWebsite: http://tldp.org/LDP/abs/html/contributed-scripts.html#NIM",
+      "items": [],
+      "title": "nim"
+    },
+    {
+      "description": "is an enhanced and improved rewrite of the historic roguelike game Larn. It tries to maintain the atmosphere and story of the last version of Larn (12.3) while improving gameplay and the user experience.\nWebsite: http://freshmeat.sourceforge.net/projects/nlarn",
+      "items": [],
+      "title": "nlarn"
+    },
+    {
+      "description": "is a logic game similar to Sokoban and Boulder Dash.\nWebsite: http://npush.sourceforge.net/",
+      "items": [],
+      "title": "npush"
+    },
+    {
+      "description": "is a clone of Snake game.\nWebsite: https://sourceforge.net/projects/nsnake/\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "nsnake"
+    },
+    {
+      "description": "is a clone of Sudoku game.\nWebsite: https://www.tbmatuka.com/nsudoku/\nWikipedia: https://en.wikipedia.org/wiki/Sudoku",
+      "items": [],
+      "title": "nsudoku"
+    },
+    {
+      "description": "is a clone of Sudoku game.\nWebsite: https://sourceforge.net/projects/nsuds/\nWikipedia: https://en.wikipedia.org/wiki/Sudoku",
+      "items": [],
+      "title": "nsuds"
+    },
+    {
+      "description": "is a clone of Sudoku game.\nWebsite: https://jubalh.github.io/nudoku/\nWikipedia: https://en.wikipedia.org/wiki/Sudoku",
+      "items": [],
+      "title": "nudoku"
+    },
+    {
+      "description": "is a puzzle game collection (N-curses p-UZZLE).\nWebsite: https://github.com/dead-end/nuzzle",
+      "items": [],
+      "title": "nuzzle"
+    },
+    {
+      "description": "a classic Tron game, for your terminal.\nWebsite: https://github.com/gsobell/lightcycle\nWikipedia: https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay",
+      "items": [],
+      "title": "lightcycle"
+    },
+    {
+      "description": "is a host-to-host strategy game.\nWebsite: http://freshmeat.sourceforge.net/projects/okiworld",
+      "items": [],
+      "title": "okiworld"
+    },
+    {
+      "description": "is a remake of Broderbund’s Loderunner.\nWebsite: http://culot.org/public/Code/oldrunner.html",
+      "items": [],
+      "title": "oldrunner"
+    },
+    {
+      "description": "is a rogue-style game of dungeon exploration.\nWebsite: http://www.alcyone.com/max/projects/omega/",
+      "items": [],
+      "title": "omega"
+    },
+    {
+      "description": "Colossal Cave Adventure (also known as ADVENT, Colossal Cave, or Adventure) is one of the earliest computer adventure games and a precursor form of role playing video game. The original version was designed by Will Crowther, a programmer and caving enthusiast who based the layout on part of the Mammoth Cave system in Kentucky.\nWebsite: https://gitlab.com/esr/open-adventure",
+      "items": [],
+      "title": "Open Adventure"
+    },
+    {
+      "description": "Recreation of the Oregon Trail game, written in Python.\nWebsite: https://github.com/yudonglin/Oregon-Trail\nWikipedia: https://en.wikipedia.org/wiki/The_Oregon_Trail_(1971_video_game)",
+      "items": [],
+      "title": "Oregon-Trail"
+    },
+    {
+      "description": "is a two-player board game.\nWebsite: https://web.archive.org/web/20130607084226/http://david.weekly.org/othello/index.php3\nPlay:",
+      "items": [],
+      "title": "othello"
+    },
+    {
+      "description": "is an aggressive 3D Noughts & Crosses player.\nWebsite: https://www.mipmip.org/C_games/",
+      "items": [],
+      "title": "ox3d"
+    },
+    {
+      "description": "is a clone of Pacman game.\nWebsite: http://slaout.linux62.org/pacman/index.html\nPlay:",
+      "items": [],
+      "title": "pacman"
+    },
+    {
+      "description": "is a clone of Pacman game.\nWebsite: http://freshmeat.sourceforge.net/projects/asciipacman/",
+      "items": [],
+      "title": "pacman"
+    },
+    {
+      "description": "is a clone of Pacman.\nWebsite: https://sites.google.com/site/doctormike/pacman.html",
+      "items": [],
+      "title": "pacman"
+    },
+    {
+      "description": "is a clone of Pacman game.\nWebsite: http://antimirov.net/it/pacman/\nPlay:",
+      "items": [],
+      "title": "pacman"
+    },
+    {
+      "description": "Platform Arcade Game is an ncurses based game that allows you to create your own maps and play with them, including features such as moving-platforms,enemies, rules to open/close doors, and items.\nWebsite: https://pkgsrc.se/games/pag & http://ftp.lip6.fr/pub/minix/distfiles/local/3.3.0/pag-0.92.tar.gz",
+      "items": [],
+      "title": "PAG"
+    },
+    {
+      "description": "is a dice-based puzzle game.\nWebsite: http://tldp.org/LDP/abs/html/contributed-scripts.html#PETALS",
+      "items": [],
+      "title": "Petals Around The Rose"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://packages.debian.org/sid/games/petris",
+      "items": [],
+      "title": "petris"
+    },
+    {
+      "description": "is a interterminal fantasy game. It's a BSD game.\nWebsite: https://man.openbsd.org/phantasia.6",
+      "items": [],
+      "title": "phantasia"
+    },
+    {
+      "description": "is a clone of Pacman game in 512 bytes (boot sector or COM file).\nWebsite: https://github.com/nanochess/pillman",
+      "items": [],
+      "title": "pillman"
+    },
+    {
+      "description": "is game in Assembly that works without OS.\nWebsite: https://github.com/tsoding/pinpog",
+      "items": [],
+      "title": "Ping-Pong-like"
+    },
+    {
+      "description": "is a three-player card game.\nPlay:",
+      "items": [],
+      "title": "pinochle"
+    },
+    {
+      "description": "is a clone of Gomoku game.\nWebsite: https://github.com/berk76/piskworks",
+      "items": [],
+      "title": "piskworks"
+    },
+    {
+      "description": "is an old school horizontal scroller 'Shoot Them All' game.\nWebsite: https://github.com/vaniacer/piu-piu-SH",
+      "items": [],
+      "title": "piu-piu-SH"
+    },
+    {
+      "description": "is a small puzzle game.\nWebsite: https://web.archive.org/web/20080704073046/http://bilious.homelinux.org/~paxed/plonx/",
+      "items": [],
+      "title": "plonx"
+    },
+    {
+      "description": "is a multi-player five-card draw.\nPlay:",
+      "items": [],
+      "title": "Poker"
+    },
+    {
+      "description": "is an old and very poor version of the old pong game.\nWebsite: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/arcade/gnupong-0.14.tar.gz",
+      "items": [],
+      "title": "pong"
+    },
+    {
+      "description": "is a 2D, tile-based take on narbacular drop.\nWebsite: https://www.increpare.com/2008/11/portile/",
+      "items": [],
+      "title": "portile"
+    },
+    {
+      "description": "A curses-style space shooter written in Go, using the Tcell package.\nWebsite: https://github.com/gdamore/proxima5",
+      "items": [],
+      "title": "Proxima 5"
+    },
+    {
+      "description": "is a clone of Puyo Puyo game, inside Vim.\nWebsite: https://github.com/rbtnn/vim-puyo\nWikipedia: https://en.wikipedia.org/wiki/Puyo_Puyo_(video_game)",
+      "items": [],
+      "title": "Puyo on Vim"
+    },
+    {
+      "description": "is an intelligent version of the sliding-puzzle game.\nWebsite: https://github.com/pravj/puzzl",
+      "items": [],
+      "title": "puzzl"
+    },
+    {
+      "description": "is a two-to-four-player board game.\nPlay:",
+      "items": [],
+      "title": "Scrabble"
+    },
+    {
+      "description": "is a four-player card game.\nPlay:",
+      "items": [],
+      "title": "Sgt. Major"
+    },
+    {
+      "description": "is a Japanese chess.\nWebsite: http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi.html",
+      "items": [],
+      "title": "shogi"
+    },
+    {
+      "description": "is a multiplayer lightcycle game.\nWebsite: http://sshtron.zachlatta.com/\nPlay:",
+      "items": [],
+      "title": "sshtron"
+    },
+    {
+      "description": "A game of interstellar commerce for 1 to 4 players, written with ncurses.\nWebsite: https://web.archive.org/web/20200129140943/http://www.barnsdle.demon.co.uk/game/starlanes.html & https://web.archive.org/web/20150804022307/http://www.barnsdle.demon.co.uk/game/starlanes-1.3.0.tar.gz",
+      "items": [],
+      "title": "Starlanes"
+    },
+    {
+      "description": "is a rogue-like game.\nWebsite: http://pyrogue.sourceforge.net/",
+      "items": [],
+      "title": "pyro"
+    },
+    {
+      "description": "is a clone of Threes! game.\nWebsite: https://github.com/yth/pythrees",
+      "items": [],
+      "title": "pythrees"
+    },
+    {
+      "description": "is a two-player networked console Tetris clone.\nWebsite: http://freshmeat.sourceforge.net/projects/pytris",
+      "items": [],
+      "title": "pytris"
+    },
+    {
+      "description": "is a Perquackey-type word game.\nWebsite: http://tldp.org/LDP/abs/html/contributed-scripts.html#QKY",
+      "items": [],
+      "title": "Quacky"
+    },
+    {
+      "description": "is a clone of Othello (Reversi) game.",
+      "items": [],
+      "title": "reversi"
+    },
+    {
+      "description": "is a hexagonal map rogue-like.\nWebsite: https://github.com/dpc/rhex\nPlay:",
+      "items": [],
+      "title": "rhex"
+    },
+    {
+      "description": "is a game with fight off villainous robots. It's a BSD game.\nWebsite: https://man.openbsd.org/robots.6\nWikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29\nPlay:",
+      "items": [],
+      "title": "robots"
+    },
+    {
+      "description": "is a game/diversion where you construct a program for a little robot, then watch him explore a world. The world is filled with baddies that can hurt you, objects that you can bump into, and food that you can eat. The goal of the game is to collect as many prizes as possible before are killed by a baddie or you run out of energy.\nWebsite: https://www.gnu.org/software/gnurobots/readme.html\nWikipedia: https://en.wikipedia.org/wiki/Robots_%28BSD_game%29",
+      "items": [],
+      "title": "gnu-robots"
+    },
+    {
+      "description": "Yet another zen simulation.\nWebsite: http://robotfindskitten.org/",
+      "items": [],
+      "title": "robotfindskitten"
+    },
+    {
+      "description": "Exploring The Dungeons of Doom. It's a BSD game.\nWebsite: https://man.netbsd.org/rogue.6\nPlay:",
+      "items": [],
+      "title": "rogue"
+    },
+    {
+      "description": "A living museum of roguelike games\nWebsite: https://rlgallery.org\nPlay:",
+      "items": [],
+      "title": "roguelike gallery"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: https://common-lisp.net/project/lifp/rouge.htm",
+      "items": [],
+      "title": "the rougelike!"
+    },
+    {
+      "description": "is a russian roulette.\nWebsite: https://oskog97.com/archive/awesome-ttygames/rr/\nWikipedia: https://en.wikipedia.org/wiki/Russian_roulette",
+      "items": [],
+      "title": "rr"
+    },
+    {
+      "description": "is clone the card game Rummy with competitive Computer Agent.\nWebsite: https://github.com/ljc2154/Rummy",
+      "items": [],
+      "title": "rummy"
+    },
+    {
+      "description": "is a multi-user wooden ships and iron men. It's a BSD game.\nWebsite: https://man.openbsd.org/sail.6\nWikipedia: https://en.wikipedia.org/wiki/Wooden_Ships_and_Iron_Men",
+      "items": [],
+      "title": "sail"
+    },
+    {
+      "description": "is an easy to play roguelike game.\nWebsite: https://web.archive.org/web/20130524032130/http://www.math.leidenuniv.nl/~mommen/scrap/",
+      "items": [],
+      "title": "scrap"
+    },
+    {
+      "description": "You're a bookworm that's stuck on a scroll. You have to dodge between words and use spells to make your way down the page as the scroll is read. Go too slow and you'll get wound up in the scroll and crushed.\nWebsite: https://joeyh.name/code/scroll/",
+      "items": [],
+      "title": "scroll"
+    },
+    {
+      "description": "is a clone of the classical battleships game.\nWebsite: http://www.deater.net/weave/vmwprod/seabattle.html",
+      "items": [],
+      "title": "seabattle"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://www.earth.li/projectpurple/progs/seatris.html",
+      "items": [],
+      "title": "seatris"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: https://common-lisp.net/project/lifp/sewers.htm",
+      "items": [],
+      "title": "the sewer massacre"
+    },
+    {
+      "description": "is a tank game with randomly generated terrain in which the object is to destroy your opponent.\nWebsite: https://github.com/annacrombie/shell-tanks",
+      "items": [],
+      "title": "shell-tanks"
+    },
+    {
+      "description": "is a top-down space shooter.\nWebsite: https://dhampir.no/stuff/bash/shellshock",
+      "items": [],
+      "title": "shellshock"
+    },
+    {
+      "description": "is a computer program that plays the game of Shogi, also known as Japanese Chess.\nWebsite: https://www.gnu.org/software/gnushogi/",
+      "items": [],
+      "title": "shogi"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://www.amirrorclear.net/flowers/game/sil/",
+      "items": [],
+      "title": "sil"
+    },
+    {
+      "description": "is a simultaneous-move chess.\nWebsite: https://mbays.freeshell.org/simulchess/\nPlay:",
+      "items": [],
+      "title": "simulchess"
+    },
+    {
+      "description": "is a dockerized pong for one.\nWebsite: https://github.com/Birkenstab/SSH-Pong\nPlay:",
+      "items": [],
+      "title": "singleplayer pong"
+    },
+    {
+      "description": "is a hotdogging game, evade the deadly Yeti on your jet-powered skis.\nWebsite: http://catb.org/~esr/ski/",
+      "items": [],
+      "title": "ski"
+    },
+    {
+      "description": "is a clone of the roguelike Nethack game.\nWebsite: http://slashem.sourceforge.net/",
+      "items": [],
+      "title": "slashem"
+    },
+    {
+      "description": "Variant of nethack and others\nPlay:",
+      "items": [],
+      "title": "slashem.me"
+    },
+    {
+      "description": "is a slider game.\nWebsite: ftp://80.92.105.240/ftp.ibiblio.org/ibiblio_linux_archive/games/strategy/slider-1.0.c.gz",
+      "items": [],
+      "title": "slider"
+    },
+    {
+      "description": "is a clone of the slider puzzle game in a boot sector.\nWebsite: https://github.com/XlogicX/BootSlide",
+      "items": [],
+      "title": "BootSlide"
+    },
+    {
+      "description": "is a turn-based survival game; you have to move without being caught by a snake. It's a BSD game.\nWebsite: https://man.openbsd.org/snake.6\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)\nPlay:",
+      "items": [],
+      "title": "snake"
+    },
+    {
+      "description": "is a clone of Snake game.\nWebsite: ftp://ftp.simtreas.ru/pub/my/snake.c.gz\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)\nPlay:",
+      "items": [],
+      "title": "snake"
+    },
+    {
+      "description": "is a clone of Snake game.\nWebsite: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "snake"
+    },
+    {
+      "description": "is a clone of Snake game written in x86 assembly. It runs in real mode directly from the bootsector of a drive.\nWebsite: https://gitlab.com/pmikkelsen/asm_snake\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+      "items": [],
+      "title": "asm_snake"
+    },
+    {
+      "description": "is a tool for investigating how groups of simple agents interact while playing a soccer-like game.\nWebsite: https://www.cs.cmu.edu/~trb/soccer/",
+      "items": [],
+      "title": "soccer"
+    },
+    {
+      "description": "is a logical game, where you must solve problems with pushing packets in labirints. The problem is to push packets to saving positions by moving around and pushing only one packet at a time if possible.\nWebsite: ftp://ftp.simtreas.ru/pub/download/pusher.tar.gz\nWikipedia: https://en.wikipedia.org/wiki/Sokoban\nPlay:",
+      "items": [],
+      "title": "sokoban"
+    },
+    {
+      "description": "is a clone of Sokoban game.\nWikipedia: https://en.wikipedia.org/wiki/Sokoban\nPlay:",
+      "items": [],
+      "title": "sokoban"
+    },
+    {
+      "description": "is a clone of Sokoban game in a boot sector.\nWebsite: https://ish.works/bootsector/bootsector.html\nWikipedia: https://en.wikipedia.org/wiki/Sokoban",
+      "items": [],
+      "title": "sokoban-bootsector"
+    },
+    {
+      "description": "Freecell, Spider Solitare and Klondike Solitaire with extensive vi(1) style keybindings, do-what-I-mean movement operations, beautiful Unicode character schemes. Does not depend on ncurses.\nWebsite: https://gir.st/sol.html",
+      "items": [],
+      "title": "solVItaire"
+    },
+    {
+      "description": "is a real time strategy 2D space combat game for two players over a network.\nWebsite: http://spacezero.sourceforge.net/",
+      "items": [],
+      "title": "spacezero"
+    },
+    {
+      "description": "is a clone of Nethack game.\nWebsite: https://github.com/NHTangles/sporkhack",
+      "items": [],
+      "title": "sporkhack"
+    },
+    {
+      "description": "is a clone of Hangman game implemented as an extension for SQLite database.\nWebsite: https://github.com/mateusza/sqlite-hangman\nWikipedia: https://en.wikipedia.org/wiki/Hangman_(game)",
+      "items": [],
+      "title": "sqlite-hangman"
+    },
+    {
+      "description": "is a clone of Super Star Trek game.\nWebsite: https://sourceforge.net/projects/sst2k/\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29",
+      "items": [],
+      "title": "sst2k"
+    },
+    {
+      "description": "is a maze game.\nWebsite: http://stardork.sourceforge.net/",
+      "items": [],
+      "title": "stardork"
+    },
+    {
+      "description": "is a game of interstellar commerce for 1 to 4 players.\nWebsite: http://www.barnsdle.demon.co.uk/game/starlanes.html",
+      "items": [],
+      "title": "starlanes"
+    },
+    {
+      "description": "is a clone of Star Trek game.\nWebsite: ftp://ftp.simtreas.ru/pub/download/add/TREK.tgz\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29",
+      "items": [],
+      "title": "startrek"
+    },
+    {
+      "description": "is a roguelike dungeon exploration simulation game.\nWebsite: http://angband.oook.cz/steamband/steamband.html",
+      "items": [],
+      "title": "steamband"
+    },
+    {
+      "description": "This is the good old “Govern Ancient Sumeria”, with a 1983 ecology re-write.\nWebsite: https://www.mipmip.org/C_games/",
+      "items": [],
+      "title": "sumeria"
+    },
+    {
+      "description": "is a chess engine in 111 lines of code.\nWebsite: https://github.com/thomasahle/sunfish",
+      "items": [],
+      "title": "sunfish"
+    },
+    {
+      "description": "is a modern version of Art Canfil's classic, Taipan. Sail the South Pacific and accumulate wealth while avoiding pirates.\nWebsite: http://www.ibiblio.org/pub/linux/games/textrpg",
+      "items": [],
+      "title": "taipan"
+    },
+    {
+      "description": "Several arcade games.\nWebsite: https://github.com/Milek7/telnet-games\nPlay:",
+      "items": [],
+      "title": "telnet-games"
+    },
+    {
+      "description": "is a frogger-themed game.\nWebsite: https://github.com/mfey619/Terminal-Frogger",
+      "items": [],
+      "title": "terminal-frogger"
+    },
+    {
+      "description": "A simple match 3 game in the terminal, using the ncurses library.\nWebsite: https://github.com/ATBennett/terminal_gem_match",
+      "items": [],
+      "title": "terminal_gem_match"
+    },
+    {
+      "description": "is a space shooter game.\nWebsite: https://gitlab.com/dustyweb/terminal-phase",
+      "items": [],
+      "title": "terminal-phase"
+    },
+    {
+      "description": "is a 80x23 terminal tetris\nWebsite: https://github.com/taylorconor/tinytetris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tinytetris"
+    },
+    {
+      "description": "is a clone of Tetris game. It's a BSD game.\nWebsite: https://man.openbsd.org/tetris.6\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tetris"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://github.com/nanochess/tetranglix\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tetranglix"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://github.com/berk76/tetris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "berk76-tetris"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: https://github.com/Gregwar/ASCII-Tetris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "ascii-tetris"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: http://freshmeat.sourceforge.net/projects/tetrix\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tetrix"
+    },
+    {
+      "description": "is a clone of Tetris game (Tint Is Not Tetris).\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tint"
+    },
+    {
+      "description": "is a clone of the Columns game.\nWebsite: https://github.com/zedr/tinycols",
+      "items": [],
+      "title": "TinyCols"
+    },
+    {
+      "description": "is a clone of Threes! game.\nWebsite: https://github.com/harshjv/threes-c",
+      "items": [],
+      "title": "threes"
+    },
+    {
+      "description": "is a clone of Tic Tac Toe game.\nWebsite: ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac2-0.6.tgz\nWikipedia: https://en.wikipedia.org/wiki/Tic-tac-toe",
+      "items": [],
+      "title": "tictactoe"
+    },
+    {
+      "description": "is a clone of Tic Tac Toe game where you have to align four symbols (instead of three).\nWebsite: ftp://ftp.ibiblio.org/pub/linux/games/strategy/tictac4-1.0.tar.gz\nWikipedia: https://en.wikipedia.org/wiki/Tic-tac-toe",
+      "items": [],
+      "title": "tictac4"
+    },
+    {
+      "description": "is the world's smallest chess program in x86 assembly code.\nWebsite: https://github.com/nanochess/Toledo-Atomchess",
+      "items": [],
+      "title": "Toledo-Atomchess"
+    },
+    {
+      "description": "is an arcade game where you have to shoot on inanimate objects.\nWebsite: http://www.deater.net/weave/vmwprod/tb1/",
+      "items": [],
+      "title": "Tom Bombem"
+    },
+    {
+      "description": "is the clone of a Tornado, C64 game.\nWebsite: https://github.com/kouya/tornado\nWikipedia: https://en.wikipedia.org/wiki/Tornado_(1993_video_game)",
+      "items": [],
+      "title": "tornado"
+    },
+    {
+      "description": "is a variant of the robots game.\nWebsite: ftp://ftp.nvg.org/pub/mirrors/metalab.unc.edu/games/arcade/torus-src.tar.gz\nPlay:",
+      "items": [],
+      "title": "torus"
+    },
+    {
+      "description": "Board-Gamelets Arena for poor AI Players.\nWebsite: https://github.com/tossug/tossug-arena",
+      "items": [],
+      "title": "tossug-arena"
+    },
+    {
+      "description": "is a tower defense game. Unfortunately, the game is quite easy to win.\nWebsite: https://web.archive.org/web/20131205100524/http://www.cavein.org/~chris/code/tower/",
+      "items": [],
+      "title": "tower-of-mediocrity"
+    },
+    {
+      "description": "is a Trekkie game. It's a BSD game.\nWebsite: https://man.openbsd.org/trek.6\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29",
+      "items": [],
+      "title": "trek"
+    },
+    {
+      "description": "is an old but rather elaborated game inspired by the Star Trek series.\nWebsite: https://kermitmurray.com/trek73/\nWikipedia: https://en.wikipedia.org/wiki/Star_Trek_%28text_game%29",
+      "items": [],
+      "title": "trek73"
+    },
+    {
+      "description": "is a roguelike game with simple commands.\nWebsite: https://github.com/JohnAnthony/TROG",
+      "items": [],
+      "title": "trog"
+    },
+    {
+      "description": "is a difficult roguelike in a traditional style.\nWebsite: http://www.happyponyland.net/the-slimy-lichmummy",
+      "items": [],
+      "title": "the-slimy-lichmummy"
+    },
+    {
+      "description": "is a clone of Tetris game.\nWebsite: http://www.miketaylor.org.uk/tech/tt/#gsc.tab=0\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "tt"
+    },
+    {
+      "description": "is a clone of Klondike solitaire game.\nWebsite: https://github.com/mpereira/tty-solitaire\nPlay:",
+      "items": [],
+      "title": "tty-solitaire"
+    },
+    {
+      "description": "Type words that are flying by from left to right as fast as you can.\nWebsite: http://typespeed.sourceforge.net/",
+      "items": [],
+      "title": "typespeed"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://freshmeat.sourceforge.net/projects/tzar",
+      "items": [],
+      "title": "tzar"
+    },
+    {
+      "description": "A minimally updated version of Chuck Cranor's UNIX port of the game \"dnd\", which was originally released on the PLATO system in 1975.\nWebsite: https://github.com/mtklr/udd\nWikipedia: https://en.wikipedia.org/wiki/Dnd_(1975_video_game)",
+      "items": [],
+      "title": "udd"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: https://github.com/joshbressers/ularn",
+      "items": [],
+      "title": "ularn"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: https://web.archive.org/web/20180216113810/http://rogue.rogueforge.net/ultrarogue-1-07/",
+      "items": [],
+      "title": "ultrarogue"
+    },
+    {
+      "description": "is an old and easy to play roguelike game.\nWebsite: http://remarque.org/~grabiner/moria.html",
+      "items": [],
+      "title": "umoria"
+    },
+    {
+      "description": "is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!\nWebsite: https://github.com/Sheeves11/UnnamedFiefdomGame/",
+      "items": [],
+      "title": "Unnamed Fiefdom Game"
+    },
+    {
+      "description": "is a first game in this roundup is UnNetHack, a fork of NetHack, originally based on the hugely popular roguelike game NetHack.\nWebsite: https://sourceforge.net/projects/unnethack/",
+      "items": [],
+      "title": "unnethack"
+    },
+    {
+      "description": "is a roguelike game written in Lisp.\nWebsite: https://common-lisp.net/project/lifp/sewers.htm",
+      "items": [],
+      "title": "urban warfare"
+    },
+    {
+      "description": "is a clone of Space Invaders game with simple graphics.\nWebsite: https://code.google.com/archive/p/vadorz/\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders",
+      "items": [],
+      "title": "vadorz"
+    },
+    {
+      "description": "Website: ftp://ftp.simtreas.ru/pub/my/vagabondo.c.gz",
+      "items": [],
+      "title": "vagabondo"
+    },
+    {
+      "description": "is a roguelike game set on a paradise island of Fortarica.\nWebsite: https://www.roguetemple.com/z/vapors/",
+      "items": [],
+      "title": "vapors of insanity"
+    },
+    {
+      "description": "is a platform/adventure game.\nWebsite: http://ariis.it/static/articles/venzone/page.html",
+      "items": [],
+      "title": "venzone"
+    },
+    {
+      "description": "is a clone of Snake game with hjkl (vi) and cursor key control.\nWebsite: https://gir.st/viper.html",
+      "items": [],
+      "title": "VIper"
+    },
+    {
+      "description": "is a clone of Tetris. Gameplay is much like the early Tetris games by Nintendo.\nWebsite: http://victornils.net/tetris/\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+      "items": [],
+      "title": "vitetris"
+    },
+    {
+      "description": "Empire is a simulation of a full-scale war between two emperors, the computer and you.\nWebsite: http://www.catb.org/~esr/vms-empire/",
+      "items": [],
+      "title": "vms-empire"
+    },
+    {
+      "description": "is a game for playing Go.\nWebsite: ftp://ftp.ibiblio.org/pub/linux/games/strategy/wallyplus-0.1.2.tar.gz",
+      "items": [],
+      "title": "wallyplus"
+    },
+    {
+      "description": "is probably the first computer game that is recognisable as what came to be known as a “text adventure”.\nWebsite: https://github.com/shmup/wander\nPlay:",
+      "items": [],
+      "title": "Wander"
+    },
+    {
+      "description": "is a game similar to Boulderdash, Repton, XOR and others.\nWebsite: https://www.e271.net/~marina/wanderer.html\nPlay:",
+      "items": [],
+      "title": "wanderer"
+    },
+    {
+      "description": "Would you like to play a game?\nWikipedia: https://en.wikipedia.org/wiki/WarGames",
+      "items": [],
+      "title": "wargames"
+    },
+    {
+      "description": "is a 3-D dungeon crawling game.\nWebsite: https://github.com/AtomicPair/wolfentext3d",
+      "items": [],
+      "title": "Wolfentext3D"
+    },
+    {
+      "description": "is a version of the arcade game Worm (sometimes called snake or nibbles). It's a BSD game.\nWebsite: https://man.openbsd.org/worm.6\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)\nPlay:",
+      "items": [],
+      "title": "worm"
+    },
+    {
+      "description": "is a clone of Wordle, Wordle over SSH.\nWebsite: https://github.com/ajeetdsouza/clidle\nPlay:",
+      "items": [],
+      "title": "clidle"
+    },
+    {
+      "description": "is a clone of Wordle.\nWebsite: https://github.com/nimblebun/wordle-cli",
+      "items": [],
+      "title": "wordle-cli"
+    },
+    {
+      "description": "in an underground cave. It's a BSD game.\nWebsite: https://man.openbsd.org/wump.6\nWikipedia: https://en.wikipedia.org/wiki/Hunt_the_Wumpus",
+      "items": [],
+      "title": "wump"
+    },
+    {
+      "description": "is a clone of the very old game called Hunt the Wumpus.\nWebsite: http://www.catb.org/esr/wumpus/",
+      "items": [],
+      "title": "wumpus"
+    },
+    {
+      "description": "is a puzzle game set inside a series of mazes.\nWebsite: http://web.archive.org/web/20200807032528/http://www.jwm-art.net/dark.php?p=XorCurses",
+      "items": [],
+      "title": "xorcurses"
+    },
+    {
+      "description": "is an action-packed game, where you gain points by claiming space on the line while avoiding the moving dots.\nWebsite: https://github.com/garu/Xonitix\nWikipedia: https://en.wikipedia.org/wiki/Xonix",
+      "items": [],
+      "title": "xonitix"
+    },
+    {
+      "description": "is a game where you can play against humans or against the computer.\nWebsite: ftp://ftp.ibiblio.org/pub/linux/games/strategy/yahtzee-src.tar.Z",
+      "items": [],
+      "title": "yahtzee"
+    },
+    {
+      "description": "is a game where you can play against humans or against the computer.\nWebsite: ftp://ftp.ibiblio.org/pub/linux/games/strategy/colour-yahtzee.tgz",
+      "items": [],
+      "title": "yahtzee-color"
+    },
+    {
+      "description": "is a clone of Tetris.\nWebsite: https://alexdantas.github.io/yetris/",
+      "items": [],
+      "title": "yetris"
+    },
+    {
+      "description": "is a multiplayer real-time game.\nWebsite: http://freshmeat.sourceforge.net/projects/yuxtapa",
+      "items": [],
+      "title": "yuxtapa"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://www.zangband.org/",
+      "items": [],
+      "title": "zangband"
+    },
+    {
+      "description": "is a science fiction roguelike game.\nWebsite: http://zapm.org/",
+      "items": [],
+      "title": "zapm"
+    },
+    {
+      "description": "z-code games\nWebsite: http://telehack.com/telehack.html\nWikipedia: https://en.wikipedia.org/wiki/Z-machine\nPlay:",
+      "items": [],
+      "title": "Z-Code games"
+    },
+    {
+      "description": "is an easy to play roguelike game. You have to kill zombies in a supermarket.\nWebsite: http://sheep.art.pl/Z-Day",
+      "items": [],
+      "title": "z-day"
+    },
+    {
+      "description": "is a clone of Konquest (a turn based strategy; you send ships from planet to planet to conquer them).\nWebsite: https://sourceforge.net/projects/zis/",
+      "items": [],
+      "title": "zis"
+    },
+    {
+      "description": "is a clone of Snake but with an extraordinary feature.\nWebsite: https://sourceforge.net/projects/znake-ulven/",
+      "items": [],
+      "title": "znake"
+    },
+    {
+      "description": "is a game in the same style as robots.\nWebsite: http://www.thistledown.com.au/software/\nPlay:",
+      "items": [],
+      "title": "zombies"
+    },
+    {
+      "description": "is a roguelike game.\nWebsite: http://distractionandnonsense.com/zombies/",
+      "items": [],
+      "title": "zombies"
+    },
+    {
+      "description": "The Zork Trilogy is set in the ruins of an ancient empire lying far underground. You, a dauntless treasure-hunter, are venturing into this dangerous land in search of wealth and adventure. Many strange tales have been told of the fabulous treasure, exotic creatures, and diabolical puzzles in the Great Underground Empire.\nWebsite: https://web.archive.org/web/20130121064934/http://www.csd.uwo.ca/Infocom/games.html\nPlay:",
+      "items": [],
+      "title": "zork"
+    },
+    {
+      "description": "is a console car racing game. The rules are simple - the higher on the screen, the faster you ride. Don't crash into rocks, curbs, or your opponent, and be the first across the finish line.\nWebsite: http://freshmeat.sourceforge.net/projects/zracer",
+      "items": [],
+      "title": "zracer"
+    },
+    {
+      "description": "is a pseudo-3D driving game.\nWebsite: https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz",
+      "items": [],
+      "title": "ztrack"
+    },
+    {
+      "description": "python based typing test game.\nWebsite: https://github.com/DriftingOtter/Typr",
+      "items": [],
+      "title": "typr"
+    },
+    {
+      "description": "a port of Adrian Siekierka’s source code reconstruction of ZZT to Go.\nWebsite: https://github.com/benhoyt/zztgo\nWikipedia: https://en.wikipedia.org/wiki/ZZT",
+      "items": [],
+      "title": "zztgo"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:59.771Z",
+    "original_repository": "ligurio/awesome-ttygames",
+    "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
+    "enhanced_repository": "enhansome/enhansome-ttygames",
+    "enhanced_repository_description": null,
+    "title": "Awesome Unix ASCII games with stars"
+  }
+}
