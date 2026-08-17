@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 49 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 664 | 🐛 0 | 🌐 C | 📅 2026-04-02
+Website: <https://github.com/mevdschee/2048.c> ⭐ 665 | 🐛 0 | 🌐 C | 📅 2026-04-02
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 24 | 🌐 Java | 📅 2026-08-16
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-17
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 24 | 🌐 Java | 📅 2026-08-16
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-17
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,272 | 🐛 8 | 🌐 Lean | 📅 2026-08-16
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,271 | 🐛 9 | 🌐 Lean | 📅 2026-08-17
 
 ### taipan
 
@@ -2476,7 +2476,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tic-tac-toe>
 
 is the world's smallest chess program in x86 assembly code.
 
-Website: <https://github.com/nanochess/Toledo-Atomchess> ⭐ 123 | 🐛 0 | 🌐 Assembly | 📅 2019-12-16
+Website: <https://github.com/nanochess/Toledo-Atomchess> ⭐ 124 | 🐛 0 | 🌐 Assembly | 📅 2019-12-16
 
 ### Tom Bombem
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
