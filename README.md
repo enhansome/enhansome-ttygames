@@ -697,7 +697,7 @@ Website: <https://code.google.com/archive/p/cryptrover/>
 is a small collection of solitaire/patience games
 (Klondike, FreeCell, Spider, Yukon, etc.).
 
-Website: <https://github.com/nielssp/csol> ⭐ 113 | 🐛 0 | 🌐 C | 📅 2025-07-19
+Website: <https://github.com/nielssp/csol> ⭐ 114 | 🐛 0 | 🌐 C | 📅 2025-07-19
 
 Wikipedia: <https://en.wikipedia.org/wiki/Solitaire>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-17
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 28 | 🌐 Java | 📅 2026-08-18
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 19 | 🌐 Java | 📅 2026-08-17
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 28 | 🌐 Java | 📅 2026-08-18
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,271 | 🐛 9 | 🌐 Lean | 📅 2026-08-17
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 9 | 🌐 Lean | 📅 2026-08-18
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
