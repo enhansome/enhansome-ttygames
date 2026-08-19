@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 32 | 🌐 Java | 📅 2026-08-18
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 33 | 🌐 Java | 📅 2026-08-19
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 32 | 🌐 Java | 📅 2026-08-18
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 33 | 🌐 Java | 📅 2026-08-19
 
 ### Let it Ride
 
@@ -1886,7 +1886,7 @@ Website: <https://www.increpare.com/2008/11/portile/>
 
 A curses-style space shooter written in Go, using the Tcell package.
 
-Website: <https://github.com/gdamore/proxima5> ⭐ 112 | 🐛 12 | 🌐 Go | 📅 2023-03-22
+Website: <https://github.com/gdamore/proxima5> ⭐ 113 | 🐛 13 | 🌐 Go | 📅 2023-03-22
 
 ### Puyo on Vim
 
