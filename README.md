@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 50 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 666 | 🐛 0 | 🌐 C | 📅 2026-04-02
+Website: <https://github.com/mevdschee/2048.c> ⭐ 665 | 🐛 0 | 🌐 C | 📅 2026-04-02
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 33 | 🌐 Java | 📅 2026-08-19
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 34 | 🌐 Java | 📅 2026-08-20
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 33 | 🌐 Java | 📅 2026-08-19
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 34 | 🌐 Java | 📅 2026-08-20
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,269 | 🐛 4 | 🌐 Lean | 📅 2026-08-19
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 4 | 🌐 Lean | 📅 2026-08-19
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
