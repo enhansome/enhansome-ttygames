@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 34 | 🌐 Java | 📅 2026-08-20
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 9 | 🐛 38 | 🌐 Java | 📅 2026-08-21
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 6 | 🐛 34 | 🌐 Java | 📅 2026-08-20
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 9 | 🐛 38 | 🌐 Java | 📅 2026-08-21
 
 ### Let it Ride
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 692 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 693 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 4 | 🌐 Lean | 📅 2026-08-19
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 5 | 🌐 Lean | 📅 2026-08-21
 
 ### taipan
 
@@ -2506,7 +2506,7 @@ Website: ftp\://ftp.nvg.org/pub/mirrors/metalab.unc.edu/games/arcade/torus-src.t
 
 Board-Gamelets Arena for poor AI Players.
 
-Website: <https://github.com/tossug/tossug-arena> ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2021-09-29
+Website: <https://github.com/tossug/tossug-arena> ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-08-21
 
 ### tower-of-mediocrity
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
