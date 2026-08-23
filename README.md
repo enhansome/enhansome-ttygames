@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 10 | 🐛 33 | 🌐 Java | 📅 2026-08-22
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 10 | 🐛 32 | 🌐 Java | 📅 2026-08-23
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 10 | 🐛 33 | 🌐 Java | 📅 2026-08-22
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 10 | 🐛 32 | 🌐 Java | 📅 2026-08-23
 
 ### Let it Ride
 
@@ -1886,7 +1886,7 @@ Website: <https://www.increpare.com/2008/11/portile/>
 
 A curses-style space shooter written in Go, using the Tcell package.
 
-Website: <https://github.com/gdamore/proxima5> ⭐ 113 | 🐛 13 | 🌐 Go | 📅 2023-03-22
+Website: <https://github.com/gdamore/proxima5> ⭐ 113 | 🐛 14 | 🌐 Go | 📅 2023-03-22
 
 ### Puyo on Vim
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 6 | 🌐 Lean | 📅 2026-08-22
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,270 | 🐛 3 | 🌐 Python | 📅 2026-08-23
 
 ### taipan
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,289 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,290 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2476,7 +2476,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tic-tac-toe>
 
 is the world's smallest chess program in x86 assembly code.
 
-Website: <https://github.com/nanochess/Toledo-Atomchess> ⭐ 124 | 🐛 0 | 🌐 Assembly | 📅 2019-12-16
+Website: <https://github.com/nanochess/Toledo-Atomchess> ⭐ 123 | 🐛 0 | 🌐 Assembly | 📅 2019-12-16
 
 ### Tom Bombem
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
