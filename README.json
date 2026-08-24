@@ -894,7 +894,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:16:15Z",
+                "last_commit": "2026-08-24T20:53:23Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -982,7 +982,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:16:15Z",
+                "last_commit": "2026-08-24T20:53:23Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -1598,7 +1598,7 @@
                 "archived": false,
                 "id": 16690938,
                 "language": "Python",
-                "last_commit": "2026-08-23T21:36:08Z",
+                "last_commit": "2026-08-24T19:35:51Z",
                 "owner": "thomasahle",
                 "repo": "sunfish",
                 "stars": 3271
@@ -1642,7 +1642,7 @@
                 "archived": false,
                 "id": 113998982,
                 "language": "Python",
-                "last_commit": "2021-01-20T11:30:51Z",
+                "last_commit": "2026-08-24T20:09:30Z",
                 "owner": "mfey619",
                 "repo": "Terminal-Frogger",
                 "stars": 0
@@ -2142,7 +2142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:41.220Z",
+    "last_updated": "2026-08-24T21:04:28.745Z",
     "original_repository": "ligurio/awesome-ttygames",
     "original_repository_id": 30400816,
     "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
