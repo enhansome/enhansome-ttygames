@@ -1,7 +1,2148 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "To the extent possible under law, Sergey Bronnikov has waived all copyright and related or neighboring rights to this work.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/hackndev/0verkill",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014474,
+                "language": "C",
+                "last_commit": "2016-08-30T01:40:23Z",
+                "owner": "hackndev",
+                "repo": "0verkill",
+                "stars": 50
+              }
+            }
+          ],
+          "description": "is bloody 2D action deathmatch-like game.",
+          "node_type": "group",
+          "title": "0verkill"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mevdschee/2048.c",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18155567,
+                "language": "C",
+                "last_commit": "2026-04-02T08:10:10Z",
+                "owner": "mevdschee",
+                "repo": "2048.c",
+                "stars": 666
+              }
+            }
+          ],
+          "description": "is a clone of 2048 game.\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
+          "node_type": "group",
+          "title": "2048"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Tiehuis/2048-cli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17684708,
+                "language": "C",
+                "last_commit": "2024-01-31T03:35:06Z",
+                "owner": "tiehuis",
+                "repo": "2048-cli",
+                "stars": 270
+              }
+            }
+          ],
+          "description": "is a clone of 2048 game.\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
+          "node_type": "group",
+          "title": "2048-cli"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2392876,
+                "language": "Shell",
+                "last_commit": "2025-02-10T04:46:35Z",
+                "owner": "bolknote",
+                "repo": "shellgames",
+                "stars": 90
+              }
+            }
+          ],
+          "description": "is a clone of arcade game Arkanoid.\nWikipedia: https://en.wikipedia.org/wiki/Arkanoid",
+          "node_type": "group",
+          "title": "arkanoid-bash"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/cymonsgames/ASCIIpOrtal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1711219,
+                "language": "C++",
+                "last_commit": "2022-06-28T13:47:59Z",
+                "owner": "cymonsgames",
+                "repo": "ASCIIpOrtal",
+                "stars": 203
+              }
+            }
+          ],
+          "description": "ASCIIpOrtal is a text based puzzle game inspired by the popular video game.",
+          "node_type": "group",
+          "title": "ASCIIpOrtal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Parigyan/ASCII-Chess",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15706921,
+                "language": "C",
+                "last_commit": "2024-06-15T15:19:16Z",
+                "owner": "Parigyan",
+                "repo": "ASCII-Chess",
+                "stars": 49
+              }
+            }
+          ],
+          "description": "Chess program with AI having a vintage linux terminal interface.",
+          "node_type": "group",
+          "title": "ASCII-Chess"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/TheMozg/awk-raycaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49528234,
+                "language": "Awk",
+                "last_commit": "2023-01-20T20:26:06Z",
+                "owner": "TheMozg",
+                "repo": "awk-raycaster",
+                "stars": 2472
+              }
+            }
+          ],
+          "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
+          "node_type": "group",
+          "title": "awkaster"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/phoemur/bashmaze",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17323961,
+                "language": "Shell",
+                "last_commit": "2014-03-01T20:56:20Z",
+                "owner": "phoemur",
+                "repo": "bashmaze",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "A maze game written completely in shell-script.",
+          "node_type": "group",
+          "title": "bashmaze"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Pentachoron-Labs/Behacked",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16128014,
+                "language": "C",
+                "last_commit": "2018-01-04T18:12:27Z",
+                "owner": "Pentachoron-Labs",
+                "repo": "Behacked",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Matching game with the goal of getting a group of four connected gems, written with ncurses.\nWikipedia: https://en.wikipedia.org/wiki/Bejeweled",
+          "node_type": "group",
+          "title": "Behacked"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/io12/BootMine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267526935,
+                "language": "Assembly",
+                "last_commit": "2021-01-21T04:53:31Z",
+                "owner": "io12",
+                "repo": "BootMine",
+                "stars": 197
+              }
+            }
+          ],
+          "description": "Bootable minesweeper game in a 512-byte boot sector.\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+          "node_type": "group",
+          "title": "BootMine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/bootRogue",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211150522,
+                "language": "Assembly",
+                "last_commit": "2020-03-09T22:38:28Z",
+                "owner": "nanochess",
+                "repo": "bootRogue",
+                "stars": 111
+              }
+            }
+          ],
+          "description": "is a roguelike game that fits in a boot sector (510 bytes).",
+          "node_type": "group",
+          "title": "BootRogue"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/haliphax/pybowl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55621458,
+                "language": "Python",
+                "last_commit": "2020-07-06T18:00:43Z",
+                "owner": "haliphax",
+                "repo": "pybowl",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Python bowling game using the Blessed terminal library.",
+          "node_type": "group",
+          "title": "bowling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/bricks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219236250,
+                "language": "Assembly",
+                "last_commit": "2020-03-09T22:40:58Z",
+                "owner": "nanochess",
+                "repo": "bricks",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "A game of bricks and paddle on one boot sector (510 bytes).",
+          "node_type": "group",
+          "title": "Bricks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/jaens/bricks-cport",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224351003,
+                "language": "C",
+                "last_commit": "2019-11-27T05:32:00Z",
+                "owner": "jaens",
+                "repo": "bricks-cport",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Port of the Bricks boot sector game to (16-bit) C.",
+          "node_type": "group",
+          "title": "Bricks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gnomengineer/cBattleship",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24219312,
+                "language": "C++",
+                "last_commit": "2016-04-11T13:49:52Z",
+                "owner": "gnomengineer",
+                "repo": "cBattleship",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "is a clone of the classic Battleship game.",
+          "node_type": "group",
+          "title": "cbattleship"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/bolknote/SedChess",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12291203,
+                "language": null,
+                "last_commit": "2013-08-28T03:15:00Z",
+                "owner": "bolknote",
+                "repo": "SedChess",
+                "stars": 298
+              }
+            }
+          ],
+          "description": "is a chess game implemented in sed utility.",
+          "node_type": "group",
+          "title": "chess"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nickzuber/chs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191454427,
+                "language": "Python",
+                "last_commit": "2022-07-28T08:09:26Z",
+                "owner": "nickzuber",
+                "repo": "chs",
+                "stars": 219
+              }
+            }
+          ],
+          "description": "is a chess game against the Stockfish engine.",
+          "node_type": "group",
+          "title": "chs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/veselov/clines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37685014,
+                "language": "Shell",
+                "last_commit": "2015-11-11T09:06:00Z",
+                "owner": "veselov",
+                "repo": "clines",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "is a clone of Color Lines game.\nWikipedia: https://ru.wikipedia.org/wiki/Color_Lines",
+          "node_type": "group",
+          "title": "clines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/badescunicu/connect4",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8019274,
+                "language": "C",
+                "last_commit": "2013-03-20T13:40:49Z",
+                "owner": "badescunicu",
+                "repo": "connect4",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "is a clone of Connect4 game.\nWikipedia: https://en.wikipedia.org/wiki/Connect_Four",
+          "node_type": "group",
+          "title": "connect4"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/beejjorgensen/conquest",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25025838,
+                "language": "C",
+                "last_commit": "2025-04-30T02:14:15Z",
+                "owner": "beejjorgensen",
+                "repo": "conquest",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "is a clone of the old Amiga Conquest text-based game.",
+          "node_type": "group",
+          "title": "beejjorgensen-conquest"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/jtrulson/conquest/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119116486,
+                "language": "C++",
+                "last_commit": "2026-03-21T19:51:07Z",
+                "owner": "jontrulson",
+                "repo": "conquest",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "is a real-time, multi-player space warfare game.\nPlay:",
+          "node_type": "group",
+          "title": "jtrulson-conquest"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nielssp/csol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85507934,
+                "language": "C",
+                "last_commit": "2025-07-19T11:35:04Z",
+                "owner": "nielssp",
+                "repo": "csol",
+                "stars": 114
+              }
+            }
+          ],
+          "description": "is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).\nWikipedia: https://en.wikipedia.org/wiki/Solitaire",
+          "node_type": "group",
+          "title": "csol"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/dominikhackl/ctris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41298183,
+                "language": "C",
+                "last_commit": "2025-01-07T17:12:50Z",
+                "owner": "0xminik",
+                "repo": "ctris",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "ctris"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gsobell/dango",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388608894,
+                "language": "Python",
+                "last_commit": "2023-07-16T20:36:24Z",
+                "owner": "gsobell",
+                "repo": "dango",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "is a tui Go (baduk) board written in python",
+          "node_type": "group",
+          "title": "dango"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/infews/dukedomrb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357946038,
+                "language": "Ruby",
+                "last_commit": "2021-10-23T20:19:46Z",
+                "owner": "infews",
+                "repo": "dukedomrb",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Yet another port of the classic mainframe game from 1976\nWikipedia: https://en.wikipedia.org/wiki/Dukedom_(video_game)",
+          "node_type": "group",
+          "title": "dukedomrb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/fbird",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93414657,
+                "language": "Assembly",
+                "last_commit": "2019-09-24T22:40:54Z",
+                "owner": "nanochess",
+                "repo": "fbird",
+                "stars": 91
+              }
+            }
+          ],
+          "description": "is a text bootsector game.",
+          "node_type": "group",
+          "title": "fbird"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/odditica/fiTD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172269934,
+                "language": "C++",
+                "last_commit": "2019-07-22T20:21:54Z",
+                "owner": "odditica",
+                "repo": "fiTD",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "A basic console-based tower defense game/engine.",
+          "node_type": "group",
+          "title": "fiTD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/smmspiers/FloodIt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80451493,
+                "language": "Ruby",
+                "last_commit": "2017-02-01T19:27:38Z",
+                "owner": "smmspiers",
+                "repo": "FloodIt",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Simple game in terminal to flood a grid of colours to one colour.\nWikipedia: https://en.wikipedia.org/wiki/7_Colors",
+          "node_type": "group",
+          "title": "FloodIt"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/bunburya/flying-robots",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3301902,
+                "language": "Python",
+                "last_commit": "2021-12-21T00:00:44Z",
+                "owner": "bunburya",
+                "repo": "flying-robots",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "is based on the BSD robots game, but with a third dimension of movement.",
+          "node_type": "group",
+          "title": "flying-robots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/ostrosablin/freecell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412407808,
+                "language": "Shell",
+                "last_commit": "2023-03-10T20:16:44Z",
+                "owner": "ostrosablin",
+                "repo": "freecell",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Fork with improvements over ncurses freecell implementation by Linus Akesson (solver support, better metamoves, various usability improvements).",
+          "node_type": "group",
+          "title": "freecell-ng"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/rwestlund/freesweep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47507253,
+                "language": "C",
+                "last_commit": "2024-04-19T01:12:13Z",
+                "owner": "rwestlund",
+                "repo": "freesweep",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "is a clone of Minesweeper game.\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+          "node_type": "group",
+          "title": "freesweep-rwestlund"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/cyphar/ascii-snake",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11281262,
+                "language": "C",
+                "last_commit": "2016-03-23T11:33:09Z",
+                "owner": "cyphar",
+                "repo": "ascii-snake",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "is a clone of a Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+          "node_type": "group",
+          "title": "ascii-snake"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/goblinhack/goblinhack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428628829,
+                "language": null,
+                "last_commit": "2026-04-06T16:02:35Z",
+                "owner": "goblinhack",
+                "repo": "goblinhack",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.",
+          "node_type": "group",
+          "title": "goblinhack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/bolknote/gopnik2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617160392,
+                "language": "C++",
+                "last_commit": "2025-10-02T06:30:44Z",
+                "owner": "bolknote",
+                "repo": "gopnik2",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "«Гопник-2» - это продолжение культовой текстовой игры «Гопник», жанр которой наиболее близок к жанру Hack and Slash RPG. Во второй части полностью сохранена изначальная концепция, улучшен алгоритм генерирования противников в соответствии с текущим состоянием главного героя, выровнен баланс прохождения и прокачки, добавлено три уровня сложности.",
+          "node_type": "group",
+          "title": "gopnik2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/zladovan/gorched",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263883501,
+                "language": "Go",
+                "last_commit": "2025-07-27T09:40:57Z",
+                "owner": "zladovan",
+                "repo": "gorched",
+                "stars": 434
+              }
+            }
+          ],
+          "description": "is a a clone of \"Scorched Earth\" game.",
+          "node_type": "group",
+          "title": "gorched"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/blt/hamurabi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744254,
+                "language": "C",
+                "last_commit": "2010-06-29T00:10:24Z",
+                "owner": "blt",
+                "repo": "hamurabi",
+                "stars": 29
+              }
+            }
+          ],
+          "description": "is a 1969 text-based game of land and resource management and is one of the earliest computer games.\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
+          "node_type": "group",
+          "title": "hamurabi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/wzhishen/hammurabi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12414482,
+                "language": "Python",
+                "last_commit": "2013-08-29T01:31:35Z",
+                "owner": "wzhishen",
+                "repo": "hammurabi",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "is a very old computer game, in which you are the ruler of ancient Samaria, trying to increase the wealth of your country. Here is the 21st century version of it, which is implemented in Python!\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
+          "node_type": "group",
+          "title": "hammurabi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/invaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190288933,
+                "language": "Assembly",
+                "last_commit": "2022-01-18T16:42:54Z",
+                "owner": "nanochess",
+                "repo": "Invaders",
+                "stars": 521
+              }
+            }
+          ],
+          "description": "is a clone of Space Invaders game in 512 bytes (boot sector).\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders",
+          "node_type": "group",
+          "title": "Invaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gabrielvictorcf/just-asteroids",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360329536,
+                "language": "Python",
+                "last_commit": "2021-04-23T00:57:58Z",
+                "owner": "gabrielvictorcf",
+                "repo": "just-asteroids",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "is a clone of Asteroids game.\nWikipedia: https://en.wikipedia.org/wiki/Asteroids_(video_game)",
+          "node_type": "group",
+          "title": "just-asteroids"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/macdice/ascii-invaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11927847,
+                "language": "C",
+                "last_commit": "2021-08-30T21:22:05Z",
+                "owner": "macdice",
+                "repo": "ascii-invaders",
+                "stars": 56
+              }
+            }
+          ],
+          "description": "is a clone of Space Invaders game.\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders\nPlay:",
+          "node_type": "group",
+          "title": "ascii-invaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/antoniovazquezaraujo/LeTrain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122837683,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:16:15Z",
+                "owner": "antoniovazquezaraujo",
+                "repo": "LeTrain",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "An ascii railroad simulator in Java",
+          "node_type": "group",
+          "title": "LeTrain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/lights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244447594,
+                "language": "Assembly",
+                "last_commit": "2020-03-09T22:30:23Z",
+                "owner": "nanochess",
+                "repo": "lights",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "is a boot sector game.",
+          "node_type": "group",
+          "title": "lights"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/sergev/landing-rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287680212,
+                "language": "C++",
+                "last_commit": "2020-08-20T05:10:18Z",
+                "owner": "sergev",
+                "repo": "landing-rust",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "The game where your mission is to safely maneuver your lunar module onto the moon's surface. This is a port to BESM-6, rewritten from Pascal into C++ into Rust module onto the moon's surface.",
+          "node_type": "group",
+          "title": "landing-rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/taviso/katamascii",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480201563,
+                "language": "C",
+                "last_commit": "2022-05-25T13:24:31Z",
+                "owner": "taviso",
+                "repo": "katamascii",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "is a puzzle game, roll around your terminal collecting ASCII-art objects.",
+          "node_type": "group",
+          "title": "katamascii"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/antoniovazquezaraujo/LeTrain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122837683,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:16:15Z",
+                "owner": "antoniovazquezaraujo",
+                "repo": "LeTrain",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "a train simulator consisting of creating tracks and stations along a virtually infinite map, and creating trains and earning money by carrying passengers between them.",
+          "node_type": "group",
+          "title": "LeTrain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/servusDei2018/Mafia-Werewolf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 229176180,
+                "language": "Python",
+                "last_commit": "2019-12-20T02:42:55Z",
+                "owner": "servusdei2018",
+                "repo": "Mafia-Werewolf",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "OpenMafia/Werewolf Multiplayer social game with AI to fill in the rest!\nWikipedia: https://en.wikipedia.org/wiki/Mafia_(party_game)",
+          "node_type": "group",
+          "title": "Mafia-Werewolf"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/0x501D/memwatch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442097101,
+                "language": "C",
+                "last_commit": "2024-09-19T10:45:23Z",
+                "owner": "0x501D",
+                "repo": "memwatch",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.",
+          "node_type": "group",
+          "title": "memwatch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/rbtnn/vim-mario",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22571678,
+                "language": "Vim script",
+                "last_commit": "2020-01-28T14:04:59Z",
+                "owner": "rbtnn",
+                "repo": "vim-mario",
+                "stars": 540
+              }
+            }
+          ],
+          "description": "is a clone of Super Mario game inside Vim (text editor).",
+          "node_type": "group",
+          "title": "vim-mario"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gre/morpion-solitaire",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1168759,
+                "language": "C",
+                "last_commit": "2020-05-05T19:20:54Z",
+                "owner": "gre",
+                "repo": "morpion-solitaire",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "A morpion solitaire game implementation in C using ncurses.\nWikipedia: https://en.wikipedia.org/wiki/Join_five",
+          "node_type": "group",
+          "title": "morpion solitaire"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mogria/msnake",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3612545,
+                "language": "C",
+                "last_commit": "2021-12-09T19:15:44Z",
+                "owner": "mogria",
+                "repo": "msnake",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "is a clone of Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+          "node_type": "group",
+          "title": "msnake"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/abakh/nbsdgames",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149785411,
+                "language": "C",
+                "last_commit": "2026-07-18T22:29:17Z",
+                "owner": "abakh",
+                "repo": "nbsdgames",
+                "stars": 310
+              }
+            }
+          ],
+          "description": "New BSD Games is a package of 18 text-based modern games.",
+          "node_type": "group",
+          "title": "nbsdgames"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mikepierce/ncLife",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48771984,
+                "language": "C++",
+                "last_commit": "2016-03-30T16:32:15Z",
+                "owner": "mikepierce",
+                "repo": "ncLife",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "is a Conway's Game of Life.\nWikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+          "node_type": "group",
+          "title": "nclife"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/naclander/netris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19440135,
+                "language": "C",
+                "last_commit": "2014-06-25T05:16:57Z",
+                "owner": "naclander",
+                "repo": "netris",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "is a clone of Tetris game featuring competitive online multiplayer.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "c-netris"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/dead-end/nuzzle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215374145,
+                "language": "C",
+                "last_commit": "2023-07-13T22:08:54Z",
+                "owner": "dead-end",
+                "repo": "nuzzle",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "is a puzzle game collection (N-curses p-UZZLE).",
+          "node_type": "group",
+          "title": "nuzzle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gsobell/lightcycle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668008513,
+                "language": "Python",
+                "last_commit": "2024-08-29T16:44:17Z",
+                "owner": "gsobell",
+                "repo": "lightcycle",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "a classic Tron game, for your terminal.\nWikipedia: https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay",
+          "node_type": "group",
+          "title": "lightcycle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/yudonglin/Oregon-Trail",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127375908,
+                "language": "Python",
+                "last_commit": "2019-11-25T21:54:59Z",
+                "owner": "yudonglin",
+                "repo": "Oregon-Trail",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "Recreation of the Oregon Trail game, written in Python.\nWikipedia: https://en.wikipedia.org/wiki/The_Oregon_Trail_(1971_video_game)",
+          "node_type": "group",
+          "title": "Oregon-Trail"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/pillman",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195884731,
+                "language": "Assembly",
+                "last_commit": "2022-01-18T16:41:06Z",
+                "owner": "nanochess",
+                "repo": "Pillman",
+                "stars": 319
+              }
+            }
+          ],
+          "description": "is a clone of Pacman game in 512 bytes (boot sector or COM file).",
+          "node_type": "group",
+          "title": "pillman"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/tsoding/pinpog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191607929,
+                "language": "Assembly",
+                "last_commit": "2021-08-27T17:59:43Z",
+                "owner": "tsoding",
+                "repo": "pinpog",
+                "stars": 694
+              }
+            }
+          ],
+          "description": "is game in Assembly that works without OS.",
+          "node_type": "group",
+          "title": "Ping-Pong-like"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/berk76/piskworks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104725066,
+                "language": "C",
+                "last_commit": "2024-11-23T21:33:22Z",
+                "owner": "oldcompcz",
+                "repo": "piskworks",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "is a clone of Gomoku game.",
+          "node_type": "group",
+          "title": "piskworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/vaniacer/piu-piu-SH",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74022014,
+                "language": "Shell",
+                "last_commit": "2025-05-28T11:24:30Z",
+                "owner": "vaniacer",
+                "repo": "piu-piu-SH",
+                "stars": 746
+              }
+            }
+          ],
+          "description": "is an old school horizontal scroller 'Shoot Them All' game.",
+          "node_type": "group",
+          "title": "piu-piu-SH"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/gdamore/proxima5",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44528129,
+                "language": "Go",
+                "last_commit": "2023-03-22T15:30:22Z",
+                "owner": "gdamore",
+                "repo": "proxima5",
+                "stars": 113
+              }
+            }
+          ],
+          "description": "A curses-style space shooter written in Go, using the Tcell package.",
+          "node_type": "group",
+          "title": "Proxima 5"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/rbtnn/vim-puyo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13195233,
+                "language": "Vim script",
+                "last_commit": "2020-01-28T14:04:22Z",
+                "owner": "rbtnn",
+                "repo": "vim-puyo",
+                "stars": 67
+              }
+            }
+          ],
+          "description": "is a clone of Puyo Puyo game, inside Vim.\nWikipedia: https://en.wikipedia.org/wiki/Puyo_Puyo_(video_game)",
+          "node_type": "group",
+          "title": "Puyo on Vim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/pravj/puzzl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32503532,
+                "language": "Go",
+                "last_commit": "2017-05-19T15:24:14Z",
+                "owner": "pravj",
+                "repo": "puzzl",
+                "stars": 37
+              }
+            }
+          ],
+          "description": "is an intelligent version of the sliding-puzzle game.",
+          "node_type": "group",
+          "title": "puzzl"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/yth/pythrees",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31509438,
+                "language": "Python",
+                "last_commit": "2019-09-15T01:59:19Z",
+                "owner": "yth",
+                "repo": "pythrees",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "is a clone of Threes! game.",
+          "node_type": "group",
+          "title": "pythrees"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/dpc/rhex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30689620,
+                "language": "Rust",
+                "last_commit": "2026-07-13T18:42:30Z",
+                "owner": "dpc",
+                "repo": "rhex",
+                "stars": 171
+              }
+            }
+          ],
+          "description": "is a hexagonal map rogue-like.\nPlay:",
+          "node_type": "group",
+          "title": "rhex"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/ljc2154/Rummy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13878954,
+                "language": "C++",
+                "last_commit": "2013-10-26T17:37:41Z",
+                "owner": "ljc2154",
+                "repo": "Rummy",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "is clone the card game Rummy with competitive Computer Agent.",
+          "node_type": "group",
+          "title": "rummy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/annacrombie/shell-tanks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28781517,
+                "language": "Shell",
+                "last_commit": "2016-06-19T03:25:08Z",
+                "owner": "annacrombie",
+                "repo": "shell-tanks",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "is a tank game with randomly generated terrain in which the object is to destroy your opponent.",
+          "node_type": "group",
+          "title": "shell-tanks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Birkenstab/SSH-Pong",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117230136,
+                "language": "C",
+                "last_commit": "2018-09-30T12:14:55Z",
+                "owner": "Birkenstab",
+                "repo": "SSH-Pong",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "is a dockerized pong for one.\nPlay:",
+          "node_type": "group",
+          "title": "singleplayer pong"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/XlogicX/BootSlide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203662783,
+                "language": "Assembly",
+                "last_commit": "2021-10-20T21:32:17Z",
+                "owner": "XlogicX",
+                "repo": "BootSlide",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "is a clone of the slider puzzle game in a boot sector.",
+          "node_type": "group",
+          "title": "BootSlide"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5796715,
+                "language": "C++",
+                "last_commit": "2022-12-14T05:04:04Z",
+                "owner": "begoon",
+                "repo": "stuff",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "is a clone of Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+          "node_type": "group",
+          "title": "snake"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/NHTangles/sporkhack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96622745,
+                "language": "C",
+                "last_commit": "2021-06-09T15:35:46Z",
+                "owner": "NHTangles",
+                "repo": "sporkhack",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "is a clone of Nethack game.",
+          "node_type": "group",
+          "title": "sporkhack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mateusza/sqlite-hangman",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231675872,
+                "language": "PLpgSQL",
+                "last_commit": "2021-12-08T15:53:36Z",
+                "owner": "mateusza",
+                "repo": "sqlite-hangman",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "is a clone of Hangman game implemented as an extension for SQLite database.\nWikipedia: https://en.wikipedia.org/wiki/Hangman_(game)",
+          "node_type": "group",
+          "title": "sqlite-hangman"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/thomasahle/sunfish",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16690938,
+                "language": "Python",
+                "last_commit": "2026-08-23T21:36:08Z",
+                "owner": "thomasahle",
+                "repo": "sunfish",
+                "stars": 3271
+              }
+            }
+          ],
+          "description": "is a chess engine in 111 lines of code.",
+          "node_type": "group",
+          "title": "sunfish"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Milek7/telnet-games",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30873064,
+                "language": "C#",
+                "last_commit": "2016-10-08T20:54:52Z",
+                "owner": "Milek7",
+                "repo": "telnet-games",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Several arcade games.\nPlay:",
+          "node_type": "group",
+          "title": "telnet-games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mfey619/Terminal-Frogger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113998982,
+                "language": "Python",
+                "last_commit": "2021-01-20T11:30:51Z",
+                "owner": "mfey619",
+                "repo": "Terminal-Frogger",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "is a frogger-themed game.",
+          "node_type": "group",
+          "title": "terminal-frogger"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/ATBennett/terminal_gem_match",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55412195,
+                "language": "C++",
+                "last_commit": "2016-12-04T09:58:11Z",
+                "owner": "Andrew-Bennett-ProMX",
+                "repo": "terminal_gem_match",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "A simple match 3 game in the terminal, using the ncurses library.",
+          "node_type": "group",
+          "title": "terminal_gem_match"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/taylorconor/tinytetris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178619111,
+                "language": "C++",
+                "last_commit": "2024-07-09T06:30:54Z",
+                "owner": "taylorconor",
+                "repo": "tinytetris",
+                "stars": 3290
+              }
+            }
+          ],
+          "description": "is a 80x23 terminal tetris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "tinytetris"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/tetranglix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208389077,
+                "language": "Assembly",
+                "last_commit": "2019-09-14T04:36:02Z",
+                "owner": "nanochess",
+                "repo": "tetranglix",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "tetranglix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/berk76/tetris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104647517,
+                "language": "C",
+                "last_commit": "2024-11-23T21:44:39Z",
+                "owner": "oldcompcz",
+                "repo": "tetris",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "berk76-tetris"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Gregwar/ASCII-Tetris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843468,
+                "language": "C",
+                "last_commit": "2023-04-08T13:18:04Z",
+                "owner": "Gregwar",
+                "repo": "ASCII-Tetris",
+                "stars": 82
+              }
+            }
+          ],
+          "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
+          "node_type": "group",
+          "title": "ascii-tetris"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/zedr/tinycols",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479976854,
+                "language": "C",
+                "last_commit": "2026-03-15T17:14:52Z",
+                "owner": "zedr",
+                "repo": "tinycols",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "is a clone of the Columns game.",
+          "node_type": "group",
+          "title": "TinyCols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/harshjv/threes-c",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33025167,
+                "language": "C",
+                "last_commit": "2019-12-10T14:05:45Z",
+                "owner": "harshjv",
+                "repo": "threes-c",
+                "stars": 33
+              }
+            }
+          ],
+          "description": "is a clone of Threes! game.",
+          "node_type": "group",
+          "title": "threes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nanochess/Toledo-Atomchess",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44785196,
+                "language": "Assembly",
+                "last_commit": "2019-12-16T02:45:17Z",
+                "owner": "nanochess",
+                "repo": "Toledo-Atomchess",
+                "stars": 123
+              }
+            }
+          ],
+          "description": "is the world's smallest chess program in x86 assembly code.",
+          "node_type": "group",
+          "title": "Toledo-Atomchess"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/kouya/tornado",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97447812,
+                "language": "C",
+                "last_commit": "2018-01-05T10:55:07Z",
+                "owner": "kouya",
+                "repo": "tornado",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "is the clone of a Tornado, C64 game.\nWikipedia: https://en.wikipedia.org/wiki/Tornado_(1993_video_game)",
+          "node_type": "group",
+          "title": "tornado"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/tossug/tossug-arena",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108928710,
+                "language": "Shell",
+                "last_commit": "2026-08-21T01:14:26Z",
+                "owner": "tossug",
+                "repo": "tossug-arena",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Board-Gamelets Arena for poor AI Players.",
+          "node_type": "group",
+          "title": "tossug-arena"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/JohnAnthony/TROG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3883357,
+                "language": "C++",
+                "last_commit": "2023-10-21T19:55:43Z",
+                "owner": "JohnAnthony",
+                "repo": "TROG",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "is a roguelike game with simple commands.",
+          "node_type": "group",
+          "title": "trog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mpereira/tty-solitaire",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583744,
+                "language": "C",
+                "last_commit": "2025-05-03T15:02:53Z",
+                "owner": "mpereira",
+                "repo": "tty-solitaire",
+                "stars": 358
+              }
+            }
+          ],
+          "description": "is a clone of Klondike solitaire game.\nPlay:",
+          "node_type": "group",
+          "title": "tty-solitaire"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/mtklr/udd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322442698,
+                "language": "C",
+                "last_commit": "2022-06-20T23:50:01Z",
+                "owner": "mtklr",
+                "repo": "udd",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "A minimally updated version of Chuck Cranor's UNIX port of the game \"dnd\", which was originally released on the PLATO system in 1975.\nWikipedia: https://en.wikipedia.org/wiki/Dnd_(1975_video_game)",
+          "node_type": "group",
+          "title": "udd"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/joshbressers/ularn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6409929,
+                "language": "C",
+                "last_commit": "2025-02-09T02:17:57Z",
+                "owner": "ularn",
+                "repo": "ularn",
+                "stars": 41
+              }
+            }
+          ],
+          "description": "is a roguelike game.",
+          "node_type": "group",
+          "title": "ularn"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/Sheeves11/UnnamedFiefdomGame/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434657593,
+                "language": "Python",
+                "last_commit": "2024-07-30T02:45:03Z",
+                "owner": "Sheeves11",
+                "repo": "UnnamedFiefdomGame",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!",
+          "node_type": "group",
+          "title": "Unnamed Fiefdom Game"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/shmup/wander",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34517944,
+                "language": "C",
+                "last_commit": "2025-11-03T02:49:28Z",
+                "owner": "shmup",
+                "repo": "wander",
+                "stars": 129
+              }
+            }
+          ],
+          "description": "is probably the first computer game that is recognisable as what came to be known as a “text adventure”.\nPlay:",
+          "node_type": "group",
+          "title": "Wander"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/AtomicPair/wolfentext3d",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53402556,
+                "language": "Ruby",
+                "last_commit": "2019-12-11T00:17:21Z",
+                "owner": "AtomicPair",
+                "repo": "wolfentext3d",
+                "stars": 127
+              }
+            }
+          ],
+          "description": "is a 3-D dungeon crawling game.",
+          "node_type": "group",
+          "title": "Wolfentext3D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/ajeetdsouza/clidle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454585938,
+                "language": "Go",
+                "last_commit": "2025-03-28T19:05:44Z",
+                "owner": "ajeetdsouza",
+                "repo": "clidle",
+                "stars": 633
+              }
+            }
+          ],
+          "description": "is a clone of Wordle, Wordle over SSH.\nPlay:",
+          "node_type": "group",
+          "title": "clidle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/nimblebun/wordle-cli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456085930,
+                "language": "Go",
+                "last_commit": "2022-10-01T18:52:04Z",
+                "owner": "nimblebun",
+                "repo": "wordle-cli",
+                "stars": 86
+              }
+            }
+          ],
+          "description": "is a clone of Wordle.",
+          "node_type": "group",
+          "title": "wordle-cli"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/garu/Xonitix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157152576,
+                "language": "C++",
+                "last_commit": "2021-06-07T17:29:58Z",
+                "owner": "garu",
+                "repo": "Xonitix",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "is an action-packed game, where you gain points by claiming space on the line while avoiding the moving dots.\nWikipedia: https://en.wikipedia.org/wiki/Xonix",
+          "node_type": "group",
+          "title": "xonitix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/DriftingOtter/Typr",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706596382,
+                "language": "Python",
+                "last_commit": "2025-10-07T23:34:49Z",
+                "owner": "DriftingOtter",
+                "repo": "Typr",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "python based typing test game.",
+          "node_type": "group",
+          "title": "typr"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website: https://github.com/benhoyt/zztgo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257111143,
+                "language": "Go",
+                "last_commit": "2020-06-06T11:39:07Z",
+                "owner": "benhoyt",
+                "repo": "zztgo",
+                "stars": 30
+              }
+            }
+          ],
+          "description": "a port of Adrian Siekierka’s source code reconstruction of ZZT to Go.\nWikipedia: https://en.wikipedia.org/wiki/ZZT",
+          "node_type": "group",
+          "title": "zztgo"
+        }
+      ],
+      "title": "License"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T20:58:22.791Z",
+    "last_updated": "2026-08-24T14:13:41.220Z",
     "original_repository": "ligurio/awesome-ttygames",
     "original_repository_id": 30400816,
     "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
