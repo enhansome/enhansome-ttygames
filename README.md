@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 32 | 🌐 Java | 📅 2026-08-24
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-25
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 32 | 🌐 Java | 📅 2026-08-24
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-25
 
 ### Let it Ride
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 695 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 696 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
