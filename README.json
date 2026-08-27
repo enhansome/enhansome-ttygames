@@ -105,7 +105,7 @@
                 "last_commit": "2022-06-28T13:47:59Z",
                 "owner": "cymonsgames",
                 "repo": "ASCIIpOrtal",
-                "stars": 203
+                "stars": 204
               }
             }
           ],
@@ -894,7 +894,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:48:02Z",
+                "last_commit": "2026-08-26T17:19:15Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -982,7 +982,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:48:02Z",
+                "last_commit": "2026-08-26T17:19:15Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -1598,7 +1598,7 @@
                 "archived": false,
                 "id": 16690938,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:35:51Z",
+                "last_commit": "2026-08-26T12:45:52Z",
                 "owner": "thomasahle",
                 "repo": "sunfish",
                 "stars": 3271
@@ -1642,7 +1642,7 @@
                 "archived": false,
                 "id": 113998982,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:09:30Z",
+                "last_commit": "2026-08-26T19:33:43Z",
                 "owner": "mfey619",
                 "repo": "Terminal-Frogger",
                 "stars": 0
@@ -1689,7 +1689,7 @@
                 "last_commit": "2024-07-09T06:30:54Z",
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3291
+                "stars": 3292
               }
             }
           ],
@@ -2142,7 +2142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:02:13.019Z",
+    "last_updated": "2026-08-27T00:05:08.126Z",
     "original_repository": "ligurio/awesome-ttygames",
     "original_repository_id": 30400816,
     "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",

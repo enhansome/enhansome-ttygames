@@ -234,7 +234,7 @@ Website: <http://freshmeat.sourceforge.net/projects/asciijump>
 ASCIIpOrtal is a text based puzzle game inspired by
 the popular video game.
 
-Website: <https://github.com/cymonsgames/ASCIIpOrtal> ⭐ 203 | 🐛 14 | 🌐 C++ | 📅 2022-06-28
+Website: <https://github.com/cymonsgames/ASCIIpOrtal> ⭐ 204 | 🐛 14 | 🌐 C++ | 📅 2022-06-28
 
 ### ASCII-Chess
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-25
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 32 | 🌐 Java | 📅 2026-08-26
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-25
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 32 | 🌐 Java | 📅 2026-08-26
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,271 | 🐛 4 | 🌐 Python | 📅 2026-08-24
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,271 | 🐛 4 | 🌐 Python | 📅 2026-08-26
 
 ### taipan
 
@@ -2355,7 +2355,7 @@ Website: <https://github.com/Milek7/telnet-games> ⭐ 6 | 🐛 1 | 🌐 C# | �
 
 is a frogger-themed game.
 
-Website: <https://github.com/mfey619/Terminal-Frogger> ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+Website: <https://github.com/mfey619/Terminal-Frogger> ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 
 ### terminal\_gem\_match
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,291 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
