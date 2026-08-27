@@ -39,7 +39,7 @@
                 "last_commit": "2026-04-02T08:10:10Z",
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 666
+                "stars": 667
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2024-01-31T03:35:06Z",
                 "owner": "tiehuis",
                 "repo": "2048-cli",
-                "stars": 270
+                "stars": 269
               }
             }
           ],
@@ -894,7 +894,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-26T17:19:15Z",
+                "last_commit": "2026-08-27T11:22:06Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -982,7 +982,7 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-26T17:19:15Z",
+                "last_commit": "2026-08-27T11:22:06Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
@@ -1598,7 +1598,7 @@
                 "archived": false,
                 "id": 16690938,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:45:52Z",
+                "last_commit": "2026-08-27T12:05:17Z",
                 "owner": "thomasahle",
                 "repo": "sunfish",
                 "stars": 3271
@@ -2142,9 +2142,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:05:08.126Z",
-    "original_repository": "ligurio/awesome-ttygames",
-    "original_repository_id": 30400816,
+    "last_updated": "2026-08-27T12:06:44.151Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 30400816,
+      "language": "HTML",
+      "last_commit": "2026-08-02T17:46:38Z",
+      "owner": "ligurio",
+      "repo": "awesome-ttygames",
+      "stars": 1026
+    },
     "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
     "enhanced_repository": "enhansome/enhansome-ttygames",
     "enhanced_repository_description": null,
