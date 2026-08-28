@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-27
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 36 | 🌐 Java | 📅 2026-08-27
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 34 | 🌐 Java | 📅 2026-08-27
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 36 | 🌐 Java | 📅 2026-08-27
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,271 | 🐛 5 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,272 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

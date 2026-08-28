@@ -18,7 +18,8 @@
                 "owner": "hackndev",
                 "repo": "0verkill",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is bloody 2D action deathmatch-like game.",
@@ -40,7 +41,8 @@
                 "owner": "mevdschee",
                 "repo": "2048.c",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of 2048 game.\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
@@ -62,7 +64,8 @@
                 "owner": "tiehuis",
                 "repo": "2048-cli",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of 2048 game.\nWikipedia: https://en.wikipedia.org/wiki/2048_(video_game)",
@@ -84,7 +87,8 @@
                 "owner": "bolknote",
                 "repo": "shellgames",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of arcade game Arkanoid.\nWikipedia: https://en.wikipedia.org/wiki/Arkanoid",
@@ -106,7 +110,8 @@
                 "owner": "cymonsgames",
                 "repo": "ASCIIpOrtal",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "ASCIIpOrtal is a text based puzzle game inspired by the popular video game.",
@@ -128,7 +133,8 @@
                 "owner": "Parigyan",
                 "repo": "ASCII-Chess",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Chess program with AI having a vintage linux terminal interface.",
@@ -150,7 +156,8 @@
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
                 "stars": 2472
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
@@ -172,7 +179,8 @@
                 "owner": "phoemur",
                 "repo": "bashmaze",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A maze game written completely in shell-script.",
@@ -194,7 +202,8 @@
                 "owner": "Pentachoron-Labs",
                 "repo": "Behacked",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Matching game with the goal of getting a group of four connected gems, written with ncurses.\nWikipedia: https://en.wikipedia.org/wiki/Bejeweled",
@@ -216,7 +225,8 @@
                 "owner": "io12",
                 "repo": "BootMine",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Bootable minesweeper game in a 512-byte boot sector.\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
@@ -238,7 +248,8 @@
                 "owner": "nanochess",
                 "repo": "bootRogue",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a roguelike game that fits in a boot sector (510 bytes).",
@@ -260,7 +271,8 @@
                 "owner": "haliphax",
                 "repo": "pybowl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Python bowling game using the Blessed terminal library.",
@@ -282,7 +294,8 @@
                 "owner": "nanochess",
                 "repo": "bricks",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A game of bricks and paddle on one boot sector (510 bytes).",
@@ -304,7 +317,8 @@
                 "owner": "jaens",
                 "repo": "bricks-cport",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Port of the Bricks boot sector game to (16-bit) C.",
@@ -326,7 +340,8 @@
                 "owner": "gnomengineer",
                 "repo": "cBattleship",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of the classic Battleship game.",
@@ -348,7 +363,8 @@
                 "owner": "bolknote",
                 "repo": "SedChess",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a chess game implemented in sed utility.",
@@ -370,7 +386,8 @@
                 "owner": "nickzuber",
                 "repo": "chs",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a chess game against the Stockfish engine.",
@@ -392,7 +409,8 @@
                 "owner": "veselov",
                 "repo": "clines",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Color Lines game.\nWikipedia: https://ru.wikipedia.org/wiki/Color_Lines",
@@ -414,7 +432,8 @@
                 "owner": "badescunicu",
                 "repo": "connect4",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Connect4 game.\nWikipedia: https://en.wikipedia.org/wiki/Connect_Four",
@@ -436,7 +455,8 @@
                 "owner": "beejjorgensen",
                 "repo": "conquest",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of the old Amiga Conquest text-based game.",
@@ -458,7 +478,8 @@
                 "owner": "jontrulson",
                 "repo": "conquest",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a real-time, multi-player space warfare game.\nPlay:",
@@ -480,7 +501,8 @@
                 "owner": "nielssp",
                 "repo": "csol",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.).\nWikipedia: https://en.wikipedia.org/wiki/Solitaire",
@@ -502,7 +524,8 @@
                 "owner": "0xminik",
                 "repo": "ctris",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -524,7 +547,8 @@
                 "owner": "gsobell",
                 "repo": "dango",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a tui Go (baduk) board written in python",
@@ -546,7 +570,8 @@
                 "owner": "infews",
                 "repo": "dukedomrb",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Yet another port of the classic mainframe game from 1976\nWikipedia: https://en.wikipedia.org/wiki/Dukedom_(video_game)",
@@ -568,7 +593,8 @@
                 "owner": "nanochess",
                 "repo": "fbird",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a text bootsector game.",
@@ -590,7 +616,8 @@
                 "owner": "odditica",
                 "repo": "fiTD",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A basic console-based tower defense game/engine.",
@@ -612,7 +639,8 @@
                 "owner": "smmspiers",
                 "repo": "FloodIt",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Simple game in terminal to flood a grid of colours to one colour.\nWikipedia: https://en.wikipedia.org/wiki/7_Colors",
@@ -634,7 +662,8 @@
                 "owner": "bunburya",
                 "repo": "flying-robots",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is based on the BSD robots game, but with a third dimension of movement.",
@@ -656,7 +685,8 @@
                 "owner": "ostrosablin",
                 "repo": "freecell",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Fork with improvements over ncurses freecell implementation by Linus Akesson (solver support, better metamoves, various usability improvements).",
@@ -678,7 +708,8 @@
                 "owner": "rwestlund",
                 "repo": "freesweep",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Minesweeper game.\nWikipedia: https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
@@ -700,7 +731,8 @@
                 "owner": "cyphar",
                 "repo": "ascii-snake",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of a Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
@@ -722,7 +754,8 @@
                 "owner": "goblinhack",
                 "repo": "goblinhack",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a roguelike OpenGL-based smooth-scrolling ASCII graphics game.",
@@ -744,7 +777,8 @@
                 "owner": "bolknote",
                 "repo": "gopnik2",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "«Гопник-2» - это продолжение культовой текстовой игры «Гопник», жанр которой наиболее близок к жанру Hack and Slash RPG. Во второй части полностью сохранена изначальная концепция, улучшен алгоритм генерирования противников в соответствии с текущим состоянием главного героя, выровнен баланс прохождения и прокачки, добавлено три уровня сложности.",
@@ -766,7 +800,8 @@
                 "owner": "zladovan",
                 "repo": "gorched",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a a clone of \"Scorched Earth\" game.",
@@ -788,7 +823,8 @@
                 "owner": "blt",
                 "repo": "hamurabi",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a 1969 text-based game of land and resource management and is one of the earliest computer games.\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
@@ -810,7 +846,8 @@
                 "owner": "wzhishen",
                 "repo": "hammurabi",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a very old computer game, in which you are the ruler of ancient Samaria, trying to increase the wealth of your country. Here is the 21st century version of it, which is implemented in Python!\nWikipedia: https://en.wikipedia.org/wiki/Hamurabi",
@@ -832,7 +869,8 @@
                 "owner": "nanochess",
                 "repo": "Invaders",
                 "stars": 521
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Space Invaders game in 512 bytes (boot sector).\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders",
@@ -854,7 +892,8 @@
                 "owner": "gabrielvictorcf",
                 "repo": "just-asteroids",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Asteroids game.\nWikipedia: https://en.wikipedia.org/wiki/Asteroids_(video_game)",
@@ -876,7 +915,8 @@
                 "owner": "macdice",
                 "repo": "ascii-invaders",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Space Invaders game.\nWikipedia: https://en.wikipedia.org/wiki/Space_Invaders\nPlay:",
@@ -894,11 +934,12 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:22:06Z",
+                "last_commit": "2026-08-27T20:05:22Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "An ascii railroad simulator in Java",
@@ -920,7 +961,8 @@
                 "owner": "nanochess",
                 "repo": "lights",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a boot sector game.",
@@ -942,7 +984,8 @@
                 "owner": "sergev",
                 "repo": "landing-rust",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "The game where your mission is to safely maneuver your lunar module onto the moon's surface. This is a port to BESM-6, rewritten from Pascal into C++ into Rust module onto the moon's surface.",
@@ -964,7 +1007,8 @@
                 "owner": "taviso",
                 "repo": "katamascii",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a puzzle game, roll around your terminal collecting ASCII-art objects.",
@@ -982,11 +1026,12 @@
                 "archived": false,
                 "id": 122837683,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:22:06Z",
+                "last_commit": "2026-08-27T20:05:22Z",
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "a train simulator consisting of creating tracks and stations along a virtually infinite map, and creating trains and earning money by carrying passengers between them.",
@@ -1008,7 +1053,8 @@
                 "owner": "servusdei2018",
                 "repo": "Mafia-Werewolf",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "OpenMafia/Werewolf Multiplayer social game with AI to fill in the rest!\nWikipedia: https://en.wikipedia.org/wiki/Mafia_(party_game)",
@@ -1030,7 +1076,8 @@
                 "owner": "0x501D",
                 "repo": "memwatch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "memwatch contains an easter egg - a game with a pinguin that jumps between holes in a pipelines.",
@@ -1052,7 +1099,8 @@
                 "owner": "rbtnn",
                 "repo": "vim-mario",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Super Mario game inside Vim (text editor).",
@@ -1074,7 +1122,8 @@
                 "owner": "gre",
                 "repo": "morpion-solitaire",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A morpion solitaire game implementation in C using ncurses.\nWikipedia: https://en.wikipedia.org/wiki/Join_five",
@@ -1096,7 +1145,8 @@
                 "owner": "mogria",
                 "repo": "msnake",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
@@ -1118,7 +1168,8 @@
                 "owner": "abakh",
                 "repo": "nbsdgames",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "New BSD Games is a package of 18 text-based modern games.",
@@ -1140,7 +1191,8 @@
                 "owner": "mikepierce",
                 "repo": "ncLife",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a Conway's Game of Life.\nWikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
@@ -1162,7 +1214,8 @@
                 "owner": "naclander",
                 "repo": "netris",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Tetris game featuring competitive online multiplayer.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -1184,7 +1237,8 @@
                 "owner": "dead-end",
                 "repo": "nuzzle",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a puzzle game collection (N-curses p-UZZLE).",
@@ -1206,7 +1260,8 @@
                 "owner": "gsobell",
                 "repo": "lightcycle",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "a classic Tron game, for your terminal.\nWikipedia: https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay",
@@ -1228,7 +1283,8 @@
                 "owner": "yudonglin",
                 "repo": "Oregon-Trail",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Recreation of the Oregon Trail game, written in Python.\nWikipedia: https://en.wikipedia.org/wiki/The_Oregon_Trail_(1971_video_game)",
@@ -1250,7 +1306,8 @@
                 "owner": "nanochess",
                 "repo": "Pillman",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Pacman game in 512 bytes (boot sector or COM file).",
@@ -1272,7 +1329,8 @@
                 "owner": "tsoding",
                 "repo": "pinpog",
                 "stars": 696
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is game in Assembly that works without OS.",
@@ -1294,7 +1352,8 @@
                 "owner": "oldcompcz",
                 "repo": "piskworks",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Gomoku game.",
@@ -1316,7 +1375,8 @@
                 "owner": "vaniacer",
                 "repo": "piu-piu-SH",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is an old school horizontal scroller 'Shoot Them All' game.",
@@ -1338,7 +1398,8 @@
                 "owner": "gdamore",
                 "repo": "proxima5",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A curses-style space shooter written in Go, using the Tcell package.",
@@ -1360,7 +1421,8 @@
                 "owner": "rbtnn",
                 "repo": "vim-puyo",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Puyo Puyo game, inside Vim.\nWikipedia: https://en.wikipedia.org/wiki/Puyo_Puyo_(video_game)",
@@ -1382,7 +1444,8 @@
                 "owner": "pravj",
                 "repo": "puzzl",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is an intelligent version of the sliding-puzzle game.",
@@ -1404,7 +1467,8 @@
                 "owner": "yth",
                 "repo": "pythrees",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Threes! game.",
@@ -1426,7 +1490,8 @@
                 "owner": "dpc",
                 "repo": "rhex",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a hexagonal map rogue-like.\nPlay:",
@@ -1448,7 +1513,8 @@
                 "owner": "ljc2154",
                 "repo": "Rummy",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is clone the card game Rummy with competitive Computer Agent.",
@@ -1470,7 +1536,8 @@
                 "owner": "annacrombie",
                 "repo": "shell-tanks",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a tank game with randomly generated terrain in which the object is to destroy your opponent.",
@@ -1492,7 +1559,8 @@
                 "owner": "Birkenstab",
                 "repo": "SSH-Pong",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a dockerized pong for one.\nPlay:",
@@ -1514,7 +1582,8 @@
                 "owner": "XlogicX",
                 "repo": "BootSlide",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of the slider puzzle game in a boot sector.",
@@ -1536,7 +1605,8 @@
                 "owner": "begoon",
                 "repo": "stuff",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Snake game.\nWikipedia: https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
@@ -1558,7 +1628,8 @@
                 "owner": "NHTangles",
                 "repo": "sporkhack",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Nethack game.",
@@ -1580,7 +1651,8 @@
                 "owner": "mateusza",
                 "repo": "sqlite-hangman",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Hangman game implemented as an extension for SQLite database.\nWikipedia: https://en.wikipedia.org/wiki/Hangman_(game)",
@@ -1598,11 +1670,12 @@
                 "archived": false,
                 "id": 16690938,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:05:17Z",
+                "last_commit": "2026-08-27T12:09:21Z",
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3271
-              }
+                "stars": 3272
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a chess engine in 111 lines of code.",
@@ -1624,7 +1697,8 @@
                 "owner": "Milek7",
                 "repo": "telnet-games",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Several arcade games.\nPlay:",
@@ -1646,7 +1720,8 @@
                 "owner": "mfey619",
                 "repo": "Terminal-Frogger",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a frogger-themed game.",
@@ -1668,7 +1743,8 @@
                 "owner": "Andrew-Bennett-ProMX",
                 "repo": "terminal_gem_match",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A simple match 3 game in the terminal, using the ncurses library.",
@@ -1690,7 +1766,8 @@
                 "owner": "taylorconor",
                 "repo": "tinytetris",
                 "stars": 3292
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a 80x23 terminal tetris\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -1712,7 +1789,8 @@
                 "owner": "nanochess",
                 "repo": "tetranglix",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -1734,7 +1812,8 @@
                 "owner": "oldcompcz",
                 "repo": "tetris",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -1756,7 +1835,8 @@
                 "owner": "Gregwar",
                 "repo": "ASCII-Tetris",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Tetris game.\nWikipedia: https://en.wikipedia.org/wiki/Tetris",
@@ -1778,7 +1858,8 @@
                 "owner": "zedr",
                 "repo": "tinycols",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of the Columns game.",
@@ -1800,7 +1881,8 @@
                 "owner": "harshjv",
                 "repo": "threes-c",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Threes! game.",
@@ -1822,7 +1904,8 @@
                 "owner": "nanochess",
                 "repo": "Toledo-Atomchess",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is the world's smallest chess program in x86 assembly code.",
@@ -1844,7 +1927,8 @@
                 "owner": "kouya",
                 "repo": "tornado",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is the clone of a Tornado, C64 game.\nWikipedia: https://en.wikipedia.org/wiki/Tornado_(1993_video_game)",
@@ -1866,7 +1950,8 @@
                 "owner": "tossug",
                 "repo": "tossug-arena",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "Board-Gamelets Arena for poor AI Players.",
@@ -1888,7 +1973,8 @@
                 "owner": "JohnAnthony",
                 "repo": "TROG",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a roguelike game with simple commands.",
@@ -1910,7 +1996,8 @@
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Klondike solitaire game.\nPlay:",
@@ -1932,7 +2019,8 @@
                 "owner": "mtklr",
                 "repo": "udd",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "A minimally updated version of Chuck Cranor's UNIX port of the game \"dnd\", which was originally released on the PLATO system in 1975.\nWikipedia: https://en.wikipedia.org/wiki/Dnd_(1975_video_game)",
@@ -1954,7 +2042,8 @@
                 "owner": "ularn",
                 "repo": "ularn",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a roguelike game.",
@@ -1976,7 +2065,8 @@
                 "owner": "Sheeves11",
                 "repo": "UnnamedFiefdomGame",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a text-based MMO about controlling fiefdoms, farming gold, and stealing from your enemies!",
@@ -1998,7 +2088,8 @@
                 "owner": "shmup",
                 "repo": "wander",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is probably the first computer game that is recognisable as what came to be known as a “text adventure”.\nPlay:",
@@ -2020,7 +2111,8 @@
                 "owner": "AtomicPair",
                 "repo": "wolfentext3d",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a 3-D dungeon crawling game.",
@@ -2042,7 +2134,8 @@
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
                 "stars": 633
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Wordle, Wordle over SSH.\nPlay:",
@@ -2064,7 +2157,8 @@
                 "owner": "nimblebun",
                 "repo": "wordle-cli",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is a clone of Wordle.",
@@ -2086,7 +2180,8 @@
                 "owner": "garu",
                 "repo": "Xonitix",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "is an action-packed game, where you gain points by claiming space on the line while avoiding the moving dots.\nWikipedia: https://en.wikipedia.org/wiki/Xonix",
@@ -2108,7 +2203,8 @@
                 "owner": "DriftingOtter",
                 "repo": "Typr",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "python based typing test game.",
@@ -2130,7 +2226,8 @@
                 "owner": "benhoyt",
                 "repo": "zztgo",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T04:28:32.517Z"
             }
           ],
           "description": "a port of Adrian Siekierka’s source code reconstruction of ZZT to Go.\nWikipedia: https://en.wikipedia.org/wiki/ZZT",
@@ -2142,7 +2239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:44.151Z",
+    "last_updated": "2026-08-28T04:28:32.517Z",
     "original_repository_info": {
       "archived": false,
       "id": 30400816,
