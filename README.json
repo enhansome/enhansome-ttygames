@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "0verkill game patches",
+                "homepage": null,
                 "id": 1014474,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-08-30T01:40:23Z",
+                "open_issues": 3,
                 "owner": "hackndev",
                 "repo": "0verkill",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -35,12 +40,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Console version of the game \"2048\" for GNU/Linux",
+                "homepage": null,
                 "id": 18155567,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-04-02T08:10:10Z",
+                "open_issues": 0,
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "2048",
+                  "2048-clone",
+                  "2048-game",
+                  "ansi-colors",
+                  "c",
+                  "cli",
+                  "command-line",
+                  "game",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -58,12 +78,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)",
+                "homepage": null,
                 "id": 17684708,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-01-31T03:35:06Z",
+                "open_issues": 10,
                 "owner": "tiehuis",
                 "repo": "2048-cli",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "2048",
+                  "ncurses",
+                  "terminal",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -81,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some bash games",
+                "homepage": "http://bolknote.ru",
                 "id": 2392876,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-02-10T04:46:35Z",
+                "open_issues": 0,
                 "owner": "bolknote",
                 "repo": "shellgames",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -104,12 +139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's like portal, but in ASCII. And 2D. Sweet look-through mechanic, tho.",
+                "homepage": "http://cymonsgames.com/asciiportal",
                 "id": 1711219,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-28T13:47:59Z",
+                "open_issues": 14,
                 "owner": "cymonsgames",
                 "repo": "ASCIIpOrtal",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -127,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chess program with AI having a vintage linux terminal interface.",
+                "homepage": null,
                 "id": 15706921,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-15T15:19:16Z",
+                "open_issues": 6,
                 "owner": "Parigyan",
                 "repo": "ASCII-Chess",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -150,12 +195,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
+                "homepage": null,
                 "id": 49528234,
                 "language": "Awk",
+                "license": "MIT",
                 "last_commit": "2023-01-20T20:26:06Z",
+                "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2472
+                "stars": 2472,
+                "topics": [
+                  "3d",
+                  "awk",
+                  "game",
+                  "raycast"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -173,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a maze game writen completely in shell-script.",
+                "homepage": null,
                 "id": 17323961,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2014-03-01T20:56:20Z",
+                "open_issues": 0,
                 "owner": "phoemur",
                 "repo": "bashmaze",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -196,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bejeweled sort-of-clone written in C and ncurses.",
+                "homepage": null,
                 "id": 16128014,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-01-04T18:12:27Z",
+                "open_issues": 0,
                 "owner": "Pentachoron-Labs",
                 "repo": "Behacked",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -219,12 +284,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootable minesweeper game in a 512-byte boot sector",
+                "homepage": null,
                 "id": 267526935,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-01-21T04:53:31Z",
+                "open_issues": 0,
                 "owner": "io12",
                 "repo": "BootMine",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "16-bit",
+                  "assembly",
+                  "bios",
+                  "boot-sector",
+                  "bootloader",
+                  "dos",
+                  "game",
+                  "golf",
+                  "mbr",
+                  "mines",
+                  "minesweeper",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -242,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bootRogue, a roguelike game that fits in a boot sector (510 bytes)",
+                "homepage": null,
                 "id": 211150522,
                 "language": "Assembly",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-03-09T22:38:28Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "bootRogue",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -265,12 +353,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python bowling game using the Blessed terminal library",
+                "homepage": null,
                 "id": 55621458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-06T18:00:43Z",
+                "open_issues": 0,
                 "owner": "haliphax",
                 "repo": "pybowl",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bowling-game",
+                  "game",
+                  "terminal-based",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -288,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game of bricks and paddle on one boot sector (510 bytes)",
+                "homepage": null,
                 "id": 219236250,
                 "language": "Assembly",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-03-09T22:40:58Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "bricks",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -311,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C translation of Bricks boot sector game",
+                "homepage": null,
                 "id": 224351003,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-11-27T05:32:00Z",
+                "open_issues": 0,
                 "owner": "jaens",
                 "repo": "bricks-cport",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -334,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a little battleship game with network connection to play with friends",
+                "homepage": null,
                 "id": 24219312,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2016-04-11T13:49:52Z",
+                "open_issues": 3,
                 "owner": "gnomengineer",
                 "repo": "cBattleship",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -357,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Шахматы, написанные на языке утилиты sed",
+                "homepage": null,
                 "id": 12291203,
                 "language": null,
+                "license": null,
                 "last_commit": "2013-08-28T03:15:00Z",
+                "open_issues": 3,
                 "owner": "bolknote",
                 "repo": "SedChess",
-                "stars": 298
+                "stars": 298,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -380,12 +498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "♝♞ Play chess against the Stockfish engine in your terminal.",
+                "homepage": null,
                 "id": 191454427,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-28T08:09:26Z",
+                "open_issues": 21,
                 "owner": "nickzuber",
                 "repo": "chs",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -403,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "console lines",
+                "homepage": null,
                 "id": 37685014,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2015-11-11T09:06:00Z",
+                "open_issues": 0,
                 "owner": "veselov",
                 "repo": "clines",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -426,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 8019274,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-03-20T13:40:49Z",
+                "open_issues": 0,
                 "owner": "badescunicu",
                 "repo": "connect4",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -449,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of the old Amiga Conquest text-based game",
+                "homepage": null,
                 "id": 25025838,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-04-30T02:14:15Z",
+                "open_issues": 0,
                 "owner": "beejjorgensen",
                 "repo": "conquest",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -472,12 +610,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A real-time multi-player space warfare game, originally written in RATFOR for VAX/VMS, but updated for the 21st century.",
+                "homepage": null,
                 "id": 119116486,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-21T19:51:07Z",
+                "open_issues": 0,
                 "owner": "jontrulson",
                 "repo": "conquest",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "client-server",
+                  "conquest",
+                  "cplusplus-11",
+                  "freeglut",
+                  "game",
+                  "internet",
+                  "mit-licensed",
+                  "multiplayer",
+                  "opengl",
+                  "sdl-mixer",
+                  "sound",
+                  "space",
+                  "space-warfare-game",
+                  "unix",
+                  "vax",
+                  "war"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -495,12 +655,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small collection of solitaire/patience games (Klondike, FreeCell, Spider, Yukon, etc.) to play in the terminal",
+                "homepage": "https://nielssp.dk/csol/",
                 "id": 85507934,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-07-19T11:35:04Z",
+                "open_issues": 0,
                 "owner": "nielssp",
                 "repo": "csol",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "c",
+                  "card-game",
+                  "dos",
+                  "dosgame",
+                  "ncurses",
+                  "pdcurses",
+                  "solitaire",
+                  "solitaire-game",
+                  "terminal",
+                  "terminal-game",
+                  "tty-game",
+                  "tui",
+                  "tui-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -518,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tetris(TM)-clone for the console written in C, using the ncurses-library.",
+                "homepage": null,
                 "id": 41298183,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-01-07T17:12:50Z",
+                "open_issues": 1,
                 "owner": "0xminik",
                 "repo": "ctris",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -541,12 +725,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Go board for the terminal 🍡",
+                "homepage": "https://gsobell.github.io/programs/baduk-fortune/",
                 "id": 388608894,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-16T20:36:24Z",
+                "open_issues": 0,
                 "owner": "gsobell",
                 "repo": "dango",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "ascii",
+                  "baduk",
+                  "curses",
+                  "gnugo",
+                  "go",
+                  "ncurses",
+                  "python",
+                  "shell-wrappers",
+                  "terminal",
+                  "vim-keybindings",
+                  "weiqi"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -564,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another port of the mainframe game; Used to teach Ruby, OOP, and stuff",
+                "homepage": null,
                 "id": 357946038,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2021-10-23T20:19:46Z",
+                "open_issues": 0,
                 "owner": "infews",
                 "repo": "dukedomrb",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -587,12 +793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boot sector game in text mode",
+                "homepage": null,
                 "id": 93414657,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2019-09-24T22:40:54Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "fbird",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "asm",
+                  "bootloader",
+                  "game",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -610,12 +826,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A console-based TD game engine written in C++ .",
+                "homepage": null,
                 "id": 172269934,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-07-22T20:21:54Z",
+                "open_issues": 0,
                 "owner": "odditica",
                 "repo": "fiTD",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "catch2",
+                  "cmake",
+                  "curses",
+                  "fit-ctu",
+                  "gamedev",
+                  "ncurses",
+                  "tower-defense"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -633,12 +862,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple game in terminal to flood a grid of colours to one colour.",
+                "homepage": null,
                 "id": 80451493,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2017-02-01T19:27:38Z",
+                "open_issues": 0,
                 "owner": "smmspiers",
                 "repo": "FloodIt",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -656,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A three-dimensional clone of the classic BSD Robots game.",
+                "homepage": null,
                 "id": 3301902,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-21T00:00:44Z",
+                "open_issues": 0,
                 "owner": "bunburya",
                 "repo": "flying-robots",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -679,12 +918,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork with improvements over ncurses freecell implementation by Linus Akesson",
+                "homepage": null,
                 "id": 412407808,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2023-03-10T20:16:44Z",
+                "open_issues": 0,
                 "owner": "ostrosablin",
                 "repo": "freecell",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ascii-game",
+                  "fc-solve",
+                  "freecell",
+                  "freecell-solver",
+                  "game",
+                  "ncurses",
+                  "patience",
+                  "patience-game",
+                  "solitaire",
+                  "terminal-game",
+                  "text-based-game",
+                  "tty-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -702,12 +959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A console minesweeper-style game written in C for Unix-like systems",
+                "homepage": null,
                 "id": 47507253,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-19T01:12:13Z",
+                "open_issues": 4,
                 "owner": "rwestlund",
                 "repo": "freesweep",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -725,12 +987,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A remake of the old Nokia Snake game.",
+                "homepage": null,
                 "id": 11281262,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2016-03-23T11:33:09Z",
+                "open_issues": 0,
                 "owner": "cyphar",
                 "repo": "ascii-snake",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -748,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hello!",
+                "homepage": null,
                 "id": 428628829,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-06T16:02:35Z",
+                "open_issues": 0,
                 "owner": "goblinhack",
                 "repo": "goblinhack",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -771,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Порт старой текстовой игры под Линукс и МакОС (автор исходной игры — d-maxx, первоначальный порт — tiandrey)",
+                "homepage": null,
                 "id": 617160392,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-02T06:30:44Z",
+                "open_issues": 0,
                 "owner": "bolknote",
                 "repo": "gopnik2",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -794,12 +1071,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gorched is terminal based game written in Go inspired by \"The Mother of all games\" Scorched Earth",
+                "homepage": null,
                 "id": 263883501,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-07-27T09:40:57Z",
+                "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "ascii-game",
+                  "ascii-graphics",
+                  "game",
+                  "go",
+                  "golang",
+                  "procedural-generation",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -817,12 +1107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A translation of the classic BASIC game.",
+                "homepage": null,
                 "id": 744254,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2010-06-29T00:10:24Z",
+                "open_issues": 2,
                 "owner": "blt",
                 "repo": "hamurabi",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -840,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hammurabi, a classic computer game.",
+                "homepage": null,
                 "id": 12414482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-08-29T01:31:35Z",
+                "open_issues": 0,
                 "owner": "wzhishen",
                 "repo": "hammurabi",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -863,12 +1163,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invaders game in 512 bytes (boot sector)",
+                "homepage": null,
                 "id": 190288933,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-01-18T16:42:54Z",
+                "open_issues": 1,
                 "owner": "nanochess",
                 "repo": "Invaders",
-                "stars": 521
+                "stars": 521,
+                "topics": [
+                  "asm",
+                  "bootloader",
+                  "game",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -886,12 +1196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal app for playin good ol' Asteroids :joystick:",
+                "homepage": null,
                 "id": 360329536,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-23T00:57:58Z",
+                "open_issues": 0,
                 "owner": "gabrielvictorcf",
                 "repo": "just-asteroids",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -909,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ASCII-art game like Space Invaders",
+                "homepage": null,
                 "id": 11927847,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2021-08-30T21:22:05Z",
+                "open_issues": 2,
                 "owner": "macdice",
                 "repo": "ascii-invaders",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -932,12 +1252,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The letter train simulator. Java version",
+                "homepage": null,
                 "id": 122837683,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:27:33Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ascii",
+                  "ascii-game",
+                  "game",
+                  "java",
+                  "simulator",
+                  "terminal",
+                  "trains",
+                  "video-game",
+                  "video-games"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -955,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Follow the Lights boot sector game in only 510 bytes of x86 machine code.",
+                "homepage": null,
                 "id": 244447594,
                 "language": "Assembly",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-03-09T22:30:23Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "lights",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -978,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lunar Lander game from BESM-6, rewritten from Pascal into C++ into Rust",
+                "homepage": null,
                 "id": 287680212,
                 "language": "C++",
+                "license": "CC0-1.0",
                 "last_commit": "2020-08-20T05:10:18Z",
+                "open_issues": 0,
                 "owner": "sergev",
                 "repo": "landing-rust",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1001,12 +1346,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ascii-art physics puzzle, roll around your terminal collecting ascii-art objects!",
+                "homepage": null,
                 "id": 480201563,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-25T13:24:31Z",
+                "open_issues": 0,
                 "owner": "taviso",
                 "repo": "katamascii",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "ascii-art",
+                  "game",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1024,12 +1378,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The letter train simulator. Java version",
+                "homepage": null,
                 "id": 122837683,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:27:33Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ascii",
+                  "ascii-game",
+                  "game",
+                  "java",
+                  "simulator",
+                  "terminal",
+                  "trains",
+                  "video-game",
+                  "video-games"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1047,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenMafia/Werewolf Multiplayer social game with AI to fill in the rest!",
+                "homepage": null,
                 "id": 229176180,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-20T02:42:55Z",
+                "open_issues": 0,
                 "owner": "servusdei2018",
                 "repo": "Mafia-Werewolf",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1070,12 +1444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 442097101,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-19T10:45:23Z",
+                "open_issues": 0,
                 "owner": "0x501D",
                 "repo": "memwatch",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1093,12 +1472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mario on Vim",
+                "homepage": null,
                 "id": 22571678,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2020-01-28T14:04:59Z",
+                "open_issues": 0,
                 "owner": "rbtnn",
                 "repo": "vim-mario",
-                "stars": 540
+                "stars": 540,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1116,12 +1500,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A morpion solitaire game implementation in C using ncurses.",
+                "homepage": null,
                 "id": 1168759,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-05-05T19:20:54Z",
+                "open_issues": 0,
                 "owner": "gre",
                 "repo": "morpion-solitaire",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1139,12 +1528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a command line based snake game written in C using ncurses",
+                "homepage": null,
                 "id": 3612545,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-12-09T19:15:44Z",
+                "open_issues": 1,
                 "owner": "mogria",
                 "repo": "msnake",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1162,12 +1556,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone.",
+                "homepage": null,
                 "id": 149785411,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-18T22:29:17Z",
+                "open_issues": 2,
                 "owner": "abakh",
                 "repo": "nbsdgames",
-                "stars": 310
+                "stars": 310,
+                "topics": [
+                  "ascii-game",
+                  "battleship",
+                  "bsdgames",
+                  "c",
+                  "checkers",
+                  "curses",
+                  "fifteen-puzzle",
+                  "game",
+                  "games",
+                  "maze",
+                  "minesweeper",
+                  "minimal",
+                  "plan9",
+                  "portable",
+                  "public-domain",
+                  "puzzle-game",
+                  "reversi",
+                  "sudoku",
+                  "terminal",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1185,12 +1605,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Conway's Game of Life Implemented in C++ with ncurses",
+                "homepage": null,
                 "id": 48771984,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2016-03-30T16:32:15Z",
+                "open_issues": 0,
                 "owner": "mikepierce",
                 "repo": "ncLife",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1208,12 +1633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo clone of the Netris game with added patches and fixes.",
+                "homepage": null,
                 "id": 19440135,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2014-06-25T05:16:57Z",
+                "open_issues": 0,
                 "owner": "naclander",
                 "repo": "netris",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1231,12 +1661,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ncurses puzzle",
+                "homepage": null,
                 "id": 215374145,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-07-13T22:08:54Z",
+                "open_issues": 2,
                 "owner": "dead-end",
                 "repo": "nuzzle",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "curses",
+                  "game",
+                  "ncurses",
+                  "puzzle",
+                  "puzzle-game",
+                  "terminal",
+                  "terminal-based",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1254,12 +1698,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a classic Tron game, for your terminal 🏍️",
+                "homepage": "https://gsobell.github.io/programs/lightcycle/",
                 "id": 668008513,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-29T16:44:17Z",
+                "open_issues": 0,
                 "owner": "gsobell",
                 "repo": "lightcycle",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "encom",
+                  "lightcycle",
+                  "ncurses",
+                  "ncurses-game",
+                  "tron",
+                  "tron-game",
+                  "tron-legacy"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1277,12 +1734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best  Oregon Trail game for python forever!",
+                "homepage": null,
                 "id": 127375908,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-25T21:54:59Z",
+                "open_issues": 0,
                 "owner": "yudonglin",
                 "repo": "Oregon-Trail",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1300,12 +1762,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pillman boot sector game, a yellow thing eats pills and is chased by monsters.",
+                "homepage": null,
                 "id": 195884731,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-01-18T16:41:06Z",
+                "open_issues": 2,
                 "owner": "nanochess",
                 "repo": "Pillman",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "asm",
+                  "bootloader",
+                  "game",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1323,12 +1795,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ping-Pong-like game in Assembly that works without OS",
+                "homepage": null,
                 "id": 191607929,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-08-27T17:59:43Z",
+                "open_issues": 4,
                 "owner": "tsoding",
                 "repo": "pinpog",
-                "stars": 696
+                "stars": 696,
+                "topics": [
+                  "assembly-language",
+                  "bios",
+                  "game-development",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "operating-system",
+                  "os",
+                  "ping-pong-game",
+                  "real-mode",
+                  "twitch",
+                  "twitch-streamers"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1346,12 +1835,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gomoku",
+                "homepage": "http://www.doshaven.eu/game/piskworks/",
                 "id": 104725066,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-23T21:33:22Z",
+                "open_issues": 0,
                 "owner": "oldcompcz",
                 "repo": "piskworks",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "as400",
+                  "cli",
+                  "dos",
+                  "game",
+                  "linux",
+                  "win32",
+                  "z88dk",
+                  "zx-spectrum",
+                  "zx80",
+                  "zx81"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1369,12 +1874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exchange in multiplayer mode. So netcat have to be installed on system if you wish to play with friend. Terminals on both hosts have to be with equal dimensions.",
+                "homepage": null,
                 "id": 74022014,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-05-28T11:24:30Z",
+                "open_issues": 3,
                 "owner": "vaniacer",
                 "repo": "piu-piu-SH",
-                "stars": 746
+                "stars": 746,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1392,12 +1902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proxima 5 is a curses-style space shooter written in Go, using the Tcell package.",
+                "homepage": null,
                 "id": 44528129,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-22T15:30:22Z",
+                "open_issues": 14,
                 "owner": "gdamore",
                 "repo": "proxima5",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1415,12 +1930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Puyo on Vim",
+                "homepage": null,
                 "id": 13195233,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2020-01-28T14:04:22Z",
+                "open_issues": 0,
                 "owner": "rbtnn",
                 "repo": "vim-puyo",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1438,12 +1958,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":game_die: An intelligent version of the sliding-puzzle game for your terminal built in golang",
+                "homepage": null,
                 "id": 32503532,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2017-05-19T15:24:14Z",
+                "open_issues": 0,
                 "owner": "pravj",
                 "repo": "puzzl",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "concurrent-programming",
+                  "game",
+                  "go",
+                  "pathfinding-algorithm",
+                  "sliding-puzzle-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1461,12 +1992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python curses homage to Threes! by Asher Vollmer, Greg Wohlwend, Jimmy Hinson, Hidden Variable for easier development of AI/ML strategies for playing the game",
+                "homepage": null,
                 "id": 31509438,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-09-15T01:59:19Z",
+                "open_issues": 7,
                 "owner": "yth",
                 "repo": "pythrees",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1484,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASCII terminal hexagonal map  roguelike written in Rust",
+                "homepage": null,
                 "id": 30689620,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-13T18:42:30Z",
+                "open_issues": 6,
                 "owner": "dpc",
                 "repo": "rhex",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1507,12 +2048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line version of the card game Rummy with competitive Computer Agent written in C++.",
+                "homepage": null,
                 "id": 13878954,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2013-10-26T17:37:41Z",
+                "open_issues": 0,
                 "owner": "ljc2154",
                 "repo": "Rummy",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1530,12 +2076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tanks game written in bourne again shell",
+                "homepage": null,
                 "id": 28781517,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2016-06-19T03:25:08Z",
+                "open_issues": 0,
                 "owner": "annacrombie",
                 "repo": "shell-tanks",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1553,12 +2104,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dockerized Pong game playable via SSH",
+                "homepage": null,
                 "id": 117230136,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-09-30T12:14:55Z",
+                "open_issues": 0,
                 "owner": "Birkenstab",
                 "repo": "SSH-Pong",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "game",
+                  "game-2d",
+                  "pong",
+                  "retrogaming",
+                  "ssh",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1576,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boot Sector version of the 15 number slider puzzle",
+                "homepage": null,
                 "id": 203662783,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-10-20T21:32:17Z",
+                "open_issues": 0,
                 "owner": "XlogicX",
                 "repo": "BootSlide",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1599,12 +2167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various experimental sources and documents.",
+                "homepage": null,
                 "id": 5796715,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-12-14T05:04:04Z",
+                "open_issues": 7,
                 "owner": "begoon",
                 "repo": "stuff",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1622,12 +2195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 96622745,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-06-09T15:35:46Z",
+                "open_issues": 0,
                 "owner": "NHTangles",
                 "repo": "sporkhack",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1645,12 +2223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hangman game implemented as SQLite Database",
+                "homepage": null,
                 "id": 231675872,
                 "language": "PLpgSQL",
+                "license": null,
                 "last_commit": "2021-12-08T15:53:36Z",
+                "open_issues": 0,
                 "owner": "mateusza",
                 "repo": "sqlite-hangman",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1668,12 +2251,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sunfish: a Python Chess Engine in 111 lines of code",
+                "homepage": "https://www.chessprogramming.org/Sunfish",
                 "id": 16690938,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:09:21Z",
+                "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3272
+                "stars": 3272,
+                "topics": [
+                  "ai",
+                  "chess",
+                  "chess-ai",
+                  "chess-engine",
+                  "python",
+                  "sunfish"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1691,12 +2286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaming via Telnet",
+                "homepage": null,
                 "id": 30873064,
                 "language": "C#",
+                "license": "MPL-2.0",
                 "last_commit": "2016-10-08T20:54:52Z",
+                "open_issues": 1,
                 "owner": "Milek7",
                 "repo": "telnet-games",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1714,12 +2314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small frogger-themed game I coded for my Macbook's terminal. Should work for Windows as well but haven't tested yet. Just run Frogger.py in the Terminal to start the game! P.S.: This only works for python3.",
+                "homepage": null,
                 "id": 113998982,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-26T19:33:43Z",
+                "open_issues": 1,
                 "owner": "mfey619",
                 "repo": "Terminal-Frogger",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1737,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple match 3 game in the terminal, using the ncurses library.",
+                "homepage": null,
                 "id": 55412195,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2016-12-04T09:58:11Z",
+                "open_issues": 0,
                 "owner": "Andrew-Bennett-ProMX",
                 "repo": "terminal_gem_match",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1760,12 +2370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "80x23 terminal tetris!",
+                "homepage": null,
                 "id": 178619111,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-09T06:30:54Z",
+                "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3292
+                "stars": 3292,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1783,12 +2398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bootable 512-byte Tetris clone.",
+                "homepage": null,
                 "id": 208389077,
                 "language": "Assembly",
+                "license": "Unlicense",
                 "last_commit": "2019-09-14T04:36:02Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "tetranglix",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1806,12 +2426,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASCII Art Tetris",
+                "homepage": "http://www.doshaven.eu/game/ptakovina/",
                 "id": 104647517,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-23T21:44:39Z",
+                "open_issues": 0,
                 "owner": "oldcompcz",
                 "repo": "tetris",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "ascii-art",
+                  "dos",
+                  "game",
+                  "hvdosdev2017",
+                  "win32",
+                  "z88dk",
+                  "zx-spectrum"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1829,12 +2462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASCII Tetris game written in C",
+                "homepage": null,
                 "id": 843468,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-04-08T13:18:04Z",
+                "open_issues": 2,
                 "owner": "Gregwar",
                 "repo": "ASCII-Tetris",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1852,12 +2490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny jewels matching game for the Unix terminal",
+                "homepage": null,
                 "id": 479976854,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-15T17:14:52Z",
+                "open_issues": 3,
                 "owner": "zedr",
                 "repo": "tinycols",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1875,12 +2518,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 Play threes in your terminal! ",
+                "homepage": "https://harshjv.com/threes-c/",
                 "id": 33025167,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-12-10T14:05:45Z",
+                "open_issues": 1,
                 "owner": "harshjv",
                 "repo": "threes-c",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "c",
+                  "game",
+                  "terminal",
+                  "terminal-based",
+                  "threes"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1898,12 +2552,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toledo Atomchess is the world's smallest chess program in x86 assembly code",
+                "homepage": null,
                 "id": 44785196,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2019-12-16T02:45:17Z",
+                "open_issues": 0,
                 "owner": "nanochess",
                 "repo": "Toledo-Atomchess",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "asm",
+                  "bootloader",
+                  "game",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1921,12 +2585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your enemy ride your lightning!",
+                "homepage": null,
                 "id": 97447812,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2018-01-05T10:55:07Z",
+                "open_issues": 0,
                 "owner": "kouya",
                 "repo": "tornado",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1944,12 +2613,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Board-Gamelets Arena for poor AI Players (土虱競技場)",
+                "homepage": "https://speakerdeck.com/bluebat/gamelets-arena-for-ai-players",
                 "id": 108928710,
                 "language": "Shell",
+                "license": "Unlicense",
                 "last_commit": "2026-08-21T01:14:26Z",
+                "open_issues": 0,
                 "owner": "tossug",
                 "repo": "tossug-arena",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai",
+                  "chinese-chess",
+                  "xiangqi"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1967,12 +2645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncurses roguelike done right.",
+                "homepage": null,
                 "id": 3883357,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-21T19:55:43Z",
+                "open_issues": 5,
                 "owner": "JohnAnthony",
                 "repo": "TROG",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -1990,12 +2673,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play solitaire in your terminal!",
+                "homepage": null,
                 "id": 583744,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-05-03T15:02:53Z",
+                "open_issues": 24,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "c",
+                  "ncurses",
+                  "solitaire-game",
+                  "tty-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2013,12 +2706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX DND",
+                "homepage": null,
                 "id": 322442698,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-20T23:50:01Z",
+                "open_issues": 1,
                 "owner": "mtklr",
                 "repo": "udd",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2036,12 +2734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ularn",
+                "homepage": null,
                 "id": 6409929,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-02-09T02:17:57Z",
+                "open_issues": 3,
                 "owner": "ularn",
                 "repo": "ularn",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2059,12 +2762,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text-based MMO using browser based terminal emulation! Capture as many fiefdoms as you can!",
+                "homepage": null,
                 "id": 434657593,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-30T02:45:03Z",
+                "open_issues": 16,
                 "owner": "Sheeves11",
                 "repo": "UnnamedFiefdomGame",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "game",
+                  "mmo",
+                  "multiplayer",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2082,12 +2795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fantasy story tool",
+                "homepage": null,
                 "id": 34517944,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-03T02:49:28Z",
+                "open_issues": 11,
                 "owner": "shmup",
                 "repo": "wander",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2105,12 +2823,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3-D dungeon crawling in your terminal!",
+                "homepage": null,
                 "id": 53402556,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2019-12-11T00:17:21Z",
+                "open_issues": 9,
                 "owner": "AtomicPair",
                 "repo": "wolfentext3d",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "cross-platform",
+                  "fps",
+                  "ruby",
+                  "terminal-game",
+                  "text-based-game"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2128,12 +2857,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play Wordle over SSH.",
+                "homepage": null,
                 "id": 454585938,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-28T19:05:44Z",
+                "open_issues": 2,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 633
+                "stars": 633,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "ssh",
+                  "tui",
+                  "wordle"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2151,12 +2894,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "play wordle in your command line",
+                "homepage": null,
                 "id": 456085930,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-10-01T18:52:04Z",
+                "open_issues": 4,
                 "owner": "nimblebun",
                 "repo": "wordle-cli",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "bubbles",
+                  "bubbletea",
+                  "cli",
+                  "command-line-app",
+                  "go",
+                  "golang",
+                  "lipgloss",
+                  "terminal",
+                  "tui",
+                  "wordle"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2174,12 +2933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "As much action as we could pack in one line of a terminal",
+                "homepage": null,
                 "id": 157152576,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-06-07T17:29:58Z",
+                "open_issues": 0,
                 "owner": "garu",
                 "repo": "Xonitix",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2197,12 +2961,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typr: Your Personal Typing Tutor.",
+                "homepage": null,
                 "id": 706596382,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-07T23:34:49Z",
+                "open_issues": 0,
                 "owner": "DriftingOtter",
                 "repo": "Typr",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "python",
+                  "rich-text",
+                  "simple-game",
+                  "typing",
+                  "typing-practice",
+                  "typing-test",
+                  "typingspeedtest"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2220,12 +2999,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of ZZT to Go (using a Pascal-to-Go converter)",
+                "homepage": "https://benhoyt.com/writings/zzt-in-go/",
                 "id": 257111143,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-06-06T11:39:07Z",
+                "open_issues": 2,
                 "owner": "benhoyt",
                 "repo": "zztgo",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "go",
+                  "pascal",
+                  "tcell",
+                  "zzt"
+                ]
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
             }
@@ -2239,15 +3028,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:48.126Z",
+    "last_updated": "2026-08-29T04:36:53.769Z",
     "original_repository_info": {
       "archived": false,
+      "description": " Unix ASCII games",
+      "homepage": null,
       "id": 30400816,
       "language": "HTML",
+      "license": null,
       "last_commit": "2026-08-02T17:46:38Z",
+      "open_issues": 13,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1026
+      "stars": 1026,
+      "topics": [
+        "ascii",
+        "ascii-art",
+        "ascii-game",
+        "asciicast",
+        "asciinema",
+        "awesome",
+        "game",
+        "opensource",
+        "terminal"
+      ]
     },
     "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
     "enhanced_repository": "enhansome/enhansome-ttygames",
