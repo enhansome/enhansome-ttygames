@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-08-28
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 41 | 🌐 Java | 📅 2026-08-29
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-08-28
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 41 | 🌐 Java | 📅 2026-08-29
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 310 | 🐛 2 | 🌐 C | 📅 2026-07-18
+Website: <https://github.com/abakh/nbsdgames> ⭐ 311 | 🐛 2 | 🌐 C | 📅 2026-07-18
 
 ### nclife
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,272 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,273 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2443,7 +2443,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of the Columns game.
 
-Website: <https://github.com/zedr/tinycols> ⭐ 10 | 🐛 3 | 🌐 C | 📅 2026-03-15
+Website: <https://github.com/zedr/tinycols> ⭐ 10 | 🐛 2 | 🌐 C | 📅 2026-08-29
 
 ### threes
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 358 | 🐛 24 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 359 | 🐛 24 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
