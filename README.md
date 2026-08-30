@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 41 | 🌐 Java | 📅 2026-08-29
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-08-30
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 41 | 🌐 Java | 📅 2026-08-29
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-08-30
 
 ### Let it Ride
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 696 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 697 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,273 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,274 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,294 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

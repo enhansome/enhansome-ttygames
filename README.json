@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T20:28:21Z",
-                "open_issues": 41,
+                "last_commit": "2026-08-30T08:44:32Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11,
@@ -1383,8 +1383,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T20:28:21Z",
-                "open_issues": 41,
+                "last_commit": "2026-08-30T08:44:32Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11,
@@ -1804,7 +1804,7 @@
                 "open_issues": 4,
                 "owner": "tsoding",
                 "repo": "pinpog",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "assembly-language",
                   "bios",
@@ -2260,7 +2260,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3273,
+                "stars": 3274,
                 "topics": [
                   "ai",
                   "chess",
@@ -2379,7 +2379,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3292,
+                "stars": 3294,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3028,7 +3028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:47:48.125Z",
+    "last_updated": "2026-08-30T22:55:31.405Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
