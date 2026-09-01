@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T23:07:53Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-01T22:38:30Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11,
@@ -1383,8 +1383,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T23:07:53Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-01T22:38:30Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 11,
@@ -1481,7 +1481,7 @@
                 "open_issues": 0,
                 "owner": "rbtnn",
                 "repo": "vim-mario",
-                "stars": 540,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -2260,7 +2260,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3274,
+                "stars": 3275,
                 "topics": [
                   "ai",
                   "chess",
@@ -2495,7 +2495,7 @@
                 "id": 479976854,
                 "language": "C",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T17:55:56Z",
+                "last_commit": "2026-09-01T20:17:55Z",
                 "open_issues": 2,
                 "owner": "zedr",
                 "repo": "tinycols",
@@ -2682,7 +2682,7 @@
                 "open_issues": 24,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "c",
                   "ncurses",
@@ -3028,7 +3028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:04:53.171Z",
+    "last_updated": "2026-09-01T22:49:24.621Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

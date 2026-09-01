@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 40 | 🌐 Java | 📅 2026-08-31
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-09-01
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 40 | 🌐 Java | 📅 2026-08-31
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-09-01
 
 ### Let it Ride
 
@@ -1418,7 +1418,7 @@ Website: <https://github.com/0x501D/memwatch> ⭐ 3 | 🐛 0 | 🌐 C | 📅 202
 
 is a clone of Super Mario game inside Vim (text editor).
 
-Website: <https://github.com/rbtnn/vim-mario> ⭐ 540 | 🐛 0 | 🌐 Vim script | 📅 2020-01-28
+Website: <https://github.com/rbtnn/vim-mario> ⭐ 539 | 🐛 0 | 🌐 Vim script | 📅 2020-01-28
 
 ### Dr. Mario
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,274 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,275 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2443,7 +2443,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of the Columns game.
 
-Website: <https://github.com/zedr/tinycols> ⭐ 10 | 🐛 2 | 🌐 C | 📅 2026-08-29
+Website: <https://github.com/zedr/tinycols> ⭐ 10 | 🐛 2 | 🌐 C | 📅 2026-09-01
 
 ### threes
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 359 | 🐛 24 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 360 | 🐛 24 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
