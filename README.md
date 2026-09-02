@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 50 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 667 | 🐛 0 | 🌐 C | 📅 2026-04-02
+Website: <https://github.com/mevdschee/2048.c> ⭐ 668 | 🐛 0 | 🌐 C | 📅 2026-04-02
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-09-01
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-09-02
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 39 | 🌐 Java | 📅 2026-09-01
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-09-02
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 311 | 🐛 2 | 🌐 C | 📅 2026-07-18
+Website: <https://github.com/abakh/nbsdgames> ⭐ 312 | 🐛 2 | 🌐 C | 📅 2026-07-18
 
 ### nclife
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
