@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-09-02
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 42 | 🌐 Java | 📅 2026-09-03
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 43 | 🌐 Java | 📅 2026-09-02
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 42 | 🌐 Java | 📅 2026-09-03
 
 ### Let it Ride
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
