@@ -382,7 +382,7 @@ a black-jack card game.
 
 Bootable minesweeper game in a 512-byte boot sector.
 
-Website: <https://github.com/io12/BootMine> ⭐ 197 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
+Website: <https://github.com/io12/BootMine> ⭐ 198 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -1230,7 +1230,7 @@ Website: <http://mbays.sdf.org/intricacy/>
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
-Website: <https://github.com/nanochess/invaders> ⭐ 521 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
+Website: <https://github.com/nanochess/invaders> ⭐ 520 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
 
 Wikipedia: <https://en.wikipedia.org/wiki/Space_Invaders>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 42 | 🌐 Java | 📅 2026-09-03
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 43 | 🌐 Java | 📅 2026-09-04
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 11 | 🐛 42 | 🌐 Java | 📅 2026-09-03
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 43 | 🌐 Java | 📅 2026-09-04
 
 ### Let it Ride
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 697 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 698 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
