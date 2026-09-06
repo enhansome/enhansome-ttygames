@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 50 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 668 | 🐛 0 | 🌐 C | 📅 2026-04-02
+Website: <https://github.com/mevdschee/2048.c> ⭐ 670 | 🐛 0 | 🌐 C | 📅 2026-04-02
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -1230,7 +1230,7 @@ Website: <http://mbays.sdf.org/intricacy/>
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
-Website: <https://github.com/nanochess/invaders> ⭐ 520 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
+Website: <https://github.com/nanochess/invaders> ⭐ 521 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
 
 Wikipedia: <https://en.wikipedia.org/wiki/Space_Invaders>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 36 | 🌐 Java | 📅 2026-09-05
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 36 | 🌐 Java | 📅 2026-09-06
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 36 | 🌐 Java | 📅 2026-09-05
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 12 | 🐛 36 | 🌐 Java | 📅 2026-09-06
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 312 | 🐛 2 | 🌐 C | 📅 2026-07-18
+Website: <https://github.com/abakh/nbsdgames> ⭐ 314 | 🐛 2 | 🌐 C | 📅 2026-07-18
 
 ### nclife
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
