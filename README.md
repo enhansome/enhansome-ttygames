@@ -234,7 +234,7 @@ Website: <http://freshmeat.sourceforge.net/projects/asciijump>
 ASCIIpOrtal is a text based puzzle game inspired by
 the popular video game.
 
-Website: <https://github.com/cymonsgames/ASCIIpOrtal> ⭐ 204 | 🐛 14 | 🌐 C++ | 📅 2022-06-28
+Website: <https://github.com/cymonsgames/ASCIIpOrtal> ⭐ 203 | 🐛 14 | 🌐 C++ | 📅 2022-06-28
 
 ### ASCII-Chess
 
@@ -382,7 +382,7 @@ a black-jack card game.
 
 Bootable minesweeper game in a 512-byte boot sector.
 
-Website: <https://github.com/io12/BootMine> ⭐ 198 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
+Website: <https://github.com/io12/BootMine> ⭐ 199 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 13 | 🐛 41 | 🌐 Java | 📅 2026-09-08
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 14 | 🐛 37 | 🌐 Java | 📅 2026-09-09
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 13 | 🐛 41 | 🌐 Java | 📅 2026-09-08
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 14 | 🐛 37 | 🌐 Java | 📅 2026-09-09
 
 ### Let it Ride
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
