@@ -40,7 +40,7 @@ waived all copyright and related or neighboring rights to this work.
 
 is bloody 2D action deathmatch-like game.
 
-Website: <https://github.com/hackndev/0verkill> ⭐ 50 | 🐛 3 | 🌐 C | 📅 2016-08-30
+Website: <https://github.com/hackndev/0verkill> ⭐ 51 | 🐛 3 | 🌐 C | 📅 2016-08-30
 
 ### 2048
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 14 | 🐛 39 | 🌐 Java | 📅 2026-09-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 15 | 🐛 39 | 🌐 Java | 📅 2026-09-12
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 14 | 🐛 39 | 🌐 Java | 📅 2026-09-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 15 | 🐛 39 | 🌐 Java | 📅 2026-09-12
 
 ### Let it Ride
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,291 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,290 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
