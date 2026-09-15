@@ -619,7 +619,7 @@
                 "open_issues": 0,
                 "owner": "jontrulson",
                 "repo": "conquest",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "client-server",
                   "conquest",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T12:21:36Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-15T23:10:02Z",
+                "open_issues": 27,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -1383,8 +1383,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T12:21:36Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-15T23:10:02Z",
+                "open_issues": 27,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -2260,7 +2260,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3276,
+                "stars": 3278,
                 "topics": [
                   "ai",
                   "chess",
@@ -2903,7 +2903,7 @@
                 "open_issues": 4,
                 "owner": "nimblebun",
                 "repo": "wordle-cli",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "bubbles",
                   "bubbletea",
@@ -3028,7 +3028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:28:22.791Z",
+    "last_updated": "2026-09-15T23:10:21.786Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3036,7 +3036,7 @@
       "id": 30400816,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-08-02T17:46:38Z",
+      "last_commit": "2026-09-15T10:18:38Z",
       "open_issues": 14,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
@@ -3053,7 +3053,7 @@
         "terminal"
       ]
     },
-    "original_repository_sha": "4f1f66af1d7d811e9e951e7b8bfd15f0de85b28c",
+    "original_repository_sha": "67fdb78edd5baf1e97e6018d1577f6245789b30c",
     "enhanced_repository": "enhansome/enhansome-ttygames",
     "enhanced_repository_description": null,
     "title": "Awesome Unix ASCII games with stars"

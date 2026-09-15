@@ -640,7 +640,7 @@ Website: <https://github.com/beejjorgensen/conquest> ⭐ 16 | 🐛 0 | 🌐 C | 
 
 is a real-time, multi-player space warfare game.
 
-Website: <https://github.com/jtrulson/conquest/> ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2026-03-21
+Website: <https://github.com/jtrulson/conquest/> ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-03-21
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 28 | 🌐 Java | 📅 2026-09-14
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 27 | 🌐 Java | 📅 2026-09-15
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 28 | 🌐 Java | 📅 2026-09-14
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 27 | 🌐 Java | 📅 2026-09-15
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,276 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,278 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2746,7 +2746,7 @@ Website: <https://github.com/ajeetdsouza/clidle> ⭐ 633 | 🐛 2 | 🌐 Go | �
 
 is a clone of Wordle.
 
-Website: <https://github.com/nimblebun/wordle-cli> ⭐ 86 | 🐛 4 | 🌐 Go | 📅 2022-10-01
+Website: <https://github.com/nimblebun/wordle-cli> ⭐ 85 | 🐛 4 | 🌐 Go | 📅 2022-10-01
 
 ### wump
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
