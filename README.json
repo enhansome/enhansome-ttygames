@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2473,
+                "stars": 2474,
                 "topics": [
                   "3d",
                   "awk",
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "nielssp",
                 "repo": "csol",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "c",
                   "card-game",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T22:15:22Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-17T20:34:30Z",
+                "open_issues": 27,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -1383,8 +1383,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T22:15:22Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-17T20:34:30Z",
+                "open_issues": 27,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -3028,7 +3028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:15:07.059Z",
+    "last_updated": "2026-09-17T23:05:46.129Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

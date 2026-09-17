@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,473 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,474 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -697,7 +697,7 @@ Website: <https://code.google.com/archive/p/cryptrover/>
 is a small collection of solitaire/patience games
 (Klondike, FreeCell, Spider, Yukon, etc.).
 
-Website: <https://github.com/nielssp/csol> ⭐ 115 | 🐛 0 | 🌐 C | 📅 2025-07-19
+Website: <https://github.com/nielssp/csol> ⭐ 116 | 🐛 0 | 🌐 C | 📅 2025-07-19
 
 Wikipedia: <https://en.wikipedia.org/wiki/Solitaire>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 28 | 🌐 Java | 📅 2026-09-16
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 27 | 🌐 Java | 📅 2026-09-17
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 28 | 🌐 Java | 📅 2026-09-16
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 17 | 🐛 27 | 🌐 Java | 📅 2026-09-17
 
 ### Let it Ride
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
