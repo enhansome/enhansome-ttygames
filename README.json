@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "2048",
                   "2048-clone",
@@ -1252,24 +1252,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The letter train simulator. Java version",
-                "homepage": null,
+                "description": "The Letter Train Simulator",
+                "homepage": "https://antoniovazquezaraujo.github.io/LeTrain/",
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T20:34:30Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-18T20:13:09Z",
+                "open_issues": 32,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
                 "topics": [
                   "ascii",
                   "ascii-game",
+                  "console",
+                  "console-game",
                   "game",
                   "java",
+                  "lanterna3",
+                  "libgdx",
+                  "libgdx-game",
+                  "programmable-game",
                   "simulator",
                   "terminal",
                   "trains",
+                  "vi-keybinds",
                   "video-game",
                   "video-games"
                 ]
@@ -1378,24 +1385,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The letter train simulator. Java version",
-                "homepage": null,
+                "description": "The Letter Train Simulator",
+                "homepage": "https://antoniovazquezaraujo.github.io/LeTrain/",
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T20:34:30Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-18T20:13:09Z",
+                "open_issues": 32,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
                 "topics": [
                   "ascii",
                   "ascii-game",
+                  "console",
+                  "console-game",
                   "game",
                   "java",
+                  "lanterna3",
+                  "libgdx",
+                  "libgdx-game",
+                  "programmable-game",
                   "simulator",
                   "terminal",
                   "trains",
+                  "vi-keybinds",
                   "video-game",
                   "video-games"
                 ]
@@ -2260,7 +2274,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": [
                   "ai",
                   "chess",
@@ -2379,7 +2393,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3290,
+                "stars": 3289,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3028,7 +3042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:05:46.129Z",
+    "last_updated": "2026-09-18T22:49:02.840Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
