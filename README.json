@@ -1172,7 +1172,7 @@
                 "open_issues": 1,
                 "owner": "nanochess",
                 "repo": "Invaders",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "asm",
                   "bootloader",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:13:09Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-19T19:58:54Z",
+                "open_issues": 31,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -1390,8 +1390,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:13:09Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-19T19:58:54Z",
+                "open_issues": 31,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 17,
@@ -3042,7 +3042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:49:02.840Z",
+    "last_updated": "2026-09-19T22:29:58.085Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
