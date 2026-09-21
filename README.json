@@ -148,7 +148,7 @@
                 "open_issues": 14,
                 "owner": "cymonsgames",
                 "repo": "ASCIIpOrtal",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T19:00:03Z",
+                "last_commit": "2026-09-21T16:14:27Z",
                 "open_issues": 33,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1390,11 +1390,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T19:00:03Z",
+                "last_commit": "2026-09-21T16:14:27Z",
                 "open_issues": 33,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -3042,7 +3042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:42:01.826Z",
+    "last_updated": "2026-09-21T23:37:47.952Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3051,7 +3051,7 @@
       "language": "HTML",
       "license": null,
       "last_commit": "2026-09-15T10:18:38Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
       "stars": 1028,
