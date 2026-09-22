@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 18 | 🐛 33 | 🌐 Java | 📅 2026-09-21
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 34 | 🌐 Java | 📅 2026-09-22
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 18 | 🐛 33 | 🌐 Java | 📅 2026-09-21
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 34 | 🌐 Java | 📅 2026-09-22
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 315 | 🐛 2 | 🌐 C | 📅 2026-09-20
+Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-09-20
 
 ### nclife
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
