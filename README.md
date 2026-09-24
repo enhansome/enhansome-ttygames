@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 27 | 🌐 Java | 📅 2026-09-23
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 35 | 🌐 Java | 📅 2026-09-24
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 27 | 🌐 Java | 📅 2026-09-23
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 35 | 🌐 Java | 📅 2026-09-24
 
 ### Let it Ride
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 361 | 🐛 24 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 362 | 🐛 24 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

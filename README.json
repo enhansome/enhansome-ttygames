@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:47:38Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-24T23:05:13Z",
+                "open_issues": 35,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:47:38Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-24T23:05:13Z",
+                "open_issues": 35,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -2702,7 +2702,7 @@
                 "open_issues": 24,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "c",
                   "ncurses",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:08:56.453Z",
+    "last_updated": "2026-09-24T23:27:10.364Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
