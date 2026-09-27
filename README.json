@@ -1257,7 +1257,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T23:07:44Z",
+                "last_commit": "2026-09-27T22:43:51Z",
                 "open_issues": 49,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -1393,7 +1393,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T23:07:44Z",
+                "last_commit": "2026-09-27T22:43:51Z",
                 "open_issues": 49,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3280,
+                "stars": 3287,
                 "topics": [
                   "ai",
                   "chess",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3289,
+                "stars": 3288,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:08:55.006Z",
+    "last_updated": "2026-09-27T23:24:06.417Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
