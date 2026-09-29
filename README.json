@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2473,
+                "stars": 2472,
                 "topics": [
                   "3d",
                   "awk",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3288,
+                "stars": 3289,
                 "topics": [
                   "ai",
                   "chess",
@@ -2852,7 +2852,7 @@
                 "open_issues": 9,
                 "owner": "AtomicPair",
                 "repo": "wolfentext3d",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "cross-platform",
                   "fps",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:32:53.565Z",
+    "last_updated": "2026-09-29T23:57:18.916Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

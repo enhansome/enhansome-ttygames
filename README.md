@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,473 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,472 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,288 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,289 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2715,7 +2715,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/WarGames>
 
 is a 3-D dungeon crawling game.
 
-Website: <https://github.com/AtomicPair/wolfentext3d> ⭐ 127 | 🐛 9 | 🌐 Ruby | 📅 2019-12-11
+Website: <https://github.com/AtomicPair/wolfentext3d> ⭐ 126 | 🐛 9 | 🌐 Ruby | 📅 2019-12-11
 
 ### worm
 
