@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T22:43:51Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-01T18:18:56Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T22:43:51Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-01T18:18:56Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:10:25.736Z",
+    "last_updated": "2026-10-02T00:13:49.143Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
