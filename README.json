@@ -46,7 +46,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-04-02T08:10:10Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "mevdschee",
                 "repo": "2048.c",
                 "stars": 670,
@@ -148,7 +148,7 @@
                 "open_issues": 14,
                 "owner": "cymonsgames",
                 "repo": "ASCIIpOrtal",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2472,
+                "stars": 2471,
                 "topics": [
                   "3d",
                   "awk",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:18:56Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-02T18:55:26Z",
+                "open_issues": 48,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:18:56Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-02T18:55:26Z",
+                "open_issues": 48,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:13:49.143Z",
+    "last_updated": "2026-10-02T23:59:38.498Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
