@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:55:26Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-03T23:10:01Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:55:26Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-03T23:10:01Z",
+                "open_issues": 39,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1581,7 +1581,7 @@
                 "id": 149785411,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T14:02:58Z",
+                "last_commit": "2026-10-03T14:46:35Z",
                 "open_issues": 2,
                 "owner": "abakh",
                 "repo": "nbsdgames",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3289,
+                "stars": 3291,
                 "topics": [
                   "ai",
                   "chess",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:52.744Z",
+    "last_updated": "2026-10-03T23:19:35.815Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 48 | 🌐 Java | 📅 2026-10-02
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 39 | 🌐 Java | 📅 2026-10-03
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 48 | 🌐 Java | 📅 2026-10-02
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 39 | 🌐 Java | 📅 2026-10-03
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-09-20
+Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-10-03
 
 ### nclife
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,289 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,291 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
