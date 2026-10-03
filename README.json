@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/hackndev/0verkill",
-              "description": null,
+              "description": "hackndev/0verkill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mevdschee/2048.c",
-              "description": null,
+              "description": "mevdschee/2048.c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Tiehuis/2048-cli",
-              "description": null,
+              "description": "tiehuis/2048-cli",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/bolknote/shellgames/blob/master/arcanoid.sh",
-              "description": null,
+              "description": "bolknote/shellgames",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -135,7 +135,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/cymonsgames/ASCIIpOrtal",
-              "description": null,
+              "description": "cymonsgames/ASCIIpOrtal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Parigyan/ASCII-Chess",
-              "description": null,
+              "description": "Parigyan/ASCII-Chess",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -191,7 +191,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/TheMozg/awk-raycaster",
-              "description": null,
+              "description": "TheMozg/awk-raycaster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/phoemur/bashmaze",
-              "description": null,
+              "description": "phoemur/bashmaze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Pentachoron-Labs/Behacked",
-              "description": null,
+              "description": "Pentachoron-Labs/Behacked",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/io12/BootMine",
-              "description": null,
+              "description": "io12/BootMine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -321,7 +321,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/bootRogue",
-              "description": null,
+              "description": "nanochess/bootRogue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/haliphax/pybowl",
-              "description": null,
+              "description": "haliphax/pybowl",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/bricks",
-              "description": null,
+              "description": "nanochess/bricks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/jaens/bricks-cport",
-              "description": null,
+              "description": "jaens/bricks-cport",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gnomengineer/cBattleship",
-              "description": null,
+              "description": "gnomengineer/cBattleship",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/bolknote/SedChess",
-              "description": null,
+              "description": "bolknote/SedChess",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -494,7 +494,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nickzuber/chs",
-              "description": null,
+              "description": "nickzuber/chs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -522,7 +522,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/veselov/clines",
-              "description": null,
+              "description": "veselov/clines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -550,7 +550,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/badescunicu/connect4",
-              "description": null,
+              "description": "badescunicu/connect4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/beejjorgensen/conquest",
-              "description": null,
+              "description": "beejjorgensen/conquest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,7 +606,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/jtrulson/conquest/",
-              "description": null,
+              "description": "jontrulson/conquest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -651,7 +651,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nielssp/csol",
-              "description": null,
+              "description": "nielssp/csol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/dominikhackl/ctris",
-              "description": null,
+              "description": "0xminik/ctris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -721,7 +721,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gsobell/dango",
-              "description": null,
+              "description": "gsobell/dango",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -761,7 +761,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/infews/dukedomrb",
-              "description": null,
+              "description": "infews/dukedomrb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/fbird",
-              "description": null,
+              "description": "nanochess/fbird",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/odditica/fiTD",
-              "description": null,
+              "description": "odditica/fiTD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -858,7 +858,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/smmspiers/FloodIt",
-              "description": null,
+              "description": "smmspiers/FloodIt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/bunburya/flying-robots",
-              "description": null,
+              "description": "bunburya/flying-robots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/ostrosablin/freecell",
-              "description": null,
+              "description": "ostrosablin/freecell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/rwestlund/freesweep",
-              "description": null,
+              "description": "rwestlund/freesweep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -983,7 +983,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/cyphar/ascii-snake",
-              "description": null,
+              "description": "cyphar/ascii-snake",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1011,7 +1011,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/goblinhack/goblinhack",
-              "description": null,
+              "description": "goblinhack/goblinhack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1039,7 +1039,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/bolknote/gopnik2",
-              "description": null,
+              "description": "bolknote/gopnik2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1067,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/zladovan/gorched",
-              "description": null,
+              "description": "zladovan/gorched",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1103,7 +1103,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/blt/hamurabi",
-              "description": null,
+              "description": "blt/hamurabi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/wzhishen/hammurabi",
-              "description": null,
+              "description": "wzhishen/hammurabi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/invaders",
-              "description": null,
+              "description": "nanochess/Invaders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1192,7 +1192,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gabrielvictorcf/just-asteroids",
-              "description": null,
+              "description": "gabrielvictorcf/just-asteroids",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1220,7 +1220,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/macdice/ascii-invaders",
-              "description": null,
+              "description": "macdice/ascii-invaders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1248,7 +1248,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/antoniovazquezaraujo/LeTrain",
-              "description": null,
+              "description": "antoniovazquezaraujo/LeTrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1296,7 +1296,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/lights",
-              "description": null,
+              "description": "nanochess/lights",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1324,7 +1324,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/sergev/landing-rust",
-              "description": null,
+              "description": "sergev/landing-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +1352,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/taviso/katamascii",
-              "description": null,
+              "description": "taviso/katamascii",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,7 +1384,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/antoniovazquezaraujo/LeTrain",
-              "description": null,
+              "description": "antoniovazquezaraujo/LeTrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1432,7 +1432,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/servusDei2018/Mafia-Werewolf",
-              "description": null,
+              "description": "servusdei2018/Mafia-Werewolf",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1460,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/0x501D/memwatch",
-              "description": null,
+              "description": "0x501D/memwatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1488,7 +1488,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/rbtnn/vim-mario",
-              "description": null,
+              "description": "rbtnn/vim-mario",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1516,7 +1516,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gre/morpion-solitaire",
-              "description": null,
+              "description": "gre/morpion-solitaire",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1544,7 +1544,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mogria/msnake",
-              "description": null,
+              "description": "mogria/msnake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1572,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/abakh/nbsdgames",
-              "description": null,
+              "description": "abakh/nbsdgames",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1621,7 +1621,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mikepierce/ncLife",
-              "description": null,
+              "description": "mikepierce/ncLife",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1649,7 +1649,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/naclander/netris",
-              "description": null,
+              "description": "naclander/netris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1677,7 +1677,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/dead-end/nuzzle",
-              "description": null,
+              "description": "dead-end/nuzzle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1714,7 +1714,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gsobell/lightcycle",
-              "description": null,
+              "description": "gsobell/lightcycle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1750,7 +1750,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/yudonglin/Oregon-Trail",
-              "description": null,
+              "description": "yudonglin/Oregon-Trail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1778,7 +1778,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/pillman",
-              "description": null,
+              "description": "nanochess/Pillman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1811,7 +1811,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/tsoding/pinpog",
-              "description": null,
+              "description": "tsoding/pinpog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1851,7 +1851,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/berk76/piskworks",
-              "description": null,
+              "description": "oldcompcz/piskworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1890,7 +1890,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/vaniacer/piu-piu-SH",
-              "description": null,
+              "description": "vaniacer/piu-piu-SH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1918,7 +1918,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/gdamore/proxima5",
-              "description": null,
+              "description": "gdamore/proxima5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1946,7 +1946,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/rbtnn/vim-puyo",
-              "description": null,
+              "description": "rbtnn/vim-puyo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1974,7 +1974,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/pravj/puzzl",
-              "description": null,
+              "description": "pravj/puzzl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2008,7 +2008,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/yth/pythrees",
-              "description": null,
+              "description": "yth/pythrees",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +2036,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/dpc/rhex",
-              "description": null,
+              "description": "dpc/rhex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2064,7 +2064,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/ljc2154/Rummy",
-              "description": null,
+              "description": "ljc2154/Rummy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2092,7 +2092,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/annacrombie/shell-tanks",
-              "description": null,
+              "description": "annacrombie/shell-tanks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2120,7 +2120,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Birkenstab/SSH-Pong",
-              "description": null,
+              "description": "Birkenstab/SSH-Pong",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2155,7 +2155,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/XlogicX/BootSlide",
-              "description": null,
+              "description": "XlogicX/BootSlide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2183,7 +2183,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/begoon/stuff/blob/master/games/snake/c%2B%2B/snake.cpp",
-              "description": null,
+              "description": "begoon/stuff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2211,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/NHTangles/sporkhack",
-              "description": null,
+              "description": "NHTangles/sporkhack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2239,7 +2239,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mateusza/sqlite-hangman",
-              "description": null,
+              "description": "mateusza/sqlite-hangman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2267,7 +2267,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/thomasahle/sunfish",
-              "description": null,
+              "description": "thomasahle/sunfish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2302,7 +2302,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Milek7/telnet-games",
-              "description": null,
+              "description": "Milek7/telnet-games",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,7 +2330,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mfey619/Terminal-Frogger",
-              "description": null,
+              "description": "mfey619/Terminal-Frogger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2358,7 +2358,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/ATBennett/terminal_gem_match",
-              "description": null,
+              "description": "Andrew-Bennett-ProMX/terminal_gem_match",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2386,7 +2386,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/taylorconor/tinytetris",
-              "description": null,
+              "description": "taylorconor/tinytetris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2414,7 +2414,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/tetranglix",
-              "description": null,
+              "description": "nanochess/tetranglix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2442,7 +2442,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/berk76/tetris",
-              "description": null,
+              "description": "oldcompcz/tetris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2478,7 +2478,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Gregwar/ASCII-Tetris",
-              "description": null,
+              "description": "Gregwar/ASCII-Tetris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2506,7 +2506,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/zedr/tinycols",
-              "description": null,
+              "description": "zedr/tinycols",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2534,7 +2534,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/harshjv/threes-c",
-              "description": null,
+              "description": "harshjv/threes-c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2568,7 +2568,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nanochess/Toledo-Atomchess",
-              "description": null,
+              "description": "nanochess/Toledo-Atomchess",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2601,7 +2601,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/kouya/tornado",
-              "description": null,
+              "description": "kouya/tornado",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2629,7 +2629,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/tossug/tossug-arena",
-              "description": null,
+              "description": "tossug/tossug-arena",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2661,7 +2661,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/JohnAnthony/TROG",
-              "description": null,
+              "description": "JohnAnthony/TROG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2689,7 +2689,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mpereira/tty-solitaire",
-              "description": null,
+              "description": "mpereira/tty-solitaire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2722,7 +2722,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/mtklr/udd",
-              "description": null,
+              "description": "mtklr/udd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2750,7 +2750,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/joshbressers/ularn",
-              "description": null,
+              "description": "ularn/ularn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2778,7 +2778,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/Sheeves11/UnnamedFiefdomGame/",
-              "description": null,
+              "description": "Sheeves11/UnnamedFiefdomGame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2811,7 +2811,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/shmup/wander",
-              "description": null,
+              "description": "shmup/wander",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/AtomicPair/wolfentext3d",
-              "description": null,
+              "description": "AtomicPair/wolfentext3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2873,7 +2873,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/ajeetdsouza/clidle",
-              "description": null,
+              "description": "ajeetdsouza/clidle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2910,7 +2910,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/nimblebun/wordle-cli",
-              "description": null,
+              "description": "nimblebun/wordle-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2949,7 +2949,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/garu/Xonitix",
-              "description": null,
+              "description": "garu/Xonitix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2977,7 +2977,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/DriftingOtter/Typr",
-              "description": null,
+              "description": "DriftingOtter/Typr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3015,7 +3015,7 @@
             {
               "node_type": "item",
               "title": "Website: https://github.com/benhoyt/zztgo",
-              "description": null,
+              "description": "benhoyt/zztgo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:38.498Z",
+    "last_updated": "2026-10-03T05:12:52.744Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
