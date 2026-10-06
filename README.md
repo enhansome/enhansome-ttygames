@@ -1062,7 +1062,7 @@ Website: <https://github.com/bolknote/gopnik2> ⭐ 10 | 🐛 0 | 🌐 C++ | 📅
 
 is a a clone of "Scorched Earth" game.
 
-Website: <https://github.com/zladovan/gorched> ⭐ 434 | 🐛 1 | 🌐 Go | 📅 2025-07-27
+Website: <https://github.com/zladovan/gorched> ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 
 ### gpcslots2
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 49 | 🌐 Java | 📅 2026-10-04
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 46 | 🌐 Java | 📅 2026-10-06
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 49 | 🌐 Java | 📅 2026-10-04
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 46 | 🌐 Java | 📅 2026-10-06
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-10-03
+Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-10-05
 
 ### nclife
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

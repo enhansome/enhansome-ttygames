@@ -1080,7 +1080,7 @@
                 "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 434,
+                "stars": 433,
                 "topics": [
                   "ascii-game",
                   "ascii-graphics",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T22:50:58Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-06T00:21:13Z",
+                "open_issues": 46,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T22:50:58Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-06T00:21:13Z",
+                "open_issues": 46,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 19,
@@ -1576,12 +1576,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone.",
+                "description": "A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone. ",
                 "homepage": null,
                 "id": 149785411,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T14:46:35Z",
+                "last_commit": "2026-10-05T03:47:57Z",
                 "open_issues": 2,
                 "owner": "abakh",
                 "repo": "nbsdgames",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:35:43.331Z",
+    "last_updated": "2026-10-06T01:27:42.416Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3060,7 +3060,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1028,
+      "stars": 1029,
       "topics": [
         "ascii",
         "ascii-art",
