@@ -45,8 +45,8 @@
                 "id": 18155567,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-04-02T08:10:10Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-06T22:33:14Z",
+                "open_issues": 1,
                 "owner": "mevdschee",
                 "repo": "2048.c",
                 "stars": 670,
@@ -1931,7 +1931,7 @@
                 "open_issues": 14,
                 "owner": "gdamore",
                 "repo": "proxima5",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3291,
+                "stars": 3293,
                 "topics": [
                   "ai",
                   "chess",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:58.306Z",
+    "last_updated": "2026-10-07T00:08:28.500Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
