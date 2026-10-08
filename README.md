@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 51 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 670 | 🐛 1 | 🌐 C | 📅 2026-10-06
+Website: <https://github.com/mevdschee/2048.c> ⭐ 670 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,471 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,470 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 46 | 🌐 Java | 📅 2026-10-06
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 43 | 🌐 Java | 📅 2026-10-07
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 19 | 🐛 46 | 🌐 Java | 📅 2026-10-06
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 43 | 🌐 Java | 📅 2026-10-07
 
 ### Let it Ride
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 362 | 🐛 24 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 363 | 🐛 24 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

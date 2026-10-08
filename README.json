@@ -45,7 +45,7 @@
                 "id": 18155567,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-06T22:33:14Z",
+                "last_commit": "2026-10-07T09:38:05Z",
                 "open_issues": 1,
                 "owner": "mevdschee",
                 "repo": "2048.c",
@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2471,
+                "stars": 2470,
                 "topics": [
                   "3d",
                   "awk",
@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:03:28Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-07T21:46:45Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1393,11 +1393,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:03:28Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-07T21:46:45Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -2702,7 +2702,7 @@
                 "open_issues": 24,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "c",
                   "ncurses",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:08:28.500Z",
+    "last_updated": "2026-10-08T00:24:21.465Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
