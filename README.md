@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,470 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,472 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 43 | 🌐 Java | 📅 2026-10-07
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 45 | 🌐 Java | 📅 2026-10-08
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 43 | 🌐 Java | 📅 2026-10-07
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 45 | 🌐 Java | 📅 2026-10-08
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 2 | 🌐 C | 📅 2026-10-05
+Website: <https://github.com/abakh/nbsdgames> ⭐ 316 | 🐛 3 | 🌐 C | 📅 2026-10-05
 
 ### nclife
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,291 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 634 | 🐛 2 | 🌐 Go | 📅 2025-03-28
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 635 | 🐛 1 | 🌐 Go | 📅 2026-10-08
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
