@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 42 | 🌐 Java | 📅 2026-10-09
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 41 | 🌐 Java | 📅 2026-10-10
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 42 | 🌐 Java | 📅 2026-10-09
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 41 | 🌐 Java | 📅 2026-10-10
 
 ### Let it Ride
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,293 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,296 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,291 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 635 | 🐛 1 | 🌐 Go | 📅 2026-10-08
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 636 | 🐛 1 | 🌐 Go | 📅 2026-10-08
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 

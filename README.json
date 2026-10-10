@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T23:39:52Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-10T23:31:43Z",
+                "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T23:39:52Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-10T23:31:43Z",
+                "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3293,
+                "stars": 3296,
                 "topics": [
                   "ai",
                   "chess",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3291,
+                "stars": 3292,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -2886,7 +2886,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 635,
+                "stars": 636,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:19:19.982Z",
+    "last_updated": "2026-10-10T23:49:43.065Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
