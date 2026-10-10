@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "hackndev",
                 "repo": "0verkill",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T18:37:05Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-09T23:39:52Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T18:37:05Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-09T23:39:52Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3292,
+                "stars": 3291,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:39:09.832Z",
+    "last_updated": "2026-10-10T00:19:19.982Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
