@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "hackndev",
                 "repo": "0verkill",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "nielssp",
                 "repo": "csol",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "c",
                   "card-game",
@@ -1080,7 +1080,7 @@
                 "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "ascii-game",
                   "ascii-graphics",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T23:31:43Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-11T23:49:32Z",
+                "open_issues": 48,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T23:31:43Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-11T23:49:32Z",
+                "open_issues": 48,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1824,7 +1824,7 @@
                 "open_issues": 4,
                 "owner": "tsoding",
                 "repo": "pinpog",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "assembly-language",
                   "bios",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3292,
+                "stars": 3293,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -2886,7 +2886,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 636,
+                "stars": 637,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:49:43.065Z",
+    "last_updated": "2026-10-11T23:59:00.582Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3060,7 +3060,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1029,
+      "stars": 1030,
       "topics": [
         "ascii",
         "ascii-art",
