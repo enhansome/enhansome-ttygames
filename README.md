@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 48 | 🌐 Java | 📅 2026-10-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 55 | 🌐 Java | 📅 2026-10-13
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 48 | 🌐 Java | 📅 2026-10-11
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 20 | 🐛 55 | 🌐 Java | 📅 2026-10-13
 
 ### Let it Ride
 
@@ -1418,7 +1418,7 @@ Website: <https://github.com/0x501D/memwatch> ⭐ 3 | 🐛 0 | 🌐 C | 📅 202
 
 is a clone of Super Mario game inside Vim (text editor).
 
-Website: <https://github.com/rbtnn/vim-mario> ⭐ 539 | 🐛 0 | 🌐 Vim script | 📅 2020-01-28
+Website: <https://github.com/rbtnn/vim-mario> ⭐ 540 | 🐛 0 | 🌐 Vim script | 📅 2020-01-28
 
 ### Dr. Mario
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 697 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 698 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -1971,7 +1971,7 @@ is a clone of Othello (Reversi) game.
 
 is a hexagonal map rogue-like.
 
-Website: <https://github.com/dpc/rhex> ⭐ 171 | 🐛 6 | 🌐 Rust | 📅 2026-07-13
+Website: <https://github.com/dpc/rhex> ⭐ 170 | 🐛 6 | 🌐 Rust | 📅 2026-07-13
 
 **Play**: `ssh rhex:rhex123@rhex.dpc.pw`
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,293 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
