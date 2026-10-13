@@ -1230,7 +1230,7 @@ Website: <http://mbays.sdf.org/intricacy/>
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
-Website: <https://github.com/nanochess/invaders> ⭐ 522 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
+Website: <https://github.com/nanochess/invaders> ⭐ 523 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
 
 Wikipedia: <https://en.wikipedia.org/wiki/Space_Invaders>
 
@@ -1854,7 +1854,7 @@ Website: <https://github.com/berk76/piskworks> ⭐ 8 | 🐛 0 | 🌐 C | 📅 20
 
 is an old school horizontal scroller 'Shoot Them All' game.
 
-Website: <https://github.com/vaniacer/piu-piu-SH> ⭐ 745 | 🐛 3 | 🌐 Shell | 📅 2025-05-28
+Website: <https://github.com/vaniacer/piu-piu-SH> ⭐ 746 | 🐛 3 | 🌐 Shell | 📅 2025-05-28
 
 ### plonx
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,296 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,297 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,292 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,293 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 363 | 🐛 24 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 363 | 🐛 25 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
