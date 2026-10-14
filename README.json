@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2472,
+                "stars": 2473,
                 "topics": [
                   "3d",
                   "awk",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3297,
+                "stars": 3299,
                 "topics": [
                   "ai",
                   "chess",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3293,
+                "stars": 3294,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:53:27.161Z",
+    "last_updated": "2026-10-14T23:26:37.871Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3056,7 +3056,7 @@
       "id": 30400816,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-09-15T10:18:38Z",
+      "last_commit": "2026-10-14T16:11:55Z",
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
@@ -3073,7 +3073,7 @@
         "terminal"
       ]
     },
-    "original_repository_sha": "67fdb78edd5baf1e97e6018d1577f6245789b30c",
+    "original_repository_sha": "1f21184bd7e090490641f78e9cf8e1326335c8f0",
     "enhanced_repository": "enhansome/enhansome-ttygames",
     "enhanced_repository_description": null,
     "title": "Awesome Unix ASCII games with stars"
