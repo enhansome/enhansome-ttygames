@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "nielssp",
                 "repo": "csol",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "c",
                   "card-game",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T23:04:14Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-16T22:45:06Z",
+                "open_issues": 61,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T23:04:14Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-16T22:45:06Z",
+                "open_issues": 61,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 20,
@@ -1824,7 +1824,7 @@
                 "open_issues": 4,
                 "owner": "tsoding",
                 "repo": "pinpog",
-                "stars": 698,
+                "stars": 699,
                 "topics": [
                   "assembly-language",
                   "bios",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3292,
+                "stars": 3293,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -2702,7 +2702,7 @@
                 "open_issues": 25,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "c",
                   "ncurses",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 637,
+                "stars": 638,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:18:09.210Z",
+    "last_updated": "2026-10-16T23:01:09.089Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3060,7 +3060,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1031,
+      "stars": 1027,
       "topics": [
         "ascii",
         "ascii-art",
