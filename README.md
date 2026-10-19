@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 671 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 672 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,474 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,475 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 23 | 🐛 43 | 🌐 Java | 📅 2026-10-18
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 25 | 🐛 42 | 🌐 Java | 📅 2026-10-19
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 23 | 🐛 43 | 🌐 Java | 📅 2026-10-18
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 25 | 🐛 42 | 🌐 Java | 📅 2026-10-19
 
 ### Let it Ride
 
@@ -1886,7 +1886,7 @@ Website: <https://www.increpare.com/2008/11/portile/>
 
 A curses-style space shooter written in Go, using the Tcell package.
 
-Website: <https://github.com/gdamore/proxima5> ⭐ 112 | 🐛 14 | 🌐 Go | 📅 2023-03-22
+Website: <https://github.com/gdamore/proxima5> ⭐ 112 | 🐛 15 | 🌐 Go | 📅 2023-03-22
 
 ### Puyo on Vim
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,300 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,302 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
