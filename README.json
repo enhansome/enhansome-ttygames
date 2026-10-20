@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T23:30:58Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-20T12:15:21Z",
+                "open_issues": 34,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1393,11 +1393,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T23:30:58Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-20T12:15:21Z",
+                "open_issues": 34,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1581,11 +1581,11 @@
                 "id": 149785411,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T03:47:57Z",
+                "last_commit": "2026-10-20T22:49:20Z",
                 "open_issues": 3,
                 "owner": "abakh",
                 "repo": "nbsdgames",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "ascii-game",
                   "battleship",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:55:48.008Z",
+    "last_updated": "2026-10-20T23:24:12.174Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
