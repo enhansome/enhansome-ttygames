@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 672 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 673 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,475 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,476 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 26 | 🐛 34 | 🌐 Java | 📅 2026-10-20
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 38 | 🐛 36 | 🌐 Java | 📅 2026-10-21
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 26 | 🐛 34 | 🌐 Java | 📅 2026-10-20
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 38 | 🐛 36 | 🌐 Java | 📅 2026-10-21
 
 ### Let it Ride
 
@@ -1971,7 +1971,7 @@ is a clone of Othello (Reversi) game.
 
 is a hexagonal map rogue-like.
 
-Website: <https://github.com/dpc/rhex> ⭐ 170 | 🐛 6 | 🌐 Rust | 📅 2026-07-13
+Website: <https://github.com/dpc/rhex> ⭐ 170 | 🐛 6 | 🌐 Rust | 📅 2026-10-21
 
 **Play**: `ssh rhex:rhex123@rhex.dpc.pw`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
