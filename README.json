@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 673,
+                "stars": 672,
                 "topics": [
                   "2048",
                   "2048-clone",
@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2476,
+                "stars": 2477,
                 "topics": [
                   "3d",
                   "awk",
@@ -293,7 +293,7 @@
                 "open_issues": 0,
                 "owner": "io12",
                 "repo": "BootMine",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "16-bit",
                   "assembly",
@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:37:44Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-22T19:32:47Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 38,
+                "stars": 43,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1393,11 +1393,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:37:44Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-22T19:32:47Z",
+                "open_issues": 43,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 38,
+                "stars": 43,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -2045,7 +2045,7 @@
                 "id": 30689620,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-21T07:29:08Z",
+                "last_commit": "2026-10-22T05:53:28Z",
                 "open_issues": 6,
                 "owner": "dpc",
                 "repo": "rhex",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:37:43.095Z",
+    "last_updated": "2026-10-22T23:36:04.820Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
