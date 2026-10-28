@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2478,
+                "stars": 2477,
                 "topics": [
                   "3d",
                   "awk",
@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:12:17Z",
+                "last_commit": "2026-10-27T18:41:04Z",
                 "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 47,
+                "stars": 49,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1393,11 +1393,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:12:17Z",
+                "last_commit": "2026-10-27T18:41:04Z",
                 "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 47,
+                "stars": 49,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3304,
+                "stars": 3305,
                 "topics": [
                   "ai",
                   "chess",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3297,
+                "stars": 3296,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:04:25.153Z",
+    "last_updated": "2026-10-28T00:00:28.648Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
