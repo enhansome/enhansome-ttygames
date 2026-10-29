@@ -479,7 +479,7 @@
                 "open_issues": 3,
                 "owner": "bolknote",
                 "repo": "SedChess",
-                "stars": 298,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -588,7 +588,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2025-04-30T02:14:15Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "beejjorgensen",
                 "repo": "conquest",
                 "stars": 16,
@@ -1257,7 +1257,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:41:04Z",
+                "last_commit": "2026-10-28T20:01:42Z",
                 "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -1393,7 +1393,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:41:04Z",
+                "last_commit": "2026-10-28T20:01:42Z",
                 "open_issues": 41,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:00:28.648Z",
+    "last_updated": "2026-10-29T00:24:24.472Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

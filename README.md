@@ -526,7 +526,7 @@ is a two-player board game.
 
 is a chess game implemented in sed utility.
 
-Website: <https://github.com/bolknote/SedChess> ⭐ 298 | 🐛 3 | 📅 2013-08-28
+Website: <https://github.com/bolknote/SedChess> ⭐ 297 | 🐛 3 | 📅 2013-08-28
 
 ### conix
 
@@ -634,7 +634,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Connect_Four>
 
 is a clone of the old Amiga Conquest text-based game.
 
-Website: <https://github.com/beejjorgensen/conquest> ⭐ 16 | 🐛 0 | 🌐 C | 📅 2025-04-30
+Website: <https://github.com/beejjorgensen/conquest> ⭐ 16 | 🐛 1 | 🌐 C | 📅 2025-04-30
 
 ### jtrulson-conquest
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-27
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-28
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-27
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-28
 
 ### Let it Ride
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
