@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-28
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 42 | 🌐 Java | 📅 2026-10-29
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 41 | 🌐 Java | 📅 2026-10-28
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 42 | 🌐 Java | 📅 2026-10-29
 
 ### Let it Ride
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 317 | 🐛 3 | 🌐 C | 📅 2026-10-24
+Website: <https://github.com/abakh/nbsdgames> ⭐ 317 | 🐛 2 | 🌐 C | 📅 2026-10-24
 
 ### nclife
 
@@ -1886,7 +1886,7 @@ Website: <https://www.increpare.com/2008/11/portile/>
 
 A curses-style space shooter written in Go, using the Tcell package.
 
-Website: <https://github.com/gdamore/proxima5> ⭐ 112 | 🐛 15 | 🌐 Go | 📅 2023-03-22
+Website: <https://github.com/gdamore/proxima5> ⭐ 112 | 🐛 16 | 🌐 Go | 📅 2023-03-22
 
 ### Puyo on Vim
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
