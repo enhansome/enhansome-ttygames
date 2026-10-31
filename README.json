@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2477,
+                "stars": 2478,
                 "topics": [
                   "3d",
                   "awk",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:58:01Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-31T21:26:46Z",
+                "open_issues": 44,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 49,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:58:01Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-31T21:26:46Z",
+                "open_issues": 44,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 49,
@@ -2923,7 +2923,7 @@
                 "open_issues": 4,
                 "owner": "nimblebun",
                 "repo": "wordle-cli",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "bubbles",
                   "bubbletea",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:03:58.682Z",
+    "last_updated": "2026-10-31T23:44:45.624Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3060,7 +3060,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1031,
+      "stars": 1032,
       "topics": [
         "ascii",
         "ascii-art",

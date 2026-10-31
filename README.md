@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,477 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,478 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 45 | 🌐 Java | 📅 2026-10-30
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 44 | 🌐 Java | 📅 2026-10-31
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 45 | 🌐 Java | 📅 2026-10-30
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 44 | 🌐 Java | 📅 2026-10-31
 
 ### Let it Ride
 
@@ -2746,7 +2746,7 @@ Website: <https://github.com/ajeetdsouza/clidle> ⭐ 639 | 🐛 1 | 🌐 Go | �
 
 is a clone of Wordle.
 
-Website: <https://github.com/nimblebun/wordle-cli> ⭐ 85 | 🐛 4 | 🌐 Go | 📅 2022-10-01
+Website: <https://github.com/nimblebun/wordle-cli> ⭐ 84 | 🐛 4 | 🌐 Go | 📅 2022-10-01
 
 ### wump
 
