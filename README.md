@@ -548,7 +548,7 @@ Website: <https://www.gnu.org/software/chess/>
 
 is a chess game against the Stockfish engine.
 
-Website: <https://github.com/nickzuber/chs> ⭐ 219 | 🐛 21 | 🌐 Python | 📅 2022-07-28
+Website: <https://github.com/nickzuber/chs> ⭐ 220 | 🐛 21 | 🌐 Python | 📅 2022-07-28
 
 ### chimaera
 
@@ -697,7 +697,7 @@ Website: <https://code.google.com/archive/p/cryptrover/>
 is a small collection of solitaire/patience games
 (Klondike, FreeCell, Spider, Yukon, etc.).
 
-Website: <https://github.com/nielssp/csol> ⭐ 118 | 🐛 0 | 🌐 C | 📅 2025-07-19
+Website: <https://github.com/nielssp/csol> ⭐ 119 | 🐛 0 | 🌐 C | 📅 2025-07-19
 
 Wikipedia: <https://en.wikipedia.org/wiki/Solitaire>
 
@@ -946,7 +946,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
 is a clone of Minesweeper game.
 
-Website: <https://github.com/rwestlund/freesweep> ⭐ 27 | 🐛 4 | 🌐 C | 📅 2024-04-19
+Website: <https://github.com/rwestlund/freesweep> ⭐ 28 | 🐛 4 | 🌐 C | 📅 2024-04-19
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 44 | 🌐 Java | 📅 2026-10-31
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 42 | 🌐 Java | 📅 2026-11-01
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 49 | 🐛 44 | 🌐 Java | 📅 2026-10-31
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 42 | 🌐 Java | 📅 2026-11-01
 
 ### Let it Ride
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,296 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,297 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

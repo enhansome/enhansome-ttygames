@@ -507,7 +507,7 @@
                 "open_issues": 21,
                 "owner": "nickzuber",
                 "repo": "chs",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -664,7 +664,7 @@
                 "open_issues": 0,
                 "owner": "nielssp",
                 "repo": "csol",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "c",
                   "card-game",
@@ -968,7 +968,7 @@
                 "open_issues": 4,
                 "owner": "rwestlund",
                 "repo": "freesweep",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -1257,11 +1257,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T21:26:46Z",
-                "open_issues": 44,
+                "last_commit": "2026-11-01T22:57:01Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -1393,11 +1393,11 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T21:26:46Z",
-                "open_issues": 44,
+                "last_commit": "2026-11-01T22:57:01Z",
+                "open_issues": 42,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "ascii",
                   "ascii-game",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3296,
+                "stars": 3297,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:44:45.624Z",
+    "last_updated": "2026-11-01T23:54:00.537Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
