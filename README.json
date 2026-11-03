@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T22:57:01Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-02T01:21:05Z",
+                "open_issues": 44,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 50,
@@ -1365,7 +1365,7 @@
                 "open_issues": 0,
                 "owner": "taviso",
                 "repo": "katamascii",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "ascii-art",
                   "game",
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T22:57:01Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-02T01:21:05Z",
+                "open_issues": 44,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 50,
@@ -2838,40 +2838,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Website: https://github.com/AtomicPair/wolfentext3d",
-              "description": "AtomicPair/wolfentext3d",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "3-D dungeon crawling in your terminal!",
-                "homepage": null,
-                "id": 53402556,
-                "language": "Ruby",
-                "license": null,
-                "last_commit": "2019-12-11T00:17:21Z",
-                "open_issues": 9,
-                "owner": "AtomicPair",
-                "repo": "wolfentext3d",
-                "stars": 126,
-                "topics": [
-                  "cross-platform",
-                  "fps",
-                  "ruby",
-                  "terminal-game",
-                  "text-based-game"
-                ]
-              },
-              "first_seen": "2026-08-28T04:28:32.517Z"
-            }
-          ],
-          "description": "is a 3-D dungeon crawling game.",
-          "node_type": "group",
-          "title": "Wolfentext3D"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Website: https://github.com/ajeetdsouza/clidle",
               "description": "ajeetdsouza/clidle",
               "children": [],
@@ -2886,7 +2852,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3048,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:54:00.537Z",
+    "last_updated": "2026-11-03T02:38:36.267Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

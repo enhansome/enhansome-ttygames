@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 42 | 🌐 Java | 📅 2026-11-01
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 44 | 🌐 Java | 📅 2026-11-02
 
 ### lights
 
@@ -1331,7 +1331,7 @@ Website: <https://github.com/sergev/landing-rust> ⭐ 1 | 🐛 0 | 🌐 C++ | �
 is a puzzle game, roll around your terminal collecting
 ASCII-art objects.
 
-Website: <https://github.com/taviso/katamascii> ⭐ 45 | 🐛 0 | 🌐 C | 📅 2022-05-25
+Website: <https://github.com/taviso/katamascii> ⭐ 46 | 🐛 0 | 🌐 C | 📅 2022-05-25
 
 ### keeperrl
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 42 | 🌐 Java | 📅 2026-11-01
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 44 | 🌐 Java | 📅 2026-11-02
 
 ### Let it Ride
 
@@ -2715,7 +2715,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/WarGames>
 
 is a 3-D dungeon crawling game.
 
-Website: <https://github.com/AtomicPair/wolfentext3d> ⭐ 126 | 🐛 9 | 🌐 Ruby | 📅 2019-12-11
+Website: <https://github.com/AtomicPair/wolfentext3d>
 
 ### worm
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 639 | 🐛 1 | 🌐 Go | 📅 2026-10-08
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 640 | 🐛 1 | 🌐 Go | 📅 2026-10-08
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
