@@ -1257,7 +1257,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T00:17:50Z",
+                "last_commit": "2026-11-06T21:08:44Z",
                 "open_issues": 47,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -1393,7 +1393,7 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T00:17:50Z",
+                "last_commit": "2026-11-06T21:08:44Z",
                 "open_issues": 47,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
@@ -1576,7 +1576,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone. You might want to star the repo, many fans forget to do so.",
+                "description": "A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone. You might want to star the repo if you like it.",
                 "homepage": null,
                 "id": 149785411,
                 "language": "C",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:07:42.628Z",
+    "last_updated": "2026-11-07T00:20:03.325Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3026,7 +3026,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1032,
+      "stars": 1033,
       "topics": [
         "ascii",
         "ascii-art",
