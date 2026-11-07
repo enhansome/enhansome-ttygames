@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 672 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 673 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 317 | 🐛 2 | 🌐 C | 📅 2026-10-24
+Website: <https://github.com/abakh/nbsdgames> ⭐ 318 | 🐛 4 | 🌐 C | 📅 2026-11-07
 
 ### nclife
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 640 | 🐛 1 | 🌐 Go | 📅 2026-10-08
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 641 | 🐛 1 | 🌐 Go | 📅 2026-11-07
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
