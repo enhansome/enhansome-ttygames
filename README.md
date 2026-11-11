@@ -526,7 +526,7 @@ is a two-player board game.
 
 is a chess game implemented in sed utility.
 
-Website: <https://github.com/bolknote/SedChess> ⭐ 297 | 🐛 3 | 📅 2013-08-28
+Website: <https://github.com/bolknote/SedChess> ⭐ 296 | 🐛 3 | 📅 2013-08-28
 
 ### conix
 
@@ -1062,7 +1062,7 @@ Website: <https://github.com/bolknote/gopnik2> ⭐ 10 | 🐛 0 | 🌐 C++ | 📅
 
 is a a clone of "Scorched Earth" game.
 
-Website: <https://github.com/zladovan/gorched> ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2025-07-27
+Website: <https://github.com/zladovan/gorched> ⭐ 434 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 
 ### gpcslots2
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,310 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,311 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 641 | 🐛 1 | 🌐 Go | 📅 2026-11-07
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 642 | 🐛 1 | 🌐 Go | 📅 2026-11-07
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

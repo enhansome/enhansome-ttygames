@@ -479,7 +479,7 @@
                 "open_issues": 3,
                 "owner": "bolknote",
                 "repo": "SedChess",
-                "stars": 297,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -1080,7 +1080,7 @@
                 "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "ascii-game",
                   "ascii-graphics",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3310,
+                "stars": 3311,
                 "topics": [
                   "ai",
                   "chess",
@@ -2852,7 +2852,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:55:10.343Z",
+    "last_updated": "2026-11-11T00:53:47.537Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
