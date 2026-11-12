@@ -1854,7 +1854,7 @@ Website: <https://github.com/berk76/piskworks> ⭐ 8 | 🐛 0 | 🌐 C | 📅 20
 
 is an old school horizontal scroller 'Shoot Them All' game.
 
-Website: <https://github.com/vaniacer/piu-piu-SH> ⭐ 746 | 🐛 3 | 🌐 Shell | 📅 2025-05-28
+Website: <https://github.com/vaniacer/piu-piu-SH> ⭐ 745 | 🐛 3 | 🌐 Shell | 📅 2025-05-28
 
 ### plonx
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
