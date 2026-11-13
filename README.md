@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,478 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,477 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -382,7 +382,7 @@ a black-jack card game.
 
 Bootable minesweeper game in a 512-byte boot sector.
 
-Website: <https://github.com/io12/BootMine> ⭐ 198 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
+Website: <https://github.com/io12/BootMine> ⭐ 199 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -1230,7 +1230,7 @@ Website: <http://mbays.sdf.org/intricacy/>
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
-Website: <https://github.com/nanochess/invaders> ⭐ 523 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
+Website: <https://github.com/nanochess/invaders> ⭐ 524 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
 
 Wikipedia: <https://en.wikipedia.org/wiki/Space_Invaders>
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 701 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 702 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,311 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,312 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 642 | 🐛 1 | 🌐 Go | 📅 2026-11-07
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 641 | 🐛 1 | 🌐 Go | 📅 2026-11-07
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
