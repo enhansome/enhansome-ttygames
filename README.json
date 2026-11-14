@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2477,
+                "stars": 2476,
                 "topics": [
                   "3d",
                   "awk",
@@ -1257,8 +1257,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T23:58:44Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-13T16:03:08Z",
+                "open_issues": 49,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 50,
@@ -1393,8 +1393,8 @@
                 "id": 122837683,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T23:58:44Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-13T16:03:08Z",
+                "open_issues": 49,
                 "owner": "antoniovazquezaraujo",
                 "repo": "LeTrain",
                 "stars": 50,
@@ -2956,7 +2956,7 @@
                 "open_issues": 0,
                 "owner": "DriftingOtter",
                 "repo": "Typr",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -2994,7 +2994,7 @@
                 "open_issues": 2,
                 "owner": "benhoyt",
                 "repo": "zztgo",
-                "stars": 30,
+                "stars": 29,
                 "topics": [
                   "go",
                   "pascal",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:28:20.414Z",
+    "last_updated": "2026-11-14T01:02:05.172Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,477 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,476 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1295,7 +1295,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon>
 
 An ascii railroad simulator in Java
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 47 | 🌐 Java | 📅 2026-11-07
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 49 | 🌐 Java | 📅 2026-11-13
 
 ### lights
 
@@ -1345,7 +1345,7 @@ a train simulator consisting of creating tracks and stations
 along a virtually infinite map, and creating trains and
 earning money by carrying passengers between them.
 
-Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 47 | 🌐 Java | 📅 2026-11-07
+Website: <https://github.com/antoniovazquezaraujo/LeTrain> ⭐ 50 | 🐛 49 | 🌐 Java | 📅 2026-11-13
 
 ### Let it Ride
 
@@ -2897,16 +2897,16 @@ Website: <https://ibiblio.org/pub/linux/games/arcade/ztrack-1.0.tar.gz>
 
 python based typing test game.
 
-Website: <https://github.com/DriftingOtter/Typr> ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-07
+Website: <https://github.com/DriftingOtter/Typr> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-10-07
 
 ### zztgo
 
 a port of Adrian Siekierka’s source code reconstruction of ZZT to Go.
 
-Website: <https://github.com/benhoyt/zztgo> ⭐ 30 | 🐛 2 | 🌐 Go | 📅 2020-06-06
+Website: <https://github.com/benhoyt/zztgo> ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2020-06-06
 
 Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
