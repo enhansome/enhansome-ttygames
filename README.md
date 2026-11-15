@@ -1704,7 +1704,7 @@ Website: <https://github.com/dead-end/nuzzle> ⭐ 6 | 🐛 2 | 🌐 C | 📅 202
 
 a classic Tron game, for your terminal.
 
-Website: <https://github.com/gsobell/lightcycle> ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2024-08-29
+Website: <https://github.com/gsobell/lightcycle> ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-08-29
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tron_(video_game)#Gameplay>
 
@@ -1886,7 +1886,7 @@ Website: <https://www.increpare.com/2008/11/portile/>
 
 A curses-style space shooter written in Go, using the Tcell package.
 
-Website: <https://github.com/gdamore/proxima5> ⭐ 113 | 🐛 16 | 🌐 Go | 📅 2023-03-22
+Website: <https://github.com/gdamore/proxima5> ⭐ 114 | 🐛 16 | 🌐 Go | 📅 2023-03-22
 
 ### Puyo on Vim
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,312 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,313 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
