@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 702 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 703 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

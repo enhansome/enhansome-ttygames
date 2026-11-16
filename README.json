@@ -1824,7 +1824,7 @@
                 "open_issues": 4,
                 "owner": "tsoding",
                 "repo": "pinpog",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "assembly-language",
                   "bios",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:16:55.085Z",
+    "last_updated": "2026-11-16T00:22:16.793Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
