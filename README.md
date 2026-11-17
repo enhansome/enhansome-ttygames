@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 673 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 674 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -191,7 +191,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Apple_Trek>
 
 is a clone of arcade game Arkanoid.
 
-Website: <https://github.com/bolknote/shellgames/blob/master/arcanoid.sh> ⭐ 90 | 🐛 0 | 🌐 Shell | 📅 2025-02-10
+Website: <https://github.com/bolknote/shellgames/blob/master/arcanoid.sh> ⭐ 92 | 🐛 0 | 🌐 Shell | 📅 2025-02-10
 
 Wikipedia: <https://en.wikipedia.org/wiki/Arkanoid>
 
@@ -526,7 +526,7 @@ is a two-player board game.
 
 is a chess game implemented in sed utility.
 
-Website: <https://github.com/bolknote/SedChess> ⭐ 296 | 🐛 3 | 📅 2013-08-28
+Website: <https://github.com/bolknote/SedChess> ⭐ 297 | 🐛 3 | 📅 2013-08-28
 
 ### conix
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 318 | 🐛 3 | 🌐 C | 📅 2026-11-07
+Website: <https://github.com/abakh/nbsdgames> ⭐ 319 | 🐛 3 | 🌐 C | 📅 2026-11-07
 
 ### nclife
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 363 | 🐛 25 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 362 | 🐛 25 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

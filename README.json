@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "2048",
                   "2048-clone",
@@ -120,7 +120,7 @@
                 "open_issues": 0,
                 "owner": "bolknote",
                 "repo": "shellgames",
-                "stars": 90,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -479,7 +479,7 @@
                 "open_issues": 3,
                 "owner": "bolknote",
                 "repo": "SedChess",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -1576,7 +1576,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A package of 21 new, improved, human-written, underrated, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone. You might want to star the repo if you like it. ",
+                "description": "A package of 21 text-based games. Some are entirely original ideas. Better, lighter, freer than most games ever made. Years of free, fun and endless brain exercise for everyone. Human code.",
                 "homepage": null,
                 "id": 149785411,
                 "language": "C",
@@ -1585,7 +1585,7 @@
                 "open_issues": 3,
                 "owner": "abakh",
                 "repo": "nbsdgames",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "ascii-game",
                   "battleship",
@@ -2702,7 +2702,7 @@
                 "open_issues": 25,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 363,
+                "stars": 362,
                 "topics": [
                   "c",
                   "ncurses",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:22:16.793Z",
+    "last_updated": "2026-11-17T03:09:45.078Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
