@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3313,
+                "stars": 3315,
                 "topics": [
                   "ai",
                   "chess",
@@ -2399,7 +2399,7 @@
                 "open_issues": 29,
                 "owner": "taylorconor",
                 "repo": "tinytetris",
-                "stars": 3300,
+                "stars": 3301,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:32.517Z"
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:09:45.078Z",
+    "last_updated": "2026-11-18T02:35:24.681Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",

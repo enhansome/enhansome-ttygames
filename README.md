@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,313 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,315 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,300 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,301 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
