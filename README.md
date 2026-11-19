@@ -1062,7 +1062,7 @@ Website: <https://github.com/bolknote/gopnik2> ⭐ 10 | 🐛 0 | 🌐 C++ | 📅
 
 is a a clone of "Scorched Earth" game.
 
-Website: <https://github.com/zladovan/gorched> ⭐ 434 | 🐛 1 | 🌐 Go | 📅 2025-07-27
+Website: <https://github.com/zladovan/gorched> ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 
 ### gpcslots2
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,315 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,316 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
