@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 674 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 673 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -275,7 +275,7 @@ Website: <http://avanor.sourceforge.net/>
 Pseudo-3D shooter written completely in gawk using raycasting
 technique
 
-Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,476 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
+Website: <https://github.com/TheMozg/awk-raycaster> ⭐ 2,475 | 🐛 1 | 🌐 Awk | 📅 2023-01-20
 
 ### backgammon
 
@@ -1062,7 +1062,7 @@ Website: <https://github.com/bolknote/gopnik2> ⭐ 10 | 🐛 0 | 🌐 C++ | 📅
 
 is a a clone of "Scorched Earth" game.
 
-Website: <https://github.com/zladovan/gorched> ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2025-07-27
+Website: <https://github.com/zladovan/gorched> ⭐ 432 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 
 ### gpcslots2
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 319 | 🐛 3 | 🌐 C | 📅 2026-11-07
+Website: <https://github.com/abakh/nbsdgames> ⭐ 318 | 🐛 3 | 🌐 C | 📅 2026-11-07
 
 ### nclife
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,316 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,315 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2736,7 +2736,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 is a clone of Wordle, Wordle over SSH.
 
-Website: <https://github.com/ajeetdsouza/clidle> ⭐ 641 | 🐛 1 | 🌐 Go | 📅 2026-11-07
+Website: <https://github.com/ajeetdsouza/clidle> ⭐ 640 | 🐛 1 | 🌐 Go | 📅 2026-11-07
 
 **Play**: `ssh clidle.ddns.net -p 3000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

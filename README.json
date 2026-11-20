@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "mevdschee",
                 "repo": "2048.c",
-                "stars": 674,
+                "stars": 673,
                 "topics": [
                   "2048",
                   "2048-clone",
@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2476,
+                "stars": 2475,
                 "topics": [
                   "3d",
                   "awk",
@@ -1080,7 +1080,7 @@
                 "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "ascii-game",
                   "ascii-graphics",
@@ -1585,7 +1585,7 @@
                 "open_issues": 3,
                 "owner": "abakh",
                 "repo": "nbsdgames",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "ascii-game",
                   "battleship",
@@ -2280,7 +2280,7 @@
                 "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3316,
+                "stars": 3315,
                 "topics": [
                   "ai",
                   "chess",
@@ -2852,7 +2852,7 @@
                 "open_issues": 1,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 641,
+                "stars": 640,
                 "topics": [
                   "cli",
                   "command-line",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:59:48.294Z",
+    "last_updated": "2026-11-20T01:53:38.142Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3026,7 +3026,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1037,
+      "stars": 1036,
       "topics": [
         "ascii",
         "ascii-art",
