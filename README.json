@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2475,
+                "stars": 2476,
                 "topics": [
                   "3d",
                   "awk",
@@ -1582,7 +1582,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T02:28:07Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "abakh",
                 "repo": "nbsdgames",
                 "stars": 318,
@@ -2277,7 +2277,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:09:21Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "thomasahle",
                 "repo": "sunfish",
                 "stars": 3315,
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:53:38.142Z",
+    "last_updated": "2026-11-21T01:44:22.831Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
