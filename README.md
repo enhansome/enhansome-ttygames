@@ -382,7 +382,7 @@ a black-jack card game.
 
 Bootable minesweeper game in a 512-byte boot sector.
 
-Website: <https://github.com/io12/BootMine> ⭐ 199 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
+Website: <https://github.com/io12/BootMine> ⭐ 200 | 🐛 0 | 🌐 Assembly | 📅 2021-01-21
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,301 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,300 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
