@@ -1230,7 +1230,7 @@ Website: <http://mbays.sdf.org/intricacy/>
 
 is a clone of Space Invaders game in 512 bytes (boot sector).
 
-Website: <https://github.com/nanochess/invaders> ⭐ 524 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
+Website: <https://github.com/nanochess/invaders> ⭐ 525 | 🐛 1 | 🌐 Assembly | 📅 2022-01-18
 
 Wikipedia: <https://en.wikipedia.org/wiki/Space_Invaders>
 
@@ -1567,7 +1567,7 @@ Website: <https://myman.sourceforge.io/>
 
 New BSD Games is a package of 18 text-based modern games.
 
-Website: <https://github.com/abakh/nbsdgames> ⭐ 318 | 🐛 5 | 🌐 C | 📅 2026-11-07
+Website: <https://github.com/abakh/nbsdgames> ⭐ 318 | 🐛 3 | 🌐 C | 📅 2026-11-22
 
 ### nclife
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,315 | 🐛 7 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,316 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

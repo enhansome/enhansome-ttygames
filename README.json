@@ -1172,7 +1172,7 @@
                 "open_issues": 1,
                 "owner": "nanochess",
                 "repo": "Invaders",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "asm",
                   "bootloader",
@@ -1581,8 +1581,8 @@
                 "id": 149785411,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T02:28:07Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-22T05:21:15Z",
+                "open_issues": 3,
                 "owner": "abakh",
                 "repo": "nbsdgames",
                 "stars": 318,
@@ -2277,10 +2277,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:09:21Z",
-                "open_issues": 7,
+                "open_issues": 4,
                 "owner": "thomasahle",
                 "repo": "sunfish",
-                "stars": 3315,
+                "stars": 3316,
                 "topics": [
                   "ai",
                   "chess",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:40:29.782Z",
+    "last_updated": "2026-11-23T01:07:27.750Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
