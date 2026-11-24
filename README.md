@@ -548,7 +548,7 @@ Website: <https://www.gnu.org/software/chess/>
 
 is a chess game against the Stockfish engine.
 
-Website: <https://github.com/nickzuber/chs> ⭐ 220 | 🐛 21 | 🌐 Python | 📅 2022-07-28
+Website: <https://github.com/nickzuber/chs> ⭐ 219 | 🐛 21 | 🌐 Python | 📅 2022-07-28
 
 ### chimaera
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
