@@ -48,7 +48,7 @@ Website: <https://github.com/hackndev/0verkill> ⭐ 53 | 🐛 3 | 🌐 C | 📅 
 
 is a clone of 2048 game.
 
-Website: <https://github.com/mevdschee/2048.c> ⭐ 673 | 🐛 1 | 🌐 C | 📅 2026-10-07
+Website: <https://github.com/mevdschee/2048.c> ⭐ 672 | 🐛 1 | 🌐 C | 📅 2026-10-07
 
 Wikipedia: <https://en.wikipedia.org/wiki/2048_(video_game)>
 
@@ -2377,7 +2377,7 @@ Website: <https://gitlab.com/dustyweb/terminal-phase>
 
 is a 80x23 terminal tetris
 
-Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,300 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
+Website: <https://github.com/taylorconor/tinytetris> ⭐ 3,299 | 🐛 29 | 🌐 C++ | 📅 2024-07-09
 
 Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
