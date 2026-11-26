@@ -1062,7 +1062,7 @@ Website: <https://github.com/bolknote/gopnik2> ⭐ 10 | 🐛 0 | 🌐 C++ | 📅
 
 is a a clone of "Scorched Earth" game.
 
-Website: <https://github.com/zladovan/gorched> ⭐ 432 | 🐛 1 | 🌐 Go | 📅 2025-07-27
+Website: <https://github.com/zladovan/gorched> ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2025-07-27
 
 ### gpcslots2
 
@@ -2557,7 +2557,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Tetris>
 
 is a clone of Klondike solitaire game.
 
-Website: <https://github.com/mpereira/tty-solitaire> ⭐ 362 | 🐛 25 | 🌐 C | 📅 2025-05-03
+Website: <https://github.com/mpereira/tty-solitaire> ⭐ 363 | 🐛 25 | 🌐 C | 📅 2025-05-03
 
 **Play**: `telnet mud.darkerrealms.org 2000`
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

@@ -1080,7 +1080,7 @@
                 "open_issues": 1,
                 "owner": "zladovan",
                 "repo": "gorched",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "ascii-game",
                   "ascii-graphics",
@@ -2702,7 +2702,7 @@
                 "open_issues": 25,
                 "owner": "mpereira",
                 "repo": "tty-solitaire",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "c",
                   "ncurses",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:44:21.238Z",
+    "last_updated": "2026-11-26T03:06:11.153Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
@@ -3026,7 +3026,7 @@
       "open_issues": 15,
       "owner": "ligurio",
       "repo": "awesome-ttygames",
-      "stars": 1036,
+      "stars": 1037,
       "topics": [
         "ascii",
         "ascii-art",
