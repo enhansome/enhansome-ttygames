@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "TheMozg",
                 "repo": "awk-raycaster",
-                "stars": 2476,
+                "stars": 2477,
                 "topics": [
                   "3d",
                   "awk",
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:06:11.153Z",
+    "last_updated": "2026-11-27T03:15:50.489Z",
     "original_repository_info": {
       "archived": false,
       "description": " Unix ASCII games",
