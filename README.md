@@ -946,7 +946,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
 is a clone of Minesweeper game.
 
-Website: <https://github.com/rwestlund/freesweep> ⭐ 28 | 🐛 4 | 🌐 C | 📅 2024-04-19
+Website: <https://github.com/rwestlund/freesweep> ⭐ 27 | 🐛 4 | 🌐 C | 📅 2024-04-19
 
 Wikipedia: <https://en.wikipedia.org/wiki/Minesweeper_(video_game)>
 
@@ -1834,7 +1834,7 @@ Website: <https://github.com/nanochess/pillman> ⭐ 319 | 🐛 2 | 🌐 Assembly
 
 is game in Assembly that works without OS.
 
-Website: <https://github.com/tsoding/pinpog> ⭐ 703 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
+Website: <https://github.com/tsoding/pinpog> ⭐ 702 | 🐛 4 | 🌐 Assembly | 📅 2021-08-27
 
 ### pinochle
 
@@ -2331,7 +2331,7 @@ Website: <https://www.mipmip.org/C_games/>
 
 is a chess engine in 111 lines of code.
 
-Website: <https://github.com/thomasahle/sunfish> ⭐ 3,316 | 🐛 4 | 🌐 Python | 📅 2026-08-27
+Website: <https://github.com/thomasahle/sunfish> ⭐ 3,317 | 🐛 4 | 🌐 Python | 📅 2026-08-27
 
 ### taipan
 
@@ -2909,4 +2909,4 @@ Wikipedia: <https://en.wikipedia.org/wiki/ZZT>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
